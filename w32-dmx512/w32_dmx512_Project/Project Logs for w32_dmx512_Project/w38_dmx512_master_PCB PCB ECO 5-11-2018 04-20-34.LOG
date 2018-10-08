@@ -1,0 +1,8 @@
+Added Component: Designator=HD1(HED3)
+Added Component: Designator=K?(HEADER-1X3)
+Added Pin To Net: NetName=GND Pin=HD1-1
+Added Pin To Net: NetName=NetCN1_2 Pin=HD1-2
+Added Pin To Net: NetName=NetCN1_3 Pin=HD1-3
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component HD1 Header 3
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component K? HEADER-1X3
+Added Room: Name=w32_dmx512_Schematic

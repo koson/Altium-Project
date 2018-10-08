@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P2 Old Comment=Header 2 - M New Comment=Header 4 - M
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Added Member To Class: ClassName=MDBT42Q Member=Component P3 Header 4 - M
+Added Room: Name=MDBT42Q

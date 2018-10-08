@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MD_RESET Pin=B1-10
+Removed Pin From Net: NetName=SWDCLK Pin=B1-11
+Added Pin To Net: NetName=SWDCLK Pin=B1-6
+Added Pin To Net: NetName=MD_RESET Pin=B1-7
+Added Room: Name=MDBT42Q

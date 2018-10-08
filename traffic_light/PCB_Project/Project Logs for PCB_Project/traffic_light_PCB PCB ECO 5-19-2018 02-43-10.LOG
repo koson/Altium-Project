@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=traffic_light_schematic Member=IC?
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Net Name : Old Net Name=NetIC4_3 New Net Name=NetIC1_1
+Change Net Name : Old Net Name=NetIC5_10 New Net Name=NetIC1_2
+Added Member To Class: ClassName=traffic_light_schematic Member=Component IC1 4017

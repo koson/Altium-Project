@@ -1,0 +1,30 @@
+Added Component: Designator=C11(Cap_X)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(Cap_X)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES_X)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RES_X)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RES_X)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(RES_X)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetD5_1 Pin=R6-1
+Added Pin To Net: NetName=NetC14_1 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Member To Class: ClassName=MDBT42Q Member=Component C11 68pF/50V
+Added Member To Class: ClassName=MDBT42Q Member=Component C14 68pF/50V
+Added Member To Class: ClassName=MDBT42Q Member=Component R6 33K
+Added Member To Class: ClassName=MDBT42Q Member=Component R7 0R
+Added Member To Class: ClassName=MDBT42Q Member=Component R9 2R7
+Added Member To Class: ClassName=MDBT42Q Member=Component R10 2R7

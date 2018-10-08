@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=SW Old Footprint=SW2 New Footprint=SW-SMD
+Change Component Comment : Designator=SW Old Comment=SW New Comment=SW-SMD
+Change component parameters: Designator = "SW"; Footprint = "SW-SMD"; UniqueID = "\QFNUJLSY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Room: Name=MDBT42Q

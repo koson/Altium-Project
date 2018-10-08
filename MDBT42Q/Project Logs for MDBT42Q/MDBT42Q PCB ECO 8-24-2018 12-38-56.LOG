@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWM_YELLOW Pin=-1
+Removed Pin From Net: NetName=PWM_WHITE Pin=-2
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=STLinkV2
+Added Pin To Net: NetName=PWM_WHITE Pin=P2-1
+Added Pin To Net: NetName=PWM_YELLOW Pin=P2-2
+Added Member To Class: ClassName=MDBT42Q Member=Component STLinkV2 Header 4X2
+Added Room: Name=MDBT42Q

@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=1nF/1KV
+Change Component Footprint: Designator=C11 Old Footprint=0805 New Footprint=Cap_X
+Change Component Footprint: Designator=C14 Old Footprint=0805 New Footprint=Cap_X
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=RES_X
+Change Component Footprint: Designator=R5 Old Footprint=0805 New Footprint=RES_X
+Change Component Footprint: Designator=R6 Old Footprint=0805 New Footprint=RES_X
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=RES_X
+Change Component Footprint: Designator=R9 Old Footprint=0805 New Footprint=RES_X
+Change Component Footprint: Designator=R10 Old Footprint=0805 New Footprint=RES_X
+Change Component Footprint: Designator=R3 Old Footprint=1206 New Footprint=RES_X
+Change Component Footprint: Designator=L2 Old Footprint=BA EFD20 5*5 New Footprint=MBA-9
+Change Component Footprint: Designator=C13 Old Footprint=CAP ISOLATE PITCH 10mm New Footprint=CAP ISOLATOR
+Change Component Footprint: Designator=L1 Old Footprint=CUON LOC VLU0808 New Footprint=INDUCTOR_x
+Change Component Footprint: Designator=D4 Old Footprint=Diode ABS New Footprint=ABS16
+Change Component Footprint: Designator=D3 Old Footprint=DIODE DO27 New Footprint=FR107
+Change Component Footprint: Designator=D5 Old Footprint=DIODE DO27 New Footprint=FR107
+Change Component Footprint: Designator=D2 Old Footprint=DIODE DO27 New Footprint=SF18G
+Change Component Footprint: Designator=F1 Old Footprint=FUSE CAM 14mm New Footprint=Pulse
+Change Component Footprint: Designator=U2 Old Footprint=IC-SOP8 New Footprint=MP024-10
+Change Component Footprint: Designator=C8 Old Footprint=PCBComponent_1 New Footprint=FNR07K561
+Change Component Footprint: Designator=R1 Old Footprint=R1/4WD New Footprint=R1W dung
+Change Component Footprint: Designator=C10 Old Footprint=TU HOA 8x12mm P3.5 New Footprint=4.7uF/400V
+Change Component Footprint: Designator=C12 Old Footprint=TU HOA 8x12mm P3.5 New Footprint=10uF/50V
+Change Component Footprint: Designator=C2 Old Footprint=TU HOA 8x12mm P3.5 New Footprint=220uF/25V
+Change Component Footprint: Designator=C9 Old Footprint=TU MKP 104 New Footprint=104/305V MKP

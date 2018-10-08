@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PWM_WHITE Pin=PWM-1
+Removed Pin From Net: NetName=PWM_X Pin=PWM-3
+Added Pin To Net: NetName=PWM_X Pin=PWM-1
+Added Pin To Net: NetName=PWM_WHTE Pin=PWM-3
+Added Net: Name=PWM_WHTE
+Added Room: Name=MDBT42Q

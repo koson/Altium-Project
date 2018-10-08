@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3.3V Pin=M1-35
+Removed Pin From Net: NetName=+3.3V Pin=M1-36
+Added Pin To Net: NetName=MD_RESET Pin=M1-35
+Added Pin To Net: NetName=SWDCLK Pin=M1-36
+Added Member To Class: ClassName=MDBT42Q Member=Component C5 2u2
+Added Room: Name=MDBT42Q

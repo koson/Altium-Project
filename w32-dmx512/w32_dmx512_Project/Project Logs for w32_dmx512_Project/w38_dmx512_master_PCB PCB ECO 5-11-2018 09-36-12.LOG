@@ -1,0 +1,3 @@
+Added Component: Designator=JP1(HED2)
+Added Pin To Net: NetName=GND Pin=6N137-5
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component JP1 JP4x1-2.0

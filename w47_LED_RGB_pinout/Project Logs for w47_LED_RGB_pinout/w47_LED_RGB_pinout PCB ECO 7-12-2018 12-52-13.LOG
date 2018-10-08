@@ -1,0 +1,33 @@
+Added Component: Designator=*(JP5)
+Added Component: Designator=J3(JP3)
+Added Component: Designator=J4(JP3)
+Added Component: Designator=JP1(J4-D1T)
+Added Component: Designator=JP2(JP6)
+Added Component: Designator=LED1(LED RGB 5050)
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=JP2-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=LED1-4
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=LED1-5
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=LED1-6
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=LED1-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=LED1-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=LED1-3
+Added Net: Name=NetJ4_3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component * JP5
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component J3 Jumper 3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component J4 Jumper 3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component JP1 JP4x1-2.0
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component JP2 JP6 PIN
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component LED1 150141M173100
+Added Room: Name=w47_LED_RGB_pinout

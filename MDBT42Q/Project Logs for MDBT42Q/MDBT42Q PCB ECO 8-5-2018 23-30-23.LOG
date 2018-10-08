@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=OSC-In Pin=Y1-1
+Removed Pin From Net: NetName=OSC-Out Pin=Y1-2
+Added Pin To Net: NetName=OSC-Out Pin=Y1-1
+Added Pin To Net: NetName=OSC-In Pin=Y1-2
+Added Room: Name=MDBT42Q

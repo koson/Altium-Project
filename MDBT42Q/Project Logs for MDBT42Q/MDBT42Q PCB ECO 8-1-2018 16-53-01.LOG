@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=MD_RESET Pin=M1-35
+Removed Pin From Net: NetName=SWDCLK Pin=M1-36
+Removed Member From Class: ClassName=MDBT42Q Member=LED1
+Added Component: Designator=C7(HDR4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=C8(JP3-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=C5-1
+Added Pin To Net: NetName=+3.3V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=+3.3V Pin=D2-1
+Added Pin To Net: NetName=+3.3V Pin=D3-1
+Added Pin To Net: NetName=+3.3V Pin=D4-1
+Added Pin To Net: NetName=+3.3V Pin=D5-1
+Added Pin To Net: NetName=+3.3V Pin=M1-35
+Added Pin To Net: NetName=+3.3V Pin=M1-36
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=PA2 Pin=B1-8
+Added Pin To Net: NetName=PA2 Pin=D2-2
+Added Pin To Net: NetName=PA2 Pin=P1-1
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=B1-9
+Added Pin To Net: NetName=PA3 Pin=D3-2
+Added Pin To Net: NetName=PA3 Pin=P1-2
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=B1-10
+Added Pin To Net: NetName=PA4 Pin=D4-2
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=B1-11
+Added Pin To Net: NetName=PA5 Pin=D5-2
+Added Net: Name=PA5
+Added Member To Class: ClassName=MDBT42Q Member=Component C7 Header4
+Added Member To Class: ClassName=MDBT42Q Member=Component C8 JP3
+Added Member To Class: ClassName=MDBT42Q Member=Component D1 LED SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component D2 LED SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component D3 LED SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component D4 LED SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component D5 LED SMD
+Added Room: Name=MDBT42Q

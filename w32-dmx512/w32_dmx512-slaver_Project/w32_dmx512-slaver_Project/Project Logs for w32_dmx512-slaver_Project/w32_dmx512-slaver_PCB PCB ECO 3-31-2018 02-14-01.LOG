@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=S2 NewDesignator=OK
+Change Component Designator: OldDesignator=S3 NewDesignator=TRAM
+Change Component Designator: OldDesignator=S4 NewDesignator=CHUC
+Change Component Designator: OldDesignator=S5 NewDesignator=DONVI
+Added Room: Name=w32_dmx512-slaver_Schematic

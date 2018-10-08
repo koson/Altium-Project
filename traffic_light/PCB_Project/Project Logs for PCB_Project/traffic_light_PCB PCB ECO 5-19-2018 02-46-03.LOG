@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetIC1_3 Pin=U2-1
+Removed Pin From Net: NetName=NetIC2_1 Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=VCC Pin=U2-14
+Removed Member From Class: ClassName=traffic_light_schematic Member=U2
+Change Component Designator: OldDesignator=IC1 NewDesignator=NOT
+Added Component: Designator=IC?(DIP14/W0.3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetIC1_3 Pin=IC?-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC2_1 Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-7
+Added Pin To Net: NetName=VCC Pin=IC?-14
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetIC4_3
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetIC5_10
+Added Member To Class: ClassName=traffic_light_schematic Member=Component IC? 7432
+Added Member To Class: ClassName=traffic_light_schematic Member=Component NOT 7404
+Added Room: Name=traffic_light_schematic

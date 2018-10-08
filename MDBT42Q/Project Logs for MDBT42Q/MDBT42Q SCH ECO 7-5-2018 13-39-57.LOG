@@ -1,0 +1,8 @@
+Change Component Comment: Designator=C1 Old Comment=10uF New Comment=Value
+Change Component Comment: Designator=C2 Old Comment=100n New Comment=Value
+Change Pin Designator/Name:  Old Designator=B1-8 Old Name=PA2 New Designator =PA3 New Name=9
+Change Pin Designator/Name:  Old Designator=B1-9 Old Name=PA3 New Designator =PA2 New Name=8
+Change Pin Designator/Name:  Old Designator=B1-18 Old Name=PA10_(PA12) New Designator =PA13 New Name=19
+Change Pin Designator/Name:  Old Designator=B1-19 Old Name=PA13 New Designator =PA10_(PA12) New Name=18
+Change Pin Designator/Name:  Old Designator=C2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C2-2 Old Name=2 New Designator =1 New Name=1

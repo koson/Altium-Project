@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=JP NewDesignator=STLinkv2
+Added Component: Designator=P?(HDR1X20H)
+Added Member To Class: ClassName=MDBT42Q Member=Component C5 2u2
+Added Member To Class: ClassName=MDBT42Q Member=Component P? Header 20H
+Added Room: Name=MDBT42Q

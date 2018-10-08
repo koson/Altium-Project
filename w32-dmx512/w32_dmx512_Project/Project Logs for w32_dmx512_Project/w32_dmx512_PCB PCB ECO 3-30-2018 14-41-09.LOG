@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NRST Pin=C1-7
+Added Pin To Net: NetName=PB5 Pin=C2-1
+Added Pin To Net: NetName=PB4 Pin=C2-2
+Added Pin To Net: NetName=LCD_EN Pin=C2-3
+Added Pin To Net: NetName=LCD_DB4 Pin=C2-4
+Added Pin To Net: NetName=LCD_DB5 Pin=C2-5
+Added Pin To Net: NetName=LCD_DB6 Pin=C2-6
+Added Pin To Net: NetName=LCD_DB7 Pin=C2-7
+Added Pin To Net: NetName=PD1 Pin=C2-8
+Added Pin To Net: NetName=LCD_RS Pin=C2-9
+Added Pin To Net: NetName=ADC_IN4 Pin=C2-10
+Change Net Name : Old Net Name=+5V_ISOLATOR New Net Name=GISOL
+Added Room: Name=w32_dmx512_Schematic

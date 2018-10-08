@@ -1,0 +1,12 @@
+Added Component: Designator=C10(CN150)
+Added Component: Designator=R12(DIEN TRO 1/4 W)
+Added Component: Designator=S?(Switch)
+Added Pin To Net: NetName=NetCN1_2 Pin=R12-1
+Added Pin To Net: NetName=NetCN1_3 Pin=S?-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=S?-2
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=w32_dmx512-slaver_Schematic Member=Component C10 104
+Added Member To Class: ClassName=w32_dmx512-slaver_Schematic Member=Component R12 R0.4W
+Added Member To Class: ClassName=w32_dmx512-slaver_Schematic Member=Component S? Switch
+Added Room: Name=w32_dmx512-slaver_Schematic

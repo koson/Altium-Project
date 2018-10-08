@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=IC2 NewDesignator=STM8S003F3P6
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=U1 NewDesignator=0505
+Change Component Designator: OldDesignator=U2 NewDesignator=6N137
+Change Component Designator: OldDesignator=U3 NewDesignator=MAX481
+Change Net Name : Old Net Name=NetR1_2 New Net Name=Net6N137_6
+Change Net Name : Old Net Name=NetR2_2 New Net Name=Net6N137_3
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R4 R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R5 R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R6 R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R7 R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R8 R0.4W
+Added Room: Name=w32_dmx512_Schematic

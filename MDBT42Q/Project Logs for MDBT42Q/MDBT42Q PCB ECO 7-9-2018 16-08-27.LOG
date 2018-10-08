@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=INDICATOR Pin=M1-16
+Removed Pin From Net: NetName=WAKEUP Pin=M1-22
+Removed Pin From Net: NetName=UART PD Pin=M1-23
+Removed Pin From Net: NetName=FLASH DEFAULT Pin=M1-25
+Added Room: Name=MDBT42Q

@@ -1,0 +1,15 @@
+Change Component Description : Designator=C3 Old Description=C Series 1206 10 uF 10 V ±10 % Tolerance X5R SMT Multilayer Ceramic Capacitor. T? Tantalium New Description=C Series 1206 10 uF 10 V ±10 % Tolerance X5R SMT Multilayer Ceramic Capacitor. T? Tantalium
+Added Component: Designator=D5(RF107 dung)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(Medium - Header 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetC12_1 Pin=D5-2
+Added Pin To Net: NetName=PWM_WHITE Pin=P2-1
+Added Pin To Net: NetName=PWM_YELLOW Pin=P2-2
+Added Member To Class: ClassName=MDBT42Q Member=Component D5 FR107
+Added Member To Class: ClassName=MDBT42Q Member=Component P2 Header 2 - M
+Added Room: Name=MDBT42Q

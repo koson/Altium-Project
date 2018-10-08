@@ -1,0 +1,13 @@
+Added Member To Class: ClassName=MDBT42Q Member=Component BLE MODULE_MDBT42Q
+Added Member To Class: ClassName=MDBT42Q Member=Component C3 C3216X5R1A106K160AB
+Added Member To Class: ClassName=MDBT42Q Member=Component C4 2u2
+Added Member To Class: ClassName=MDBT42Q Member=Component C6 C3216X5R1A106K160AB
+Added Member To Class: ClassName=MDBT42Q Member=Component C7 10u
+Added Member To Class: ClassName=MDBT42Q Member=Component D1 LED SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component P2 Header 2 - M
+Added Member To Class: ClassName=MDBT42Q Member=Component R2 RESISTOR SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component STLinkV2 Header 4X2
+Added Member To Class: ClassName=MDBT42Q Member=Component STM32 STM32F070F6P6
+Added Member To Class: ClassName=MDBT42Q Member=Component SW SW-SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component U1 AMS1117-3.3
+Added Room: Name=MDBT42Q

@@ -1,0 +1,51 @@
+Added Component: Designator=B1(SOP65P640X120-20N)
+Added Component: Designator=C1(C1206)
+Added Component: Designator=C2(C1206)
+Added Component: Designator=M1(PCB_MDBT42Q_10X16)
+Added Pin To Net: NetName=+3.3V Pin=B1-16
+Added Pin To Net: NetName=+3.3V Pin=C1-1
+Added Pin To Net: NetName=+3.3V Pin=M1-11
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=FLASH DEFAULT Pin=B1-11
+Added Pin To Net: NetName=FLASH DEFAULT Pin=M1-25
+Added Net: Name=FLASH DEFAULT
+Added Pin To Net: NetName=GND Pin=B1-15
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-12
+Added Pin To Net: NetName=GND Pin=M1-24
+Added Pin To Net: NetName=GND Pin=M1-39
+Added Net: Name=GND
+Added Pin To Net: NetName=INDICATOR Pin=B1-10
+Added Pin To Net: NetName=INDICATOR Pin=M1-16
+Added Net: Name=INDICATOR
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_4 Pin=C2-1
+Added Net: Name=NetB1_4
+Added Pin To Net: NetName=PWM_CH1 Pin=B1-12
+Added Net: Name=PWM_CH1
+Added Pin To Net: NetName=PWM_CH2 Pin=B1-13
+Added Net: Name=PWM_CH2
+Added Pin To Net: NetName=UART CTS Pin=B1-6
+Added Pin To Net: NetName=UART CTS Pin=M1-20
+Added Net: Name=UART CTS
+Added Pin To Net: NetName=UART PD Pin=B1-18
+Added Pin To Net: NetName=UART PD Pin=M1-23
+Added Net: Name=UART PD
+Added Pin To Net: NetName=UART RTS Pin=B1-7
+Added Pin To Net: NetName=UART RTS Pin=M1-18
+Added Net: Name=UART RTS
+Added Pin To Net: NetName=UART RX Pin=B1-9
+Added Pin To Net: NetName=UART RX Pin=M1-21
+Added Net: Name=UART RX
+Added Pin To Net: NetName=UART TX Pin=B1-8
+Added Pin To Net: NetName=UART TX Pin=M1-19
+Added Net: Name=UART TX
+Added Pin To Net: NetName=USART1_TX Pin=B1-17
+Added Net: Name=USART1_TX
+Added Pin To Net: NetName=WAKEUP Pin=B1-20
+Added Pin To Net: NetName=WAKEUP Pin=M1-22
+Added Net: Name=WAKEUP
+Added Class: Name=MDBT42Q
+Added Room: Name=MDBT42Q

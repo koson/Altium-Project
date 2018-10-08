@@ -1,0 +1,6 @@
+Added Component: Designator=CN1(NC3FBH1)
+Added Pin To Net: NetName=GISOL Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_2 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component CN1 NC3FBH1
+Added Room: Name=w32_dmx512_Schematic

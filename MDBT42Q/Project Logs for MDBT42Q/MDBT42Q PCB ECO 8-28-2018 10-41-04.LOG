@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U2 Old Footprint=Diode ABS New Footprint=IC-SOP8
+Added Pin To Net: NetName=NetR9_2 Pin=U2-5
+Added Pin To Net: NetName=NetR7_1 Pin=U2-6
+Added Pin To Net: NetName=NetC11_1 Pin=U2-7
+Added Pin To Net: NetName=NetC12_1 Pin=U2-8

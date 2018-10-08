@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=IC1 NewDesignator=LM7085
+Change Component Designator: OldDesignator=U1 NewDesignator=0505
+Change Component Designator: OldDesignator=U2 NewDesignator=6N137
+Change Component Designator: OldDesignator=U3 NewDesignator=MAX481
+Change Net Name : Old Net Name=NetR5_1 New Net Name=Net6N137_3
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetMAX481_1
+Added Room: Name=w32_dmx512-slaver_Schematic

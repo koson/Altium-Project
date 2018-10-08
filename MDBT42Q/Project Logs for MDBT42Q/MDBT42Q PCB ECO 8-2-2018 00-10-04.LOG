@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PWM_X Pin=PWM-2
+Removed Pin From Net: NetName=PWM_YELLOW Pin=PWM-3
+Added Pin To Net: NetName=PWM_YELLOW Pin=PWM-2
+Added Pin To Net: NetName=PWM_X Pin=PWM-3

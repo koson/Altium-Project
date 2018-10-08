@@ -1,0 +1,23 @@
+Change component parameters: Designator = "B1"; Footprint = "SOP65P640X120-20N"; UniqueID = "\TSOUNXRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM32F070F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f070f6p6/stmicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/31/4f/10/5f/a5/32/46/42/DM00141386.pdf/files/DM00141386.pdf/jcr:content/translations/en.DM00141386.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F070F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW(SW2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_4 Pin=R1-1
+Added Pin To Net: NetName=NetB1_4 Pin=SW-1
+Added Pin To Net: NetName=GND Pin=SW-2
+Added Pin To Net: NetName=USART1_RX Pin=B1-19
+Added Net: Name=USART1_RX
+Added Member To Class: ClassName=MDBT42Q Member=Component R1 RESISTOR SMD
+Added Member To Class: ClassName=MDBT42Q Member=Component SW
+Added Room: Name=MDBT42Q

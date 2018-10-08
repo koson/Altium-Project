@@ -1,0 +1,57 @@
+Added Component: Designator=C8(Varistor 10K471-1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(TU MKP 104)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(TU HOA 8x12mm P3.5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(TU HOA 8x12mm P3.5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(DIODE DO27)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(Diode ABS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(DIODE DO27)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(CUON LOC VLU0808)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(BA EFD20 5*5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_1 Pin=C9-1
+Added Pin To Net: NetName=NetC8_2 Pin=C9-2
+Added Pin To Net: NetName=NetC1_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=DRAIN Pin=D3-1
+Added Pin To Net: NetName=NetC1_2 Pin=D3-2
+Added Pin To Net: NetName=NetC8_2 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetC8_1 Pin=D4-3
+Added Pin To Net: NetName=GND Pin=D4-4
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetC12_1 Pin=D5-2
+Added Pin To Net: NetName=NetD4_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Added Pin To Net: NetName=NetC1_1 Pin=L2-1
+Added Pin To Net: NetName=NetC1_1 Pin=L2-1
+Added Pin To Net: NetName=NetC1_1 Pin=L2-1
+Added Pin To Net: NetName=DRAIN Pin=L2-2
+Added Pin To Net: NetName=NetD5_1 Pin=L2-3
+Added Pin To Net: NetName=GND Pin=L2-8
+Added Pin To Net: NetName=NetC14_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Member To Class: ClassName=MDBT42Q Member=Component C8 FNR07K561
+Added Member To Class: ClassName=MDBT42Q Member=Component C9 104/305V MKP
+Added Member To Class: ClassName=MDBT42Q Member=Component C10 4.7uF/400V
+Added Member To Class: ClassName=MDBT42Q Member=Component C12 10uF/50V
+Added Member To Class: ClassName=MDBT42Q Member=Component D3 FR107
+Added Member To Class: ClassName=MDBT42Q Member=Component D4 ABS16
+Added Member To Class: ClassName=MDBT42Q Member=Component D5 FR107
+Added Member To Class: ClassName=MDBT42Q Member=Component L1 3mH
+Added Member To Class: ClassName=MDBT42Q Member=Component L2 EFD20
+Added Member To Class: ClassName=MDBT42Q Member=Component R8 5K6
+Added Room: Name=MDBT42Q

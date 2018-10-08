@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PWM_WHITE Pin=C5-1
+Removed Pin From Net: NetName=PWM_WHITE Pin=C6-1
+Removed Pin From Net: NetName=PWM_WHITE Pin=D1-1
+Removed Pin From Net: NetName=PWM_WHITE Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=C5-1
+Added Pin To Net: NetName=+3.3V Pin=C6-1
+Added Pin To Net: NetName=+3.3V Pin=D1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Member To Class: ClassName=MDBT42Q Member=Component input 12V Header 2 - M
+Added Room: Name=MDBT42Q

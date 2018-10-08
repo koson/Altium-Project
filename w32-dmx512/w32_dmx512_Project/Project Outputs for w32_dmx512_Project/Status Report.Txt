@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [w32_dmx512_Project.PrjPcb]
+   Generated File[w32_dmx512_Project.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:40:27 On 3/30/2018

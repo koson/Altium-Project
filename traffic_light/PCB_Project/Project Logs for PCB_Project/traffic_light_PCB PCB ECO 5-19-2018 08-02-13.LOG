@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR1_1 Pin=VR1-1
+Removed Pin From Net: NetName=NetR1_1 Pin=VR1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=VR1-3
+Removed Member From Class: ClassName=traffic_light_schematic Member=VR1
+Added Component: Designator=VR?(VR-S1)
+Added Pin To Net: NetName=NetR1_1 Pin=VR?-1
+Added Pin To Net: NetName=NetR1_1 Pin=VR?-2
+Added Pin To Net: NetName=NetC1_1 Pin=VR?-3
+Added Member To Class: ClassName=traffic_light_schematic Member=Component VR? 50K
+Added Room: Name=traffic_light_schematic

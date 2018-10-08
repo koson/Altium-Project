@@ -1,0 +1,37 @@
+Added Component: Designator=C(JP2-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Medium - Header 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Medium - Header 3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C-1
+Added Pin To Net: NetName=GND Pin=C-2
+Added Pin To Net: NetName=USART1_TX Pin=P1-1
+Added Pin To Net: NetName=USART1_RX Pin=P1-2
+Added Pin To Net: NetName=PWM_YELLOW Pin=P2-1
+Added Pin To Net: NetName=PWM_WHITE Pin=P2-2
+Added Pin To Net: NetName=MD_RESET Pin=B1-19
+Added Pin To Net: NetName=MD_RESET Pin=M1-35
+Added Net: Name=MD_RESET
+Added Pin To Net: NetName=PWM_BLUE Pin=B1-2
+Added Pin To Net: NetName=PWM_BLUE Pin=P2-3
+Added Net: Name=PWM_BLUE
+Added Member To Class: ClassName=MDBT42Q Member=Component C JP2
+Added Member To Class: ClassName=MDBT42Q Member=Component P1 Header 2 - M
+Added Member To Class: ClassName=MDBT42Q Member=Component P2 Header 3 - M
+Added Room: Name=MDBT42Q

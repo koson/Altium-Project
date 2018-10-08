@@ -1,0 +1,11 @@
+Remove Pin=C2-1 From Net=PB5
+Remove Pin=C2-2 From Net=PB4
+Remove Pin=C2-3 From Net=LCD_EN
+Remove Pin=C2-4 From Net=LCD_DB4
+Remove Pin=C2-5 From Net=LCD_DB5
+Remove Pin=C2-6 From Net=LCD_DB6
+Remove Pin=C2-7 From Net=LCD_DB7
+Remove Pin=C2-8 From Net=PD1
+Remove Pin=C2-9 From Net=LCD_RS
+Remove Pin=C2-10 From Net=ADC_IN4
+Add Pin To Net: Pin=C1-7 Old Net=NetC1_7 New Net=NRST

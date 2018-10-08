@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=input 12V
+Added Pin To Net: NetName=GND Pin=STM32-1
+Added Room: Name=MDBT42Q

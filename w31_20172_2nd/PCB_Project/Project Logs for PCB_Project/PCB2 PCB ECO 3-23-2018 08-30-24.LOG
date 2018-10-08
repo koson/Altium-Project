@@ -1,0 +1,87 @@
+Added Component: Designator=C1(CP2/5)
+Added Component: Designator=C2(CP2/5)
+Added Component: Designator=C3(SM-CAP-3225)
+Added Component: Designator=C4(SM-CAP-3225)
+Added Component: Designator=C5(SM-CAP-3225)
+Added Component: Designator=D1(D5A)
+Added Component: Designator=HD1(HED2)
+Added Component: Designator=HD2(HED2)
+Added Component: Designator=IC1(SOT223-4N)
+Added Component: Designator=J1(JP4x2)
+Added Component: Designator=J2(JP4x2)
+Added Component: Designator=JDC1(DC-IN)
+Added Component: Designator=L1(L01)
+Added Component: Designator=LED1(SM-LED-0805-Red)
+Added Component: Designator=LED2(SM-LED-0805-Red)
+Added Component: Designator=R1(SM-RES-1206)
+Added Component: Designator=R2(SM-RES-1206)
+Added Component: Designator=S1(DIPSWITCH2)
+Added Component: Designator=U1(LM2576t)
+Added Pin To Net: NetName=3V3_IN Pin=C4-2
+Added Pin To Net: NetName=3V3_IN Pin=IC1-2
+Added Pin To Net: NetName=3V3_IN Pin=S1-2
+Added Net: Name=3V3_IN
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=3V3 Pin=J2-3
+Added Pin To Net: NetName=3V3 Pin=J2-4
+Added Pin To Net: NetName=3V3 Pin=LED2-1
+Added Pin To Net: NetName=3V3 Pin=S1-3
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V_IN Pin=C2-1
+Added Pin To Net: NetName=5V_IN Pin=HD2-2
+Added Pin To Net: NetName=5V_IN Pin=IC1-3
+Added Pin To Net: NetName=5V_IN Pin=L1-2
+Added Pin To Net: NetName=5V_IN Pin=S1-1
+Added Pin To Net: NetName=5V_IN Pin=U1-4
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=5V Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-3
+Added Pin To Net: NetName=5V Pin=J1-4
+Added Pin To Net: NetName=5V Pin=LED1-1
+Added Pin To Net: NetName=5V Pin=S1-4
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=HD1-2
+Added Pin To Net: NetName=GND Pin=HD2-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=JDC1-2
+Added Pin To Net: NetName=GND Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-2
+Added Pin To Net: NetName=NetC1_1 Pin=HD1-1
+Added Pin To Net: NetName=NetC1_1 Pin=JDC1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=D1-2
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=NetC5_2 Pin=U1-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-1
+Added Net: Name=NetLED2_2
+Added Class: Name=LM2576-v2
+Added Room: Name=LM2576-v2

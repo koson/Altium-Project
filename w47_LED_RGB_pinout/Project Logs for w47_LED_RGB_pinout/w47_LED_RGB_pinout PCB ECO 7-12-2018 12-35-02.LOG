@@ -1,0 +1,11 @@
+Added Component: Designator=*(JP5)
+Added Component: Designator=JP1(J4-D1T)
+Added Component: Designator=JP2(JP6)
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=JP2-1
+Added Net: Name=Net*_5
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component * JP5
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component JP1 JP4x1-2.0
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component JP2 JP6 PIN
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component LED3 150141M173100
+Added Room: Name=w47_LED_RGB_pinout

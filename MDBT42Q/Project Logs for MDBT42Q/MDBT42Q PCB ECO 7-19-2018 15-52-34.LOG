@@ -1,0 +1,22 @@
+Added Component: Designator=J1(J4-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6200xx11821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "2 April 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "62000411821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=+3.3V Pin=J1-2
+Added Pin To Net: NetName=CLK Pin=B1-20
+Added Pin To Net: NetName=CLK Pin=J1-4
+Added Net: Name=CLK
+Added Pin To Net: NetName=DIO Pin=B1-19
+Added Pin To Net: NetName=DIO Pin=J1-3
+Added Net: Name=DIO
+Added Member To Class: ClassName=MDBT42Q Member=Component J1 JP4x1-2.0
+Added Member To Class: ClassName=MDBT42Q Member=Component P2 Header 2 - M
+Added Room: Name=MDBT42Q

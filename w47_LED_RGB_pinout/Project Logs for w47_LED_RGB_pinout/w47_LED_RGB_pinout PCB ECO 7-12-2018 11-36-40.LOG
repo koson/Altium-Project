@@ -1,0 +1,8 @@
+Added Component: Designator=*(JP5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(JP6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "JP7"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component * JP5
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component JP2 JP6 PIN
+Added Room: Name=w47_LED_RGB_pinout

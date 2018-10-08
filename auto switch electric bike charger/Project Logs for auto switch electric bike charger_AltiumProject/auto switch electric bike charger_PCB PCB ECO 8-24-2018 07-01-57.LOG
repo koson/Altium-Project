@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=IN1L Pin=C2-5
+Added Pin To Net: NetName=IN2L Pin=C2-6
+Added Pin To Net: NetName=IN3L Pin=C2-10
+Added Pin To Net: NetName=IN4L Pin=C3-1
+Added Room: Name=auto switch electric bike charger_schematic

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=UART CTS Pin=B1-6
+Removed Pin From Net: NetName=UART RTS Pin=B1-7
+Added Pin To Net: NetName=UART RTS Pin=B1-6
+Added Pin To Net: NetName=UART CTS Pin=B1-7
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Room: Name=MDBT42Q

@@ -1,0 +1,5 @@
+Added Component: Designator=F1(FUSE CAM 14mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC8_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Member To Class: ClassName=MDBT42Q Member=Component F1 1A

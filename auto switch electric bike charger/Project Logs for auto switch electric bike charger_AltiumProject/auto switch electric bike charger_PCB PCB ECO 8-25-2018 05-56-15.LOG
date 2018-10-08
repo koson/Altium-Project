@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=UP
+Change Component Designator: OldDesignator=SW2 NewDesignator=LEFT
+Change Component Designator: OldDesignator=SW3 NewDesignator=RIGHT
+Change Component Designator: OldDesignator=SW4 NewDesignator=DOWN
+Added Member To Class: ClassName=auto switch electric bike charger_schematic Member=Component C4 JP20
+Added Room: Name=auto switch electric bike charger_schematic

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=LED2
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R5
+Added Room: Name=w32_dmx512_Schematic

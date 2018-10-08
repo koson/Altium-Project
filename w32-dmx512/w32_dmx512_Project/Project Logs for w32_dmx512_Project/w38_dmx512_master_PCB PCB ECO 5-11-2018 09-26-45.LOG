@@ -1,0 +1,6 @@
+Added Component: Designator=M1(STLOGO-SILVER)
+Added Pin To Net: NetName=GND Pin=MAX481-5
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component 6N137
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component LED1 LED
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component M1 STLOGO
+Added Room: Name=w32_dmx512_Schematic

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=LED2 Old Footprint=LED-0805-Blue New Footprint=LED-RED-0805
+Added Member To Class: ClassName=w32_dmx512-slaver_Schematic Member=Component LCD1 LCD 16x2A
+Added Room: Name=w32_dmx512-slaver_Schematic

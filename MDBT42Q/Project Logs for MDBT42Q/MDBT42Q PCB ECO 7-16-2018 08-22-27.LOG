@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=M1-2
+Removed Pin From Net: NetName=GND Pin=M1-3
+Removed Pin From Net: NetName=GND Pin=M1-4
+Removed Pin From Net: NetName=GND Pin=M1-5
+Removed Pin From Net: NetName=GND Pin=M1-6
+Removed Pin From Net: NetName=GND Pin=M1-7
+Removed Pin From Net: NetName=GND Pin=M1-38
+Removed Pin From Net: NetName=GND Pin=M1-40
+Removed Pin From Net: NetName=GND Pin=M1-41
+Added Pin To Net: NetName=SWDCLK Pin=B1-11
+Added Pin To Net: NetName=SWDCLK Pin=M1-36
+Added Net: Name=SWDCLK
+Added Room: Name=MDBT42Q

@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+5V Pin=R8-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=R8-2
+Removed Pin From Net: NetName=+5V Pin=R9-1
+Removed Pin From Net: NetName=NRST Pin=R9-2
+Removed Pin From Net: NetName=+5V Pin=R10-1
+Removed Pin From Net: NetName=NetLED2_1 Pin=R10-2
+Removed Pin From Net: NetName=NetCN1_3 Pin=R11-1
+Removed Pin From Net: NetName=NetCN1_2 Pin=R11-2
+Removed Pin From Net: NetName=+5V_ISOLATOR Pin=R12-1
+Removed Pin From Net: NetName=NetCN1_3 Pin=R12-2
+Removed Pin From Net: NetName=NetCN1_2 Pin=R13-1
+Removed Pin From Net: NetName=+5V_ISOLATOR Pin=R13-2
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R8
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R9
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R10
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R11
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R12
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=R13
+Added Component: Designator=R?(DIEN TRO 1/4 W)
+Added Component: Designator=R?(DIEN TRO 1/4 W)
+Added Component: Designator=R?(DIEN TRO 1/4 W)
+Added Component: Designator=R?(DIEN TRO 1/4 W)
+Added Component: Designator=R?(DIEN TRO 1/4 W)
+Added Component: Designator=R?(DIEN TRO 1/4 W)
+Added Pin To Net: NetName=LCD_RS Pin=LCD1-4
+Added Pin To Net: NetName=LCD_EN Pin=LCD1-6
+Added Pin To Net: NetName=LCD_DB4 Pin=LCD1-11
+Added Pin To Net: NetName=LCD_DB5 Pin=LCD1-12
+Added Pin To Net: NetName=LCD_DB6 Pin=LCD1-13
+Added Pin To Net: NetName=LCD_DB7 Pin=LCD1-14
+Added Pin To Net: NetName=+5V_ISOLATOR Pin=R?-1
+Added Pin To Net: NetName=NetCN1_2 Pin=R?-1
+Added Pin To Net: NetName=NetCN1_3 Pin=R?-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R?-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R?-1
+Added Pin To Net: NetName=NRST Pin=R?-1
+Added Pin To Net: NetName=+5V_ISOLATOR Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=NetCN1_2 Pin=R?-2
+Added Pin To Net: NetName=NetCN1_3 Pin=R?-2
+Added Pin To Net: NetName=PB4 Pin=IC2-12
+Added Net: Name=PB4
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R? R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R? R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R? R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R? R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R? R0.4W
+Added Member To Class: ClassName=w32_dmx512_Schematic Member=Component R? R0.4W
+Added Room: Name=w32_dmx512_Schematic

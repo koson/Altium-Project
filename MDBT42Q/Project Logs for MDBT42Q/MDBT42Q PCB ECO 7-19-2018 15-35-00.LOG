@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+3.3V Pin=C-1
+Removed Pin From Net: NetName=GND Pin=C-2
+Removed Member From Class: ClassName=MDBT42Q Member=C
+Added Component: Designator=P2(Medium - Header 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Member To Class: ClassName=MDBT42Q Member=Component P2 Header 2 - M
+Added Room: Name=MDBT42Q

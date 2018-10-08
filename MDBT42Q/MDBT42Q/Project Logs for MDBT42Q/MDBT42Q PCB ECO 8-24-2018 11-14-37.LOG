@@ -1,0 +1,101 @@
+Added Component: Designator=C1(CAPC3216X180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C3216X5R1A106K160AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.19 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C3216X5R1A106K160AB/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC3216X180)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C3216X5R1A106K160AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.19 USD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C3216X5R1A106K160AB/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic - ECG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECJ-1VB0J225K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCC2273TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic - ECG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECJ-1VB0J225K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCC2273TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0805C-GENERIC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic - ECG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ECJ-1VB0J225K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "C7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCC2273TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0805_Blue)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HD1(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD2(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SM-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=STLinkv2(Jumper 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW1(SW2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOT229P700X180-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Monolithic Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced%20Monolithic%20Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C2-1
+Added Pin To Net: NetName=+3.3V Pin=C4-1
+Added Pin To Net: NetName=+3.3V Pin=D1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+12V Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=HD1-2
+Added Pin To Net: NetName=+12V Pin=U1-3
+Added Net: Name=+12V
+Added Net: Name=32>52
+Added Net: Name=52>32
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=HD1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Net: Name=MD_RESET
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=SW1-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=PWM_YELLOW Pin=HD2-1
+Added Pin To Net: NetName=PWM_YELLOW Pin=HD2-2
+Added Pin To Net: NetName=PWM_YELLOW Pin=R1-2
+Added Pin To Net: NetName=PWM_YELLOW Pin=STLinkv2-1
+Added Pin To Net: NetName=PWM_YELLOW Pin=STLinkv2-2
+Added Pin To Net: NetName=PWM_YELLOW Pin=STLinkv2-3
+Added Pin To Net: NetName=PWM_YELLOW Pin=STLinkv2-4
+Added Net: Name=PWM_YELLOW
+Added Net: Name=SWDCLK
+Added Class: Name=MDBT42Q
+Added Room: Name=MDBT42Q

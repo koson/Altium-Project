@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PWM_X Pin=J3-1
+Change Component Comment : Designator=J2 Old Comment=JP2 New Comment=
+Change Component Designator: OldDesignator=J2 NewDesignator=USART1
+Change Component Designator: OldDesignator=J3 NewDesignator=VCC
+Added Pin To Net: NetName=+3.3V Pin=VCC-1
+Added Member To Class: ClassName=MDBT42Q Member=Component C5 2u2
+Added Room: Name=MDBT42Q

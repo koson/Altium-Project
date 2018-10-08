@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=52>32 Pin=USART1-1
+Removed Pin From Net: NetName=32>52 Pin=USART1-2
+Added Pin To Net: NetName=32>52 Pin=USART1-1
+Added Pin To Net: NetName=52>32 Pin=USART1-2
+Added Room: Name=MDBT42Q

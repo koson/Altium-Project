@@ -1,0 +1,13 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\Altium Project\w31_20172_2nd\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~19|ReportField=ReportTime~09:55:25|ReportField=ReportDate~3/23/2018|ReportField=ReportDateTime~3/23/2018 09:55:25|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/23/2018|ReportField=CurrentTime~08:27:58|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Apps\altium_library\New folder\LM2576-v2.SchDoc|ReportField=DocumentName~LM2576-v2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/22/2018|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\Altium Project\w31_20172_2nd\PCB_Project\PCB_Project.PrjPcb
+1|Cap Pol3|Polarized Capacitor (Surface Mount)|C1, C2|CP2/5|Cap Pol3|2
+2|100pF|Cap np  1pF - 472pF|C3, C4, C5|SM-CAP-3225|CN1|3
+3|1N5408|Diode 5A|D1|D5A|D5A|1
+4|Header 2|Header 2 (Green)|HD1, HD2|HED2|Hed2|2
+5|LM1117|Available in 1.8V, 2.5V, 2.85V, 3.3V, 5V, and  Adjustable Versions|IC1|SOT223-4N|LM1117|1
+6|Connector 4x2|Connector 4x2|J1, J2|JP4x2|JP4x2|2
+7|Jac DC|Jac DC input|JDC1|DC-IN|DCIN|1
+8|220mH|Inductor|L1|L01|L1|1
+9|LED|LED Single colour Green and Red|LED1, LED2|SM-LED-0805-Red|LED|2
+10|330R|Resistor 1/4W|R1, R2|SM-RES-1206|R1/4W|2
+11|SW DIP-2|DIP Switch, 2 Position, SPST|S1|DIPSWITCH2|SW DIP-2|1
+12|LM2576T-5.0|SIMPLE SWITCHER; 3A Step-Down Voltage Regulator|U1|LM2576t|LM2576T-5.0|1

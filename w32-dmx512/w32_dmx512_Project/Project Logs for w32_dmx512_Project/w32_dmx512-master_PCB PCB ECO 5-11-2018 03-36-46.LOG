@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=+5V Pin=6N137-2
+Removed Pin From Net: NetName=+5V Pin=0505-1
+Removed Pin From Net: NetName=GND Pin=0505-2
+Removed Pin From Net: NetName=PA3 Pin=C1-1
+Removed Pin From Net: NetName=+5V Pin=C1-2
+Removed Pin From Net: NetName=VCAP Pin=C1-3
+Removed Pin From Net: NetName=GND Pin=C1-4
+Removed Pin From Net: NetName=OSCOUT Pin=C1-5
+Removed Pin From Net: NetName=OSCIN Pin=C1-6
+Removed Pin From Net: NetName=PD6 Pin=C1-8
+Removed Pin From Net: NetName=PD5 Pin=C1-9
+Removed Pin From Net: NetName=PD4 Pin=C1-10
+Removed Pin From Net: NetName=PB5 Pin=C2-1
+Removed Pin From Net: NetName=PB4 Pin=C2-2
+Removed Pin From Net: NetName=PD1 Pin=C2-8
+Removed Pin From Net: NetName=ADC_IN4 Pin=C2-10
+Removed Pin From Net: NetName=NRST Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=+5V Pin=LCD1-2
+Removed Pin From Net: NetName=GND Pin=LCD1-5
+Removed Pin From Net: NetName=+5V Pin=LCD1-15
+Removed Pin From Net: NetName=GND Pin=LCD1-16
+Removed Pin From Net: NetName=+5V Pin=RV1-1
+Removed Pin From Net: NetName=GND Pin=RV1-3
+Removed Pin From Net: NetName=NRST Pin=STM8S003F3P6-4
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=0505
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=C1
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=C2
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=C3
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=C4
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=C12
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=LCD1
+Removed Member From Class: ClassName=w32_dmx512_Schematic Member=RV1
+Change Component Designator: OldDesignator=DB5 NewDesignator=LED2
+Change Component Designator: OldDesignator=LM7085 NewDesignator=IC1
+Change Component Designator: OldDesignator=PWR NewDesignator=LED1
+Added Pin To Net: NetName=+5V Pin=6N137-8
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=+5V Pin=MAX481-2
+Added Pin To Net: NetName=+5V Pin=MAX481-3
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Change Net Name : Old Net Name=+5V New Net Name=VCC
+Change Net Name : Old Net Name=NRST New Net Name=NetC8_1
+Added Pin To Net: NetName=NRST Pin=JP1-1
+Added Pin To Net: NetName=NRST Pin=STM8S003F3P6-4
+Added Net: Name=NRST
+Added Pin To Net: NetName=PC3 Pin=STM8S003F3P6-13
+Added Net: Name=PC3
+Added Pin To Net: NetName=PC4 Pin=STM8S003F3P6-14
+Added Net: Name=PC4
+Added Pin To Net: NetName=PC5 Pin=STM8S003F3P6-15
+Added Net: Name=PC5
+Added Pin To Net: NetName=PC6 Pin=STM8S003F3P6-16
+Added Net: Name=PC6
+Added Pin To Net: NetName=PC7 Pin=STM8S003F3P6-17
+Added Net: Name=PC7
+Added Pin To Net: NetName=PD2 Pin=JP1-3
+Added Pin To Net: NetName=PD2 Pin=STM8S003F3P6-19
+Added Net: Name=PD2
+Added Room: Name=w32_dmx512_Schematic

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=DOWN Pin=DOWN-2
+Removed Pin From Net: NetName=0V Pin=DOWN-4
+Removed Pin From Net: NetName=LEFT Pin=LEFT-1
+Removed Pin From Net: NetName=0V Pin=LEFT-2
+Removed Pin From Net: NetName=0V Pin=UP-1
+Removed Pin From Net: NetName=PD3 Pin=UP-2
+Added Room: Name=auto switch electric bike charger_schematic

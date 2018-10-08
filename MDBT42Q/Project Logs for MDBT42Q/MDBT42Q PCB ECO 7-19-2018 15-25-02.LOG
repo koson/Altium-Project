@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=32>52 Pin=B1-17
+Added Pin To Net: NetName=32>52 Pin=M1-21
+Added Net: Name=32>52
+Added Pin To Net: NetName=52>32 Pin=B1-18
+Added Pin To Net: NetName=52>32 Pin=M1-19
+Added Net: Name=52>32
+Added Pin To Net: NetName=USART2_RX Pin=B1-9
+Added Pin To Net: NetName=USART2_RX Pin=P1-1
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=B1-8
+Added Pin To Net: NetName=USART2_TX Pin=P1-2
+Added Net: Name=USART2_TX
+Added Room: Name=MDBT42Q

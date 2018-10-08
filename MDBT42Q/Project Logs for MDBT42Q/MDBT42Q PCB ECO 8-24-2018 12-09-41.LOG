@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=STLinkv2-1
+Removed Pin From Net: NetName=+3.3V Pin=STLinkv2-2
+Removed Pin From Net: NetName=DIO Pin=STLinkv2-3
+Removed Pin From Net: NetName=CLK Pin=STLinkv2-4
+Added Pin To Net: NetName=GND Pin=STLinkV2-1
+Added Pin To Net: NetName=+3.3V Pin=STLinkV2-2
+Added Pin To Net: NetName=GND Pin=STLinkV2-3
+Added Pin To Net: NetName=32>52 Pin=STLinkV2-4
+Added Pin To Net: NetName=GND Pin=STLinkV2-5
+Added Pin To Net: NetName=52>32 Pin=STLinkV2-6
+Added Pin To Net: NetName=CLK Pin=STLinkV2-7
+Added Pin To Net: NetName=DIO Pin=STLinkV2-8
+Added Room: Name=MDBT42Q

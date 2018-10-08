@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=*-9
+Removed Pin From Net: NetName=GND Pin=*-10
+Removed Pin From Net: NetName=IN4L Pin=*-11
+Removed Pin From Net: NetName=IN3L Pin=*-12
+Removed Pin From Net: NetName=IN2L Pin=*-13
+Removed Pin From Net: NetName=IN1L Pin=*-14
+Removed Pin From Net: NetName=Vin Pin=*-15
+Removed Pin From Net: NetName=Vin Pin=*-16
+Added Pin To Net: NetName=Vin Pin=*-9
+Added Pin To Net: NetName=Vin Pin=*-10
+Added Pin To Net: NetName=IN1L Pin=*-11
+Added Pin To Net: NetName=IN2L Pin=*-12
+Added Pin To Net: NetName=IN3L Pin=*-13
+Added Pin To Net: NetName=IN4L Pin=*-14
+Added Pin To Net: NetName=GND Pin=*-15
+Added Pin To Net: NetName=GND Pin=*-16
+Added Room: Name=auto switch electric bike charger_schematic

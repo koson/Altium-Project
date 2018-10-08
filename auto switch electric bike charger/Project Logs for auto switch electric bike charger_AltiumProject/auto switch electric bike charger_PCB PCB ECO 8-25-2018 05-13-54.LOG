@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LCD_RS Pin=C1-3
+Removed Pin From Net: NetName=LCD_RS Pin=C3-8
+Removed Pin From Net: NetName=LCD_EN Pin=C3-9
+Added Pin To Net: NetName=LCD_EN Pin=C1-3
+Added Pin To Net: NetName=LCD_EN Pin=C3-8
+Added Pin To Net: NetName=LCD_RS Pin=C3-9
+Added Room: Name=auto switch electric bike charger_schematic

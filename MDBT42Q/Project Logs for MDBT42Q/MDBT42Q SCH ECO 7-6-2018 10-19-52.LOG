@@ -1,0 +1,9 @@
+Remove Pin=C-1 From Net=+3.3V
+Remove Pin=JP1-1 From Net=USART1_TX
+Remove Pin=JP1-2 From Net=USART1_RX
+Remove Pin=JP2-1 From Net=PWM_YELLOW
+Remove Pin=JP2-2 From Net=PWM_WHITE
+Change Component Comment: Designator=C1 Old Comment=10u New Comment=Value
+Change Component Comment: Designator=C2 Old Comment=100n New Comment=Value
+Change Pin Designator/Name:  Old Designator=B1-2 Old Name=PF0-OSC_IN New Designator =PB1 New Name=14
+Change Pin Designator/Name:  Old Designator=B1-14 Old Name=PB1 New Designator =PF0-OSC_IN New Name=2

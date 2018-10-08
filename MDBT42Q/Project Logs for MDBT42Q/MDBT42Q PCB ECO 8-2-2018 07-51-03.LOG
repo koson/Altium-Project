@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MD_RESET Pin=STM32-6
+Removed Pin From Net: NetName=SWDCLK Pin=STM32-7
+Added Component: Designator=P1(HDR1X20H)
+Added Pin To Net: NetName=MD_RESET Pin=STM32-2
+Added Pin To Net: NetName=SWDCLK Pin=STM32-3
+Added Member To Class: ClassName=MDBT42Q Member=Component P1 Header 20H
+Added Room: Name=MDBT42Q

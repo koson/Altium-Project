@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=GND Pin=CO1-1
+Removed Pin From Net: NetName=OSC-In Pin=CO1-2
+Removed Pin From Net: NetName=GND Pin=CO2-1
+Removed Pin From Net: NetName=OSC-Out Pin=CO2-2
+Removed Pin From Net: NetName=+3.3V Pin=D2-1
+Removed Pin From Net: NetName=PA2 Pin=D2-2
+Removed Pin From Net: NetName=+3.3V Pin=D3-1
+Removed Pin From Net: NetName=PA3 Pin=D3-2
+Removed Pin From Net: NetName=+3.3V Pin=D4-1
+Removed Pin From Net: NetName=PA4 Pin=D4-2
+Removed Pin From Net: NetName=+3.3V Pin=D5-1
+Removed Pin From Net: NetName=PA5 Pin=D5-2
+Removed Pin From Net: NetName=+3.3V Pin=LED1-1
+Removed Pin From Net: NetName=+3.3V Pin=LED1-2
+Removed Pin From Net: NetName=+3.3V Pin=LED1-3
+Removed Pin From Net: NetName=PWM_X Pin=LED1-4
+Removed Pin From Net: NetName=PWM_YELLOW Pin=LED1-5
+Removed Pin From Net: NetName=PWM_WHITE Pin=LED1-6
+Removed Pin From Net: NetName=5.0V Pin=plug-1
+Removed Pin From Net: NetName=GND Pin=plug-5
+Removed Pin From Net: NetName=PWM_X Pin=PWM-1
+Removed Pin From Net: NetName=PWM_YELLOW Pin=PWM-2
+Removed Pin From Net: NetName=PWM_WHITE Pin=PWM-3
+Removed Pin From Net: NetName=32>52 Pin=USART1-1
+Removed Pin From Net: NetName=52>32 Pin=USART1-2
+Removed Pin From Net: NetName=PA3 Pin=USART2-1
+Removed Pin From Net: NetName=PA2 Pin=USART2-2
+Removed Pin From Net: NetName=+3.3V Pin=VCC-1
+Removed Pin From Net: NetName=GND Pin=VCC-2
+Removed Pin From Net: NetName=OSC-Out Pin=Y1-1
+Removed Pin From Net: NetName=OSC-In Pin=Y1-2
+Removed Member From Class: ClassName=MDBT42Q Member=CO1
+Removed Member From Class: ClassName=MDBT42Q Member=CO2
+Removed Member From Class: ClassName=MDBT42Q Member=D2
+Removed Member From Class: ClassName=MDBT42Q Member=D3
+Removed Member From Class: ClassName=MDBT42Q Member=D4
+Removed Member From Class: ClassName=MDBT42Q Member=D5
+Removed Member From Class: ClassName=MDBT42Q Member=LED1
+Removed Member From Class: ClassName=MDBT42Q Member=plug
+Removed Member From Class: ClassName=MDBT42Q Member=PWM
+Removed Member From Class: ClassName=MDBT42Q Member=USART1
+Removed Member From Class: ClassName=MDBT42Q Member=USART2
+Removed Member From Class: ClassName=MDBT42Q Member=VCC
+Removed Member From Class: ClassName=MDBT42Q Member=Y1
+Change Component Designator: OldDesignator=PWR NewDesignator=D1
+Change component parameters: Designator = "R1"; Footprint = "RES-SM-1206"; UniqueID = "\XDOMVMIW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "0805C-GENERIC"; UniqueID = "\HFRRWWOC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic - ECG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECJ-1VB0J225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel"; Value = "C7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PCC2273TR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "0805C-GENERIC"; UniqueID = "\QPIRWHEH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic - ECG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECJ-1VB0J225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel"; Value = "C7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PCC2273TR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "0805C-GENERIC"; UniqueID = "\TWCYBHRJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic - ECG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ECJ-1VB0J225K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reel"; Value = "C7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PCC2273TR-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC3216X180"; UniqueID = "\UFKMFNQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C3216X5R1A106K160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.19 USD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C3216X5R1A106K160AB/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAPC3216X180"; UniqueID = "\TVJBYAEP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C3216X5R1A106K160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206 TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.19 USD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C3216X5R1A106K160AB/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "SOT229P700X180-4N"; UniqueID = "\KJWPCOSM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Advanced Monolithic Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AMS1117-3.3/Advanced%20Monolithic%20Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "STM32"; Footprint = "SOP65P640X120-20N"; UniqueID = "\TSOUNXRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM32F070F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f070f6p6/stmicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/31/4f/10/5f/a5/32/46/42/DM00141386.pdf/files/DM00141386.pdf/jcr:content/translations/en.DM00141386.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F070F6P6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(Medium - Header 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Medium - Header 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=5.0V Pin=P1-2
+Added Pin To Net: NetName=PWM_YELLOW Pin=P2-1
+Added Pin To Net: NetName=PWM_WHITE Pin=P2-2
+Change Net Name : Old Net Name=5.0V New Net Name=NetC3_1
+Added Member To Class: ClassName=MDBT42Q Member=Component P1 Header 2 - M
+Added Member To Class: ClassName=MDBT42Q Member=Component P2 Header 2 - M
+Added Room: Name=MDBT42Q
