@@ -1,0 +1,15 @@
+Added Component: Designator=Q?(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q?(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES-1/2W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Class: Name=giao-dong-led
+Added Room: Name=giao-dong-led

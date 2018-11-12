@@ -1,0 +1,5 @@
+Added Component: Designator=*(microUSB-F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-5
+Added Member To Class: ClassName=giao-dong-led Member=Component * microUSB

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=LED Pin=BLE1-49
+Added Pin To Net: NetName=LED Pin=LED1-2
+Added Net: Name=LED
+Added Pin To Net: NetName=NetBLE1_48 Pin=BLE1-48
+Added Pin To Net: NetName=NetBLE1_48 Pin=button1-1
+Added Pin To Net: NetName=NetBLE1_48 Pin=button1-1
+Added Pin To Net: NetName=NetBLE1_48 Pin=R2-1
+Added Net: Name=NetBLE1_48
+Added Room: Name=BLE

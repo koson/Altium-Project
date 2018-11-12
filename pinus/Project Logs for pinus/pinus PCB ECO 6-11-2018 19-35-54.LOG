@@ -1,0 +1,292 @@
+Added Component: Designator=*(microUSB-F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D15(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D16(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D17(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D18(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D19(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D20(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D21(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D22(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D23(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D24(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D25(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D26(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D27(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D28(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D29(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D30(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D31(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D32(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D33(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D34(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D35(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D36(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D37(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(S_JP_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(JP_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q5(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q6(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(RES)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=JP1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-3
+Added Pin To Net: NetName=NetC1_+ Pin=R5-1
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetC1_- Pin=C1--
+Added Pin To Net: NetName=NetC1_- Pin=Q1-2
+Added Pin To Net: NetName=NetC1_- Pin=R3-1
+Added Net: Name=NetC1_-
+Added Pin To Net: NetName=NetC2_+ Pin=C2-+
+Added Pin To Net: NetName=NetC2_+ Pin=Q3-3
+Added Pin To Net: NetName=NetC2_+ Pin=R4-1
+Added Net: Name=NetC2_+
+Added Pin To Net: NetName=NetC2_- Pin=C2--
+Added Pin To Net: NetName=NetC2_- Pin=Q2-2
+Added Pin To Net: NetName=NetC2_- Pin=R2-1
+Added Net: Name=NetC2_-
+Added Pin To Net: NetName=NetC3_+ Pin=C3-+
+Added Pin To Net: NetName=NetC3_+ Pin=Q1-3
+Added Pin To Net: NetName=NetC3_+ Pin=R6-1
+Added Net: Name=NetC3_+
+Added Pin To Net: NetName=NetC3_- Pin=C3--
+Added Pin To Net: NetName=NetC3_- Pin=Q3-2
+Added Pin To Net: NetName=NetC3_- Pin=R1-1
+Added Net: Name=NetC3_-
+Added Pin To Net: NetName=NetC5_+ Pin=C5-+
+Added Pin To Net: NetName=NetC5_+ Pin=Q5-3
+Added Pin To Net: NetName=NetC5_+ Pin=R12-1
+Added Net: Name=NetC5_+
+Added Pin To Net: NetName=NetC5_- Pin=C5--
+Added Pin To Net: NetName=NetC5_- Pin=Q4-2
+Added Pin To Net: NetName=NetC5_- Pin=R10-1
+Added Net: Name=NetC5_-
+Added Pin To Net: NetName=NetC6_+ Pin=C6-+
+Added Pin To Net: NetName=NetC6_+ Pin=Q6-3
+Added Pin To Net: NetName=NetC6_+ Pin=R11-1
+Added Net: Name=NetC6_+
+Added Pin To Net: NetName=NetC6_- Pin=C6--
+Added Pin To Net: NetName=NetC6_- Pin=Q5-2
+Added Pin To Net: NetName=NetC6_- Pin=R9-1
+Added Net: Name=NetC6_-
+Added Pin To Net: NetName=NetC7_+ Pin=C7-+
+Added Pin To Net: NetName=NetC7_+ Pin=Q4-3
+Added Pin To Net: NetName=NetC7_+ Pin=R13-1
+Added Net: Name=NetC7_+
+Added Pin To Net: NetName=NetC7_- Pin=C7--
+Added Pin To Net: NetName=NetC7_- Pin=Q6-2
+Added Pin To Net: NetName=NetC7_- Pin=R8-1
+Added Net: Name=NetC7_-
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=D2-A
+Added Pin To Net: NetName=NetD1_A Pin=D3-A
+Added Pin To Net: NetName=NetD1_A Pin=D4-A
+Added Pin To Net: NetName=NetD1_A Pin=D5-A
+Added Pin To Net: NetName=NetD1_A Pin=D6-A
+Added Pin To Net: NetName=NetD1_A Pin=D7-A
+Added Pin To Net: NetName=NetD1_A Pin=D8-A
+Added Pin To Net: NetName=NetD1_A Pin=D9-A
+Added Pin To Net: NetName=NetD1_A Pin=D10-A
+Added Pin To Net: NetName=NetD1_A Pin=D11-A
+Added Pin To Net: NetName=NetD1_A Pin=D12-A
+Added Pin To Net: NetName=NetD1_A Pin=D13-A
+Added Pin To Net: NetName=NetD1_A Pin=D14-A
+Added Pin To Net: NetName=NetD1_A Pin=D15-A
+Added Pin To Net: NetName=NetD1_A Pin=D16-A
+Added Pin To Net: NetName=NetD1_A Pin=D17-A
+Added Pin To Net: NetName=NetD1_A Pin=D18-A
+Added Pin To Net: NetName=NetD1_A Pin=D19-A
+Added Pin To Net: NetName=NetD1_A Pin=D20-A
+Added Pin To Net: NetName=NetD1_A Pin=D21-A
+Added Pin To Net: NetName=NetD1_A Pin=D22-A
+Added Pin To Net: NetName=NetD1_A Pin=D23-A
+Added Pin To Net: NetName=NetD1_A Pin=D24-A
+Added Pin To Net: NetName=NetD1_A Pin=D25-A
+Added Pin To Net: NetName=NetD1_A Pin=D26-A
+Added Pin To Net: NetName=NetD1_A Pin=D27-A
+Added Pin To Net: NetName=NetD1_A Pin=D28-A
+Added Pin To Net: NetName=NetD1_A Pin=D29-A
+Added Pin To Net: NetName=NetD1_A Pin=D30-A
+Added Pin To Net: NetName=NetD1_A Pin=D31-A
+Added Pin To Net: NetName=NetD1_A Pin=D32-A
+Added Pin To Net: NetName=NetD1_A Pin=D33-A
+Added Pin To Net: NetName=NetD1_A Pin=D34-A
+Added Pin To Net: NetName=NetD1_A Pin=D35-A
+Added Pin To Net: NetName=NetD1_A Pin=D36-A
+Added Pin To Net: NetName=NetD1_A Pin=D37-A
+Added Pin To Net: NetName=NetD1_A Pin=J1-1
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=NetD1_A Pin=R2-2
+Added Pin To Net: NetName=NetD1_A Pin=R3-2
+Added Pin To Net: NetName=NetD1_A Pin=R8-2
+Added Pin To Net: NetName=NetD1_A Pin=R9-2
+Added Pin To Net: NetName=NetD1_A Pin=R10-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=D2-C
+Added Pin To Net: NetName=NetD1_C Pin=D3-C
+Added Pin To Net: NetName=NetD1_C Pin=D4-C
+Added Pin To Net: NetName=NetD1_C Pin=D5-C
+Added Pin To Net: NetName=NetD1_C Pin=D6-C
+Added Pin To Net: NetName=NetD1_C Pin=R4-2
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetD7_C Pin=D7-C
+Added Pin To Net: NetName=NetD7_C Pin=D8-C
+Added Pin To Net: NetName=NetD7_C Pin=D9-C
+Added Pin To Net: NetName=NetD7_C Pin=D10-C
+Added Pin To Net: NetName=NetD7_C Pin=D11-C
+Added Pin To Net: NetName=NetD7_C Pin=D12-C
+Added Pin To Net: NetName=NetD7_C Pin=R5-2
+Added Net: Name=NetD7_C
+Added Pin To Net: NetName=NetD13_C Pin=D13-C
+Added Pin To Net: NetName=NetD13_C Pin=D14-C
+Added Pin To Net: NetName=NetD13_C Pin=D15-C
+Added Pin To Net: NetName=NetD13_C Pin=D16-C
+Added Pin To Net: NetName=NetD13_C Pin=D17-C
+Added Pin To Net: NetName=NetD13_C Pin=D18-C
+Added Pin To Net: NetName=NetD13_C Pin=R6-2
+Added Net: Name=NetD13_C
+Added Pin To Net: NetName=NetD19_C Pin=D19-C
+Added Pin To Net: NetName=NetD19_C Pin=R7-2
+Added Net: Name=NetD19_C
+Added Pin To Net: NetName=NetD20_C Pin=D20-C
+Added Pin To Net: NetName=NetD20_C Pin=D21-C
+Added Pin To Net: NetName=NetD20_C Pin=D22-C
+Added Pin To Net: NetName=NetD20_C Pin=D23-C
+Added Pin To Net: NetName=NetD20_C Pin=D24-C
+Added Pin To Net: NetName=NetD20_C Pin=D25-C
+Added Pin To Net: NetName=NetD20_C Pin=R11-2
+Added Net: Name=NetD20_C
+Added Pin To Net: NetName=NetD26_C Pin=D26-C
+Added Pin To Net: NetName=NetD26_C Pin=D27-C
+Added Pin To Net: NetName=NetD26_C Pin=D28-C
+Added Pin To Net: NetName=NetD26_C Pin=D29-C
+Added Pin To Net: NetName=NetD26_C Pin=D30-C
+Added Pin To Net: NetName=NetD26_C Pin=D31-C
+Added Pin To Net: NetName=NetD26_C Pin=R12-2
+Added Net: Name=NetD26_C
+Added Pin To Net: NetName=NetD32_C Pin=D32-C
+Added Pin To Net: NetName=NetD32_C Pin=D33-C
+Added Pin To Net: NetName=NetD32_C Pin=D34-C
+Added Pin To Net: NetName=NetD32_C Pin=D35-C
+Added Pin To Net: NetName=NetD32_C Pin=D36-C
+Added Pin To Net: NetName=NetD32_C Pin=D37-C
+Added Pin To Net: NetName=NetD32_C Pin=R13-2
+Added Net: Name=NetD32_C
+Added Class: Name=pinus
+Added Room: Name=pinus

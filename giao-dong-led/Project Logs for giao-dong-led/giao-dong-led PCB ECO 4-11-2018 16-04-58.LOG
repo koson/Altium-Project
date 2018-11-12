@@ -1,0 +1,57 @@
+Change Component Footprint: Designator= Old Footprint=S_JP_1 New Footprint=S_JP_2
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=100R
+Change Component Comment : Designator= Old Comment= New Comment=100R
+Change Component Comment : Designator= Old Comment= New Comment=100R
+Change Component Comment : Designator= Old Comment= New Comment=JP_2
+Change Component Comment : Designator= Old Comment= New Comment=LED-200mil
+Change Component Comment : Designator= Old Comment= New Comment=LED-200mil
+Change Component Comment : Designator= Old Comment= New Comment=LED-200mil
+Change Component Comment : Designator= Old Comment= New Comment=Pol-Cap
+Change Component Comment : Designator= Old Comment= New Comment=Pol-Cap
+Change Component Comment : Designator= Old Comment= New Comment=Pol-Cap
+Change Component Comment : Designator= Old Comment= New Comment=S9014
+Change Component Comment : Designator= Old Comment= New Comment=S9014
+Change Component Comment : Designator= Old Comment= New Comment=S9014
+Change Component Comment : Designator= Old Comment= New Comment=Solderable Jump
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Added Component: Designator=*(microUSB-F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-5
+Added Member To Class: ClassName=giao-dong-led Member=Component * microUSB
+Added Member To Class: ClassName=giao-dong-led Member=Component C2 Pol-Cap
+Added Member To Class: ClassName=giao-dong-led Member=Component C3 Pol-Cap
+Added Member To Class: ClassName=giao-dong-led Member=Component J1 Solderable Jump
+Added Member To Class: ClassName=giao-dong-led Member=Component JP1 JP_2
+Added Member To Class: ClassName=giao-dong-led Member=Component LED1 LED-200mil
+Added Member To Class: ClassName=giao-dong-led Member=Component LED2 LED-200mil
+Added Member To Class: ClassName=giao-dong-led Member=Component LED3 LED-200mil
+Added Member To Class: ClassName=giao-dong-led Member=Component Q1 S9014
+Added Member To Class: ClassName=giao-dong-led Member=Component Q2 S9014
+Added Member To Class: ClassName=giao-dong-led Member=Component Q3 S9014
+Added Member To Class: ClassName=giao-dong-led Member=Component R1 100R
+Added Member To Class: ClassName=giao-dong-led Member=Component R2 100R
+Added Member To Class: ClassName=giao-dong-led Member=Component R3 100R
+Added Member To Class: ClassName=giao-dong-led Member=Component R4 4.7K
+Added Member To Class: ClassName=giao-dong-led Member=Component R5 4.7K
+Added Member To Class: ClassName=giao-dong-led Member=Component R6 4.7K
+Added Room: Name=giao-dong-led

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetD1_A Pin=J1-1
+Removed Pin From Net: NetName=+5 Pin=J1-2
+Removed Member From Class: ClassName=pinus Member=J1
+Added Component: Designator=SW1(switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_A Pin=SW1-2
+Added Pin To Net: NetName=+5 Pin=SW1-3
+Added Pin To Net: NetName=NetD1_A Pin=SW1-5
+Added Pin To Net: NetName=+5 Pin=SW1-6
+Added Member To Class: ClassName=pinus Member=Component C6 47uF
+Added Member To Class: ClassName=pinus Member=Component D14 LED-200mil
+Added Member To Class: ClassName=pinus Member=Component SW1 switch
+Added Room: Name=pinus

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CLK Pin=JP1-2
+Removed Pin From Net: NetName=CLK Pin=JP1-2
+Removed Pin From Net: NetName=DIO Pin=JP1-3
+Removed Pin From Net: NetName=DIO Pin=JP1-3
+Added Pin To Net: NetName=DIO Pin=JP1-2
+Added Pin To Net: NetName=DIO Pin=JP1-2
+Added Pin To Net: NetName=CLK Pin=JP1-3
+Added Pin To Net: NetName=CLK Pin=JP1-3
+Added Member To Class: ClassName=BLE Member=Component BLE1 Holyiot 18010

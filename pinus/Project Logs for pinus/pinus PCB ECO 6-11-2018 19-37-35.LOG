@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=pinus Member=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Net Name : Old Net Name=NetC5_+ New Net Name=NetC4_+
+Change Net Name : Old Net Name=NetC5_- New Net Name=NetC4_-
+Change Net Name : Old Net Name=NetC6_+ New Net Name=NetC5_+
+Change Net Name : Old Net Name=NetC6_- New Net Name=NetC5_-
+Change Net Name : Old Net Name=NetC7_+ New Net Name=NetC6_+
+Change Net Name : Old Net Name=NetC7_- New Net Name=NetC6_-

@@ -1,0 +1,61 @@
+Added Component: Designator=*(battery holder)
+Add component. Clean all parameters for all variants
+Added Component: Designator=BLE1(Holyiot 18010)
+Add component. Clean all parameters for all variants
+Added Component: Designator=button1(button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(JP_4x1_SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(LED-0805-Red)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLK Pin=BLE1-38
+Added Pin To Net: NetName=CLK Pin=JP1-2
+Added Pin To Net: NetName=CLK Pin=JP1-2
+Added Net: Name=CLK
+Added Pin To Net: NetName=DIO Pin=BLE1-37
+Added Pin To Net: NetName=DIO Pin=JP1-3
+Added Pin To Net: NetName=DIO Pin=JP1-3
+Added Net: Name=DIO
+Added Pin To Net: NetName=GND Pin=*--
+Added Pin To Net: NetName=GND Pin=BLE1-1
+Added Pin To Net: NetName=GND Pin=BLE1-32
+Added Pin To Net: NetName=GND Pin=BLE1-44
+Added Pin To Net: NetName=GND Pin=button1-2
+Added Pin To Net: NetName=GND Pin=button1-2
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBLE1_26 Pin=BLE1-26
+Added Pin To Net: NetName=NetBLE1_26 Pin=LED1-2
+Added Net: Name=NetBLE1_26
+Added Pin To Net: NetName=NetBLE1_28 Pin=BLE1-28
+Added Pin To Net: NetName=NetBLE1_28 Pin=button1-1
+Added Pin To Net: NetName=NetBLE1_28 Pin=button1-1
+Added Pin To Net: NetName=NetBLE1_28 Pin=R2-1
+Added Net: Name=NetBLE1_28
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=Vcc Pin=*-+
+Added Pin To Net: NetName=Vcc Pin=*-+
+Added Pin To Net: NetName=Vcc Pin=BLE1-55
+Added Pin To Net: NetName=Vcc Pin=JP1-1
+Added Pin To Net: NetName=Vcc Pin=JP1-1
+Added Pin To Net: NetName=Vcc Pin=R1-2
+Added Pin To Net: NetName=Vcc Pin=R2-2
+Added Net: Name=Vcc
+Added Class: Name=BLE
+Added Room: Name=BLE

@@ -1,0 +1,89 @@
+Added Component: Designator=*(microUSB-F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(Pol_200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(Pol_200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(Pol_200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(S_JP_1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(JP_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED1(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED3(LED-200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(S9014)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(RES)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=JP1-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=LED2-C
+Added Pin To Net: NetName=NetC1_+ Pin=Q2-3
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetC1_- Pin=C1--
+Added Pin To Net: NetName=NetC1_- Pin=Q1-2
+Added Pin To Net: NetName=NetC1_- Pin=R6-1
+Added Net: Name=NetC1_-
+Added Pin To Net: NetName=NetC2_+ Pin=C2-+
+Added Pin To Net: NetName=NetC2_+ Pin=LED1-C
+Added Pin To Net: NetName=NetC2_+ Pin=Q3-3
+Added Net: Name=NetC2_+
+Added Pin To Net: NetName=NetC2_- Pin=C2--
+Added Pin To Net: NetName=NetC2_- Pin=Q2-2
+Added Pin To Net: NetName=NetC2_- Pin=R5-1
+Added Net: Name=NetC2_-
+Added Pin To Net: NetName=NetC3_+ Pin=C3-+
+Added Pin To Net: NetName=NetC3_+ Pin=LED3-C
+Added Pin To Net: NetName=NetC3_+ Pin=Q1-3
+Added Net: Name=NetC3_+
+Added Pin To Net: NetName=NetC3_- Pin=C3--
+Added Pin To Net: NetName=NetC3_- Pin=Q3-2
+Added Pin To Net: NetName=NetC3_- Pin=R4-1
+Added Net: Name=NetC3_-
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R3-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R4-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R5-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R6-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R1-1
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=R2-1
+Added Net: Name=NetLED2_A
+Added Pin To Net: NetName=NetLED3_A Pin=LED3-A
+Added Pin To Net: NetName=NetLED3_A Pin=R3-1
+Added Net: Name=NetLED3_A
+Added Class: Name=giao-dong-led
+Added Room: Name=giao-dong-led

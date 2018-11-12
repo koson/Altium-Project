@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=giao-dong-led Member=C1
+Removed Member From Class: ClassName=giao-dong-led Member=C2
+Removed Member From Class: ClassName=giao-dong-led Member=C3
+Added Component: Designator=C?(POL_250MIL_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(POL_250MIL_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(POL_250MIL_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC?_+ Pin=C?-+
+Added Pin To Net: NetName=NetC?_+ Pin=LED3-C
+Added Pin To Net: NetName=NetC?_+ Pin=Q1-3
+Added Net: Name=NetC?_+
+Added Pin To Net: NetName=NetC?_- Pin=C?--
+Added Pin To Net: NetName=NetC?_- Pin=Q3-2
+Added Pin To Net: NetName=NetC?_- Pin=R4-1
+Added Net: Name=NetC?_-
+Added Member To Class: ClassName=giao-dong-led Member=Component C? 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C? 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C? 47uF
+Added Room: Name=giao-dong-led

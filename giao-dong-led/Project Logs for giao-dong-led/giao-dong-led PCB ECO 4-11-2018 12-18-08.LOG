@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C1 Old Footprint=Pol_200mil New Footprint=POL_200mil_horizontal
+Change Component Footprint: Designator=C2 Old Footprint=Pol_200mil New Footprint=POL_200mil_horizontal
+Change Component Footprint: Designator=C3 Old Footprint=Pol_200mil New Footprint=POL_200mil_horizontal
+Change Component Comment : Designator=C1 Old Comment=330uF New Comment=Pol-Cap
+Change Component Comment : Designator=C2 Old Comment=330uF New Comment=Pol-Cap
+Change Component Comment : Designator=C3 Old Comment=330uF New Comment=Pol-Cap
+Added Room: Name=giao-dong-led

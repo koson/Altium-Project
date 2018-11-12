@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C1 Old Footprint=POL_200mil_horizontal New Footprint=POL_250MIL_HORIZONTAL
+Change Component Footprint: Designator=C2 Old Footprint=POL_200mil_horizontal New Footprint=POL_250MIL_HORIZONTAL
+Change Component Footprint: Designator=C3 Old Footprint=POL_200mil_horizontal New Footprint=POL_250MIL_HORIZONTAL
+Change Component Comment : Designator=C1 Old Comment=Pol-Cap New Comment=47uF
+Change Component Comment : Designator=C2 Old Comment=Pol-Cap New Comment=47uF
+Change Component Comment : Designator=C3 Old Comment=Pol-Cap New Comment=47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C1 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C2 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C3 47uF
+Added Room: Name=giao-dong-led
