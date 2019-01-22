@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=BTL-TKHT do Member=Cx?
+Added Component: Designator=C?(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(POL_160mil_HORIZONTAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(DIO-2A-ZEN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(DIO-1AN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-+
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-3
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Pol-Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Pol-Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Pol-Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Pol-Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component C? Cap
+Added Member To Class: ClassName=BTL-TKHT do Member=Component IC? LM7805
+Added Member To Class: ClassName=BTL-TKHT do Member=Component R? DIODE Zener
+Added Member To Class: ClassName=BTL-TKHT do Member=Component R? DIODE Zener

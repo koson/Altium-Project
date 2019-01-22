@@ -1,0 +1,6 @@
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[2]{}width[15]{}height[15]{}gapthickness[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? QMatrix Button
+Added Room: Name=giao-dong-led

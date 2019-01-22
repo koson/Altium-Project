@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=BTL-TKHT do Member=F1
+Added Component: Designator=F?(PUSE_3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=H1-2
+Added Net: Name=NetF?_1
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=NetF?_2 Pin=T1-1
+Added Pin To Net: NetName=NetF?_2 Pin=VR1-1
+Added Net: Name=NetF?_2
+Added Member To Class: ClassName=BTL-TKHT do Member=Component F? Fuse

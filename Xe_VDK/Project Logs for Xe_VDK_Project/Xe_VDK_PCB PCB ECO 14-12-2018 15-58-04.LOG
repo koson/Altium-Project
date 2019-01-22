@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=LED1-C
+Removed Pin From Net: NetName=+5 Pin=R2-1
+Removed Member From Class: ClassName=Xe_VDK_Schematic Member=LED1
+Removed Member From Class: ClassName=Xe_VDK_Schematic Member=R2
+Added Member To Class: ClassName=Xe_VDK_Schematic Member=Component D1 Diode

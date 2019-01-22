@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC1_+ Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R1-5
+Removed Pin From Net: NetName=GND Pin=R2-2
+Removed Pin From Net: NetName=NetC1_+ Pin=R2-5
+Change Component Description : Designator=C1 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetC1_+ Pin=R1-5
+Added Pin To Net: NetName=NetC1_+ Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-5
+Added Room: Name=mach-relay

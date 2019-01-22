@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C2 Old Footprint=POL_160mil_HORIZONTAL New Footprint=POL_160mil
+Change Component Footprint: Designator=C3 Old Footprint=POL_160mil_HORIZONTAL New Footprint=POL_160mil
+Change Component Footprint: Designator=C6 Old Footprint=POL_160mil_HORIZONTAL New Footprint=POL_160mil
+Change Component Footprint: Designator=C7 Old Footprint=POL_160mil_HORIZONTAL New Footprint=POL_160mil
+Added Room: Name=BTL-TKHT do

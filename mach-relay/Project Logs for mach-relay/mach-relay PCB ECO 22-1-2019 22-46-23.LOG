@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC1_+ Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R2-5
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=NetC1_+ Pin=R2-5
+Added Room: Name=mach-relay

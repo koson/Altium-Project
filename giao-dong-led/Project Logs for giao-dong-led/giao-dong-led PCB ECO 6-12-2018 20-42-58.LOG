@@ -1,0 +1,66 @@
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=4.7K
+Change Component Comment : Designator= Old Comment= New Comment=47uF
+Change Component Comment : Designator= Old Comment= New Comment=47uF
+Change Component Comment : Designator= Old Comment= New Comment=47uF
+Change Component Comment : Designator= Old Comment= New Comment=100R
+Change Component Comment : Designator= Old Comment= New Comment=100R
+Change Component Comment : Designator= Old Comment= New Comment=100R
+Change Component Comment : Designator= Old Comment= New Comment=JP_2
+Change Component Comment : Designator= Old Comment= New Comment=LED-200mil
+Change Component Comment : Designator= Old Comment= New Comment=LED-200mil
+Change Component Comment : Designator= Old Comment= New Comment=LED-200mil
+Change Component Comment : Designator= Old Comment= New Comment=S9014
+Change Component Comment : Designator= Old Comment= New Comment=S9014
+Change Component Comment : Designator= Old Comment= New Comment=S9014
+Change Component Comment : Designator= Old Comment= New Comment=Solderable Jump
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=JP1
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Description : Designator=R6 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R5 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R4 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R3 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R2 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R1 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=C3 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C2 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C1 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[1]{}width[15]{}height[15]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=giao-dong-led Member=Component C1 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C2 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component C3 47uF
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? QTouch Button
+Added Member To Class: ClassName=giao-dong-led Member=Component J1 Solderable Jump
+Added Member To Class: ClassName=giao-dong-led Member=Component JP1 JP_2
+Added Member To Class: ClassName=giao-dong-led Member=Component LED1 LED-200mil
+Added Member To Class: ClassName=giao-dong-led Member=Component LED2 LED-200mil
+Added Member To Class: ClassName=giao-dong-led Member=Component LED3 LED-200mil
+Added Member To Class: ClassName=giao-dong-led Member=Component Q1 S9014
+Added Member To Class: ClassName=giao-dong-led Member=Component Q2 S9014
+Added Member To Class: ClassName=giao-dong-led Member=Component Q3 S9014
+Added Member To Class: ClassName=giao-dong-led Member=Component R1 100R
+Added Member To Class: ClassName=giao-dong-led Member=Component R2 100R
+Added Member To Class: ClassName=giao-dong-led Member=Component R3 100R
+Added Member To Class: ClassName=giao-dong-led Member=Component R4 4.7K
+Added Member To Class: ClassName=giao-dong-led Member=Component R5 4.7K
+Added Member To Class: ClassName=giao-dong-led Member=Component R6 4.7K
+Added Room: Name=giao-dong-led

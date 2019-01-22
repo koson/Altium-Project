@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=CS? NewDesignator=CS1
+Change Component Designator: OldDesignator=CS? NewDesignator=CS2
+Change Component Designator: OldDesignator=CS? NewDesignator=CS3
+Change Component Designator: OldDesignator=CS? NewDesignator=CS4
+Change Component Designator: OldDesignator=CS? NewDesignator=CS5
+Change Component Designator: OldDesignator=CS? NewDesignator=CS6
+Change Component Designator: OldDesignator=CS? NewDesignator=CS7
+Change Component Designator: OldDesignator=CS? NewDesignator=CS8
+Change Component Designator: OldDesignator=CS? NewDesignator=CS10
+Change Component Designator: OldDesignator=CS? NewDesignator=CS11
+Change Component Designator: OldDesignator=CS? NewDesignator=CS12
+Change Component Designator: OldDesignator=CS? NewDesignator=CS13
+Change Component Designator: OldDesignator=CS? NewDesignator=CS14
+Change Component Designator: OldDesignator=CS? NewDesignator=CS15
+Change Component Designator: OldDesignator=CS?? NewDesignator=CS9
+Added Member To Class: ClassName=giao-dong-led Member=Component CS2 Mutual Ring mTouch Sensor
+Added Member To Class: ClassName=giao-dong-led Member=Component CS3 Linear mTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS4 Chevron mTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS5 Small QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS6 Small QTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS7 Small QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS8 QTouch Button
+Added Member To Class: ClassName=giao-dong-led Member=Component CS10 Medium Resistively Interpolated QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS11 Medium Resitively Interpolated QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS12 QMatrix Button
+Added Member To Class: ClassName=giao-dong-led Member=Component CS13 Medium QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS14 Medium QTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS15 Medium QMatrix Slider
+Added Room: Name=giao-dong-led

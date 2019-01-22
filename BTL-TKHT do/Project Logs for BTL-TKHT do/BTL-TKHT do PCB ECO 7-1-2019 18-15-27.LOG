@@ -1,0 +1,11 @@
+Change Component Description : Designator=R1 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R2 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R3 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R4 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R5 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=C2 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C3 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C6 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C7 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Added Member To Class: ClassName=BTL-TKHT do Member=Component D2 Diode
+Added Room: Name=BTL-TKHT do

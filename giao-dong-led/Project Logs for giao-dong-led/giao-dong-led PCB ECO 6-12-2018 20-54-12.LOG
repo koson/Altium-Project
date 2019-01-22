@@ -1,0 +1,26 @@
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[LinearSlider]{}centerWidth[15]{}squareHeight[20]{}splitWidth[2]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "MICROCHIP_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[MutualCircle]{}inPadDiameter[2]{}middlePadDiameter[1]{}outPadDiameter[4]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "MICROCHIP_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[ChevronSlider]{}angle[75]{}height[20]{}splitWidth[2]{}sliderWidth[3]{}numDevices[2]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "MICROCHIP_TOUCH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium Resistively Interpolated QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Small QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium Resitively Interpolated QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium & Large QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Mutual Ring mTouch Sensor
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Small QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? QMatrix Button
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium QMatrix Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? QTouch Button
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Chevron mTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Small QTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium QTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium QTouch Wheel
+Added Room: Name=giao-dong-led

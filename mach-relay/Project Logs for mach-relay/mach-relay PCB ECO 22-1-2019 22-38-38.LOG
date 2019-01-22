@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIODE - VERTICAL New Footprint=DIODE - Horizontal
+Added Room: Name=mach-relay

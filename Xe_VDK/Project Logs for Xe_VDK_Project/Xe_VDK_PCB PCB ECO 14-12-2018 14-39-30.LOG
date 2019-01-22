@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=RC1 Pin=IC2-5
+Removed Pin From Net: NetName=RC0 Pin=IC2-6
+Removed Pin From Net: NetName=RC2 Pin=IC2-7
+Removed Pin From Net: NetName=RC2 Pin=IC2-10
+Removed Pin From Net: NetName=RC3 Pin=IC2-11
+Removed Pin From Net: NetName=RC1 Pin=IC2-12
+Added Pin To Net: NetName=A1 Pin=IC2-5
+Added Pin To Net: NetName=A1 Pin=IC2-10
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=IC2-7
+Added Pin To Net: NetName=A2 Pin=IC2-12
+Added Net: Name=A2
+Added Pin To Net: NetName=E1 Pin=IC2-6
+Added Net: Name=E1
+Added Pin To Net: NetName=E2 Pin=IC2-11
+Added Net: Name=E2
+Added Room: Name=Xe_VDK_Schematic

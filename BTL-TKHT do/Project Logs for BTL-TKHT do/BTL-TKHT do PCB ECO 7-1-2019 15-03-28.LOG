@@ -1,0 +1,8 @@
+Added Component: Designator=*(INA128)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U?(TO220-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "LM7808"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Class: Name=BTL-TKHT do
+Added Room: Name=BTL-TKHT do

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES New Footprint=RES_VERTICAL
+Change Component Footprint: Designator=R4 Old Footprint=RES New Footprint=RES_VERTICAL
+Change Component Description : Designator=LDR Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R1 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R3 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R4 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R5 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R7 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Added Component: Designator=JP1(JP_2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AC- Pin=JP1-1
+Added Pin To Net: NetName=AC+ Pin=JP1-2
+Added Member To Class: ClassName=Led-3V Member=Component JP1 JP_2

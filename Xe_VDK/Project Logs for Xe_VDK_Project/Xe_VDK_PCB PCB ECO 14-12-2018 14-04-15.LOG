@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=SW1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Member From Class: ClassName=Xe_VDK_Schematic Member=SW1
+Change Component Designator: OldDesignator=+12 NewDesignator=HD2
+Added Component: Designator=button?(Button - 4-pin)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=button?-1
+Added Pin To Net: NetName=GND Pin=button?-1
+Added Pin To Net: NetName=NetC1_2 Pin=button?-2
+Added Pin To Net: NetName=NetC1_2 Pin=button?-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Netbutton?_2
+Added Member To Class: ClassName=Xe_VDK_Schematic Member=Component button? Button
+Added Room: Name=Xe_VDK_Schematic

@@ -1,0 +1,56 @@
+Change Component Comment : Designator=CS? Old Comment=QMatrix Button New Comment=Medium & Large QMatrix Wheel
+Added Component: Designator=CS??()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[5]{}width[32]{}height[12]{}channels[4]{}segmentsbetweenchannels[0]{}t[0.3]{}ywidth[0.5]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[1]{}width[15]{}height[15]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[10]{}odiameter[20]{}idiameter[7.5]{}numberofkeys[4]{}segmentsbetweenchannels[1]{}gapthickness[0.3]{}fingers[3]{}xwidth[1]{}ywidth[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[2]{}width[15]{}height[15]{}gapthickness[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[9]{}odiameter[30]{}idiameter[9]{}segmentsbetweenchannels[3]{}gapthickness[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[11]{}odiameter[30]{}idiameter[7.5]{}numberofkeys[4]{}segmentsbetweenchannels[3]{}gapthickness[0.3]{}ywidth[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[8]{}odiameter[30]{}idiameter[10]{}gapthickness[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[3]{}width[25]{}height[12]{}gapthickness[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[7]{}diameter[20]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[6]{}width[50]{}height[12]{}gapthickness[0.3]{}numchannels[4]{}segmentsbetweenchannels[1]{}ywidth[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=CS?()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[4]{}width[50]{}height[12]{}gapthickness[0.3]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=giao-dong-led Member=Component CS?? Small QMatrix Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? QTouch Button
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Small QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? QMatrix Button
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium Resistively Interpolated QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium Resitively Interpolated QMatrix Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Small QTouch Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Small QTouch Wheel
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium QMatrix Slider
+Added Member To Class: ClassName=giao-dong-led Member=Component CS? Medium & Large QMatrix Wheel

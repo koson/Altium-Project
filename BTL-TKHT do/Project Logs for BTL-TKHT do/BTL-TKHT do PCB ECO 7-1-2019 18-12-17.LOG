@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=D2-A
+Removed Pin From Net: NetName=NetD1_C Pin=D2-C
+Removed Pin From Net: NetName=NetC5_1 Pin=D3-C
+Removed Member From Class: ClassName=BTL-TKHT do Member=D3
+Added Component: Designator=D2(Diode)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC5_1 Pin=D2-A
+Added Pin To Net: NetName=NetD1_C Pin=D2-A
+Added Pin To Net: NetName=NetC1_2 Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=D4-A
+Added Pin To Net: NetName=NetD2_C Pin=T1-6
+Added Net: Name=NetD2_C
+Added Member To Class: ClassName=BTL-TKHT do Member=Component D2 Diode

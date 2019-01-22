@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=F? Old Footprint=FUSE1 New Footprint=Fuse
+Added Member To Class: ClassName=BTL-TKHT do Member=Component F? F1A
+Added Member To Class: ClassName=BTL-TKHT do Member=Component F? F1A
+Added Member To Class: ClassName=BTL-TKHT do Member=Component IC? LM7805
+Added Room: Name=BTL-TKHT do

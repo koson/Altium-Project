@@ -1,0 +1,95 @@
+Change Component Comment : Designator=F? Old Comment=F1A New Comment=Fuse
+Change component parameters: Designator = "F?"; Footprint = "Fuse"; UniqueID = "\VDDEUGJF"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=BT?(EE16/7/4 (E16))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "BA xung"; VariantName = "[No Variations]"
+Added Component: Designator=H2_?(Header 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T?(ETD39)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "(Input Voltage) Ui"; Value = "360-400 V (DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/760895651.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Otto Christin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "NOV 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "4.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutPut Voltage"; Value = "48 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "760895651"; VariantName = "[No Variations]"
+Added Component: Designator=T?(ETD34)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "(Input Voltage) Ui"; Value = "360-400 V (DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/760895441.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Otto Christin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "NOV 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "6.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutPut Voltage"; Value = "24 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "760895441"; VariantName = "[No Variations]"
+Added Component: Designator=T?(ETD44)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "(Input Voltage) Ui"; Value = "360-400 V (DC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/760895731.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Otto Christin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "NOV 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "20.8A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OutPut Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "760895731"; VariantName = "[No Variations]"
+Added Component: Designator=T?(EE16/8/5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/pbs/datasheet/750811048.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Otto Christin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "OCT 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "750811048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ui"; Value = "100-400 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=T?(EE13/7/4-Vertical/(EF12.6))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/749118105.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Otto Christin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "OCT 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "2.8mH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Votage (AC)"; Value = "85-265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current (A)"; Value = "0.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output voltage (DC)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "749118105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turns Ratio"; Value = "18.9:1"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(VARISTOR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=H2_?-2
+Added Net: Name=NetF?_1
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Pin To Net: NetName=NetF?_2 Pin=VR?-1
+Added Net: Name=NetF?_2
+Added Pin To Net: NetName=NetH2_?_1 Pin=H2_?-1
+Added Pin To Net: NetName=NetH2_?_1 Pin=VR?-2
+Added Net: Name=NetH2_?_1
+Added Member To Class: ClassName=BTL-TKHT do Member=Component BT? Tranformer
+Added Member To Class: ClassName=BTL-TKHT do Member=Component H2_? HD_2
+Added Member To Class: ClassName=BTL-TKHT do Member=Component IC? LM7805
+Added Member To Class: ClassName=BTL-TKHT do Member=Component T? 360-400 V (DC)
+Added Member To Class: ClassName=BTL-TKHT do Member=Component T? 360-400 V (DC)
+Added Member To Class: ClassName=BTL-TKHT do Member=Component T? 360-400 V (DC)
+Added Member To Class: ClassName=BTL-TKHT do Member=Component T? 100-400 VDC
+Added Member To Class: ClassName=BTL-TKHT do Member=Component T? 2.8mH
+Added Member To Class: ClassName=BTL-TKHT do Member=Component VR? Varistor

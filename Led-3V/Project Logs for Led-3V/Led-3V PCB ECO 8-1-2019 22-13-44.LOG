@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=Led-3V Member=U?
+Added Component: Designator=IC?(LM741)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VR?(VR-S4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Volume 50k"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(VR-S1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Volume 50k"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(VR-S3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Volume 50k"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(VR-S2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Volume 50k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_3 Pin=R?-2
+Added Net: Name=NetIC?_3
+Added Member To Class: ClassName=Led-3V Member=Component IC? lm741-2
+Added Member To Class: ClassName=Led-3V Member=Component R? RES
+Added Member To Class: ClassName=Led-3V Member=Component R? RES
+Added Member To Class: ClassName=Led-3V Member=Component VR? 50K
+Added Member To Class: ClassName=Led-3V Member=Component VR? 50K
+Added Member To Class: ClassName=Led-3V Member=Component VR? 50K
+Added Member To Class: ClassName=Led-3V Member=Component VR? 50K

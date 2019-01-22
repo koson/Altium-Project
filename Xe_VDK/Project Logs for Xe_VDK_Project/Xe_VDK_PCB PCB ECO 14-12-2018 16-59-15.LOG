@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=RC2 Pin=IC2-10
+Removed Pin From Net: NetName=RC1 Pin=IC2-12
+Change Component Description : Designator=C4 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C5 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C8 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C9 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Added Component: Designator=JP1(JP_4x1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RC1 Pin=IC2-10
+Added Pin To Net: NetName=RC2 Pin=IC2-12
+Added Pin To Net: NetName=RC0 Pin=JP1-1
+Added Pin To Net: NetName=RC1 Pin=JP1-2
+Added Pin To Net: NetName=RC2 Pin=JP1-3
+Added Pin To Net: NetName=RC3 Pin=JP1-4
+Added Member To Class: ClassName=Xe_VDK_Schematic Member=Component D4 Diode
+Added Member To Class: ClassName=Xe_VDK_Schematic Member=Component JP1 JP_4x1
+Added Room: Name=Xe_VDK_Schematic

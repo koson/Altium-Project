@@ -1,0 +1,548 @@
+Protel Design System Design Rule Check
+PCB File : D:\Altium Project\auto switch electric bike charger\Copy of auto switch electric bike charger_PCB.PcbDoc
+Date     : 6/12/2018
+Time     : 20:06:18
+
+Processing Rule : Clearance Constraint (Gap=50mil) (All),(All)
+   Violation between Clearance Constraint: (40.221mil < 50mil) Between Area Fill (3321.94mil,1895.126mil) (3529.773mil,1954.279mil) on Bottom Layer And Pad *-13(3474.5mil,2024.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.626mil < 50mil) Between Area Fill (3321.94mil,1895.126mil) (3529.773mil,1954.279mil) on Bottom Layer And Pad *-15(3474.5mil,1824.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.721mil < 50mil) Between Area Fill (3321.94mil,1895.126mil) (3529.773mil,1954.279mil) on Bottom Layer And Pad *-5(3373mil,2025mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.126mil < 50mil) Between Area Fill (3321.94mil,1895.126mil) (3529.773mil,1954.279mil) on Bottom Layer And Pad *-7(3373mil,1825mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Area Fill (3322.24mil,2295.588mil) (3529.272mil,2478.355mil) on Bottom Layer And Pad *-1(3375mil,2425mil) on Multi-Layer 
+   Violation between Clearance Constraint: (41.088mil < 50mil) Between Area Fill (3322.24mil,2295.588mil) (3529.272mil,2478.355mil) on Bottom Layer And Pad *-11(3474.5mil,2224.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.588mil < 50mil) Between Area Fill (3322.24mil,2295.588mil) (3529.272mil,2478.355mil) on Bottom Layer And Pad *-3(3375mil,2226mil) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Area Fill (3322.24mil,2295.588mil) (3529.272mil,2478.355mil) on Bottom Layer And Pad *-9(3476mil,2424mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.342mil < 50mil) Between Area Fill (3322.58mil,1694.647mil) (3531.051mil,1855.158mil) on Bottom Layer And Pad *-14(3474.5mil,1924.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.842mil < 50mil) Between Area Fill (3322.58mil,1694.647mil) (3531.051mil,1855.158mil) on Bottom Layer And Pad *-6(3373mil,1925mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.62mil < 50mil) Between Area Fill (3323.12mil,2094.645mil) (3528.813mil,2154.88mil) on Bottom Layer And Pad *-11(3474.5mil,2224.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.145mil < 50mil) Between Area Fill (3323.12mil,2094.645mil) (3528.813mil,2154.88mil) on Bottom Layer And Pad *-13(3474.5mil,2024.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (41.12mil < 50mil) Between Area Fill (3323.12mil,2094.645mil) (3528.813mil,2154.88mil) on Bottom Layer And Pad *-3(3375mil,2226mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.645mil < 50mil) Between Area Fill (3323.12mil,2094.645mil) (3528.813mil,2154.88mil) on Bottom Layer And Pad *-5(3373mil,2025mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.462mil < 50mil) Between Area Fill (3323.539mil,1993.927mil) (3529.773mil,2054.038mil) on Bottom Layer And Pad *-12(3474.5mil,2124.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.427mil < 50mil) Between Area Fill (3323.539mil,1993.927mil) (3529.773mil,2054.038mil) on Bottom Layer And Pad *-14(3474.5mil,1924.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.962mil < 50mil) Between Area Fill (3323.539mil,1993.927mil) (3529.773mil,2054.038mil) on Bottom Layer And Pad *-4(3373mil,2125mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.927mil < 50mil) Between Area Fill (3323.539mil,1993.927mil) (3529.773mil,2054.038mil) on Bottom Layer And Pad *-6(3373mil,1925mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.385mil < 50mil) Between Area Fill (3325.777mil,2195.364mil) (3530.092mil,2256.115mil) on Bottom Layer And Pad *-10(3474.5mil,2324.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.864mil < 50mil) Between Area Fill (3325.777mil,2195.364mil) (3530.092mil,2256.115mil) on Bottom Layer And Pad *-12(3474.5mil,2124.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.885mil < 50mil) Between Area Fill (3325.777mil,2195.364mil) (3530.092mil,2256.115mil) on Bottom Layer And Pad *-2(3375mil,2325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.364mil < 50mil) Between Area Fill (3325.777mil,2195.364mil) (3530.092mil,2256.115mil) on Bottom Layer And Pad *-4(3373mil,2125mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.5mil < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Pad *-10(3474.5mil,2324.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Pad *-2(3375mil,2325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (17.206mil < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.832mil < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3375mil,2325mil)(3375mil,2425mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3375mil,2325mil)(3474mil,2325mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3375mil,2425mil)(3376mil,2424mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3376mil,2424mil)(3476mil,2424mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-10(3474.5mil,2324.5mil) on Multi-Layer And Pad *-11(3474.5mil,2224.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.5mil < 50mil) Between Pad *-10(3474.5mil,2324.5mil) on Multi-Layer And Pad *-3(3375mil,2226mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.5mil < 50mil) Between Pad *-10(3474.5mil,2324.5mil) on Multi-Layer And Pad *-9(3476mil,2424mil) on Multi-Layer 
+   Violation between Clearance Constraint: (44.736mil < 50mil) Between Pad *-10(3474.5mil,2324.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46mil < 50mil) Between Pad *-10(3474.5mil,2324.5mil) on Multi-Layer And Track (3375mil,2226mil)(3473mil,2226mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46mil < 50mil) Between Pad *-10(3474.5mil,2324.5mil) on Multi-Layer And Track (3473mil,2226mil)(3474.5mil,2224.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Pad *-12(3474.5mil,2124.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.5mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Pad *-2(3375mil,2325mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.5mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Pad *-4(3373mil,2125mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.611mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.821mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (41.533mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.819mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.94mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Track (3373.5mil,2124.5mil)(3474.5mil,2124.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Track (3375mil,2325mil)(3474mil,2325mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Track (3474.5mil,2324.5mil)(3635.5mil,2324.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-11(3474.5mil,2224.5mil) on Multi-Layer And Track (3474mil,2325mil)(3474.5mil,2324.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Pad *-13(3474.5mil,2024.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (41.5mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Pad *-3(3375mil,2226mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.5mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Pad *-5(3373mil,2025mil) on Multi-Layer 
+   Violation between Clearance Constraint: (44.521mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.19mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Track (3373mil,2025mil)(3474mil,2025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (49mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Track (3375mil,2226mil)(3473mil,2226mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Track (3473mil,2226mil)(3474.5mil,2224.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-12(3474.5mil,2124.5mil) on Multi-Layer And Track (3474mil,2025mil)(3474.5mil,2024.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Pad *-14(3474.5mil,1924.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.5mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Pad *-4(3373mil,2125mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.5mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Pad *-6(3373mil,1925mil) on Multi-Layer 
+   Violation between Clearance Constraint: (44.819mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.819mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.94mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.94mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Track (3373.5mil,1924.5mil)(3474.5mil,1924.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-13(3474.5mil,2024.5mil) on Multi-Layer And Track (3373.5mil,2124.5mil)(3474.5mil,2124.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Pad *-15(3474.5mil,1824.5mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.5mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Pad *-5(3373mil,2025mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.5mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Pad *-7(3373mil,1825mil) on Multi-Layer 
+   Violation between Clearance Constraint: (44.819mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.521mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.94mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.254mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Track (3373.5mil,1824.5mil)(3474.5mil,1824.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Track (3373mil,2025mil)(3474mil,2025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-14(3474.5mil,1924.5mil) on Multi-Layer And Track (3474mil,2025mil)(3474.5mil,2024.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40.5mil < 50mil) Between Pad *-15(3474.5mil,1824.5mil) on Multi-Layer And Pad *-6(3373mil,1925mil) on Multi-Layer 
+   Violation between Clearance Constraint: (44.819mil < 50mil) Between Pad *-15(3474.5mil,1824.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.94mil < 50mil) Between Pad *-15(3474.5mil,1824.5mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-15(3474.5mil,1824.5mil) on Multi-Layer And Track (3373.5mil,1924.5mil)(3474.5mil,1924.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (39mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Pad *-3(3375mil,2226mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Pad *-9(3476mil,2424mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.12mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (39.12mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.237mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.5mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Track (3149mil,2226mil)(3375mil,2226mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.5mil < 50mil) Between Pad *-2(3375mil,2325mil) on Multi-Layer And Track (3375mil,2226mil)(3473mil,2226mil) on Bottom Layer 
+   Violation between Clearance Constraint: (41mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Pad *-4(3373mil,2125mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.321mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (41.163mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (41.163mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.44mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.319mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.5mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Track (3125mil,2125mil)(3373mil,2125mil) on Bottom Layer 
+   Violation between Clearance Constraint: (49mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Track (3373.5mil,2124.5mil)(3474.5mil,2124.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48.5mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Track (3373mil,2125mil)(3373.5mil,2124.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.5mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Track (3375mil,2325mil)(3375mil,2425mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.5mil < 50mil) Between Pad *-3(3375mil,2226mil) on Multi-Layer And Track (3375mil,2325mil)(3474mil,2325mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Pad *-5(3373mil,2025mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.12mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.12mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (41.12mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.022mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.973mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49.81mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Track (3100mil,2025mil)(3373mil,2025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48.5mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Track (3149mil,2226mil)(3375mil,2226mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Track (3373mil,2025mil)(3474mil,2025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48.5mil < 50mil) Between Pad *-4(3373mil,2125mil) on Multi-Layer And Track (3375mil,2226mil)(3473mil,2226mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Pad *-6(3373mil,1925mil) on Multi-Layer 
+   Violation between Clearance Constraint: (40.12mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.12mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.793mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.32mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.32mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.95mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49.722mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Track (3075mil,1925mil)(3373mil,1925mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Track (3125mil,2125mil)(3373mil,2125mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Track (3373.5mil,1924.5mil)(3474.5mil,1924.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Track (3373.5mil,2124.5mil)(3474.5mil,2124.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Track (3373mil,1925mil)(3373.5mil,1924.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-5(3373mil,2025mil) on Multi-Layer And Track (3373mil,2125mil)(3373.5mil,2124.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Pad *-7(3373mil,1825mil) on Multi-Layer 
+   Violation between Clearance Constraint: (41.364mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.022mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.32mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.208mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49.722mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Track (3100mil,2025mil)(3373mil,2025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Track (3373.5mil,1824.5mil)(3474.5mil,1824.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Track (3373mil,1725mil)(3373mil,1825mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Track (3373mil,1825mil)(3373.5mil,1824.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-6(3373mil,1925mil) on Multi-Layer And Track (3373mil,2025mil)(3474mil,2025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (38.745mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.32mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.95mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49.722mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Track (3075mil,1925mil)(3373mil,1925mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Track (3373.5mil,1924.5mil)(3474.5mil,1924.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-7(3373mil,1825mil) on Multi-Layer And Track (3373mil,1925mil)(3373.5mil,1924.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (41.022mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.831mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (23.5mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3375mil,2325mil)(3375mil,2425mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.5mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3375mil,2325mil)(3474mil,2325mil) on Bottom Layer 
+   Violation between Clearance Constraint: (22.5mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3375mil,2425mil)(3376mil,2424mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3376mil,2424mil)(3476mil,2424mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3474.5mil,2324.5mil)(3635.5mil,2324.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.5mil < 50mil) Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3474mil,2325mil)(3474.5mil,2324.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad B0505S-1(2350mil,1681.102mil) on Multi-Layer And Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.061mil < 50mil) Between Pad B0505S-1(2350mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-1(2350mil,1681.102mil) on Multi-Layer And Track (2450mil,1640mil)(2450mil,1681.102mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48.375mil < 50mil) Between Pad B0505S-1(2350mil,1681.102mil) on Multi-Layer And Track (2450mil,1640mil)(2500mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.898mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Pad Free-2(2400mil,1780mil) on Bottom Layer 
+   Violation between Clearance Constraint: (38.898mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Pad Free-2(2500mil,1780mil) on Bottom Layer 
+   Violation between Clearance Constraint: (39.069mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (39.115mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.12mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.833mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Track (2118.898mil,1450mil)(2350mil,1681.102mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Track (2350mil,1681.102mil)(2350mil,1730mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40.36mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Track (2350mil,1730mil)(2400mil,1780mil) on Bottom Layer 
+   Violation between Clearance Constraint: (49.242mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Track (2500mil,1780mil)(2500mil,1880mil) on Bottom Layer 
+   Violation between Clearance Constraint: (49.242mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Track (2500mil,1780mil)(2520mil,1780mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-2(2450mil,1681.102mil) on Multi-Layer And Track (2550mil,1681.102mil)(2550mil,1750mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Pad B0505S-4(2650mil,1681.102mil) on Multi-Layer 
+   Violation between Clearance Constraint: (31.102mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Pad Free-(2600mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (31.102mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Pad Free-2(2500mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (39.319mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.45mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Track (2450mil,1640mil)(2450mil,1681.102mil) on Bottom Layer 
+   Violation between Clearance Constraint: (34.848mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Track (2450mil,1640mil)(2500mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (41.792mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Track (2500mil,1530mil)(2500mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (34.848mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Track (2600mil,1590mil)(2650mil,1640mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Track (2650mil,1640mil)(2650mil,1681.102mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad B0505S-3(2550mil,1681.102mil) on Multi-Layer And Track (2650mil,1681.102mil)(2700mil,1731.102mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad C1-1(1500mil,2200mil) on Multi-Layer And Pad C1-2(1500mil,2300mil) on Multi-Layer 
+   Violation between Clearance Constraint: (35.228mil < 50mil) Between Pad C1-1(1500mil,2200mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C1-1(1500mil,2200mil) on Multi-Layer And Track (1350mil,2300mil)(1500mil,2300mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Pad C1-3(1500mil,2400mil) on Multi-Layer 
+   Violation between Clearance Constraint: (30.041mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.807mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Track (1351.82mil,2481.858mil)(1433.678mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Track (1433.678mil,2400mil)(1500mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Track (1500mil,2050mil)(1500mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Track (1500mil,2400mil)(1585.109mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (41.217mil < 50mil) Between Pad C1-2(1500mil,2300mil) on Multi-Layer And Track (1585.109mil,2400mil)(1699.261mil,2285.848mil) on Bottom Layer 
+   Violation between Clearance Constraint: (39.662mil < 50mil) Between Pad C1-4(1500mil,2500mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (27.932mil < 50mil) Between Pad C1-4(1500mil,2500mil) on Multi-Layer And Track (1351.82mil,2481.858mil)(1433.678mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C1-4(1500mil,2500mil) on Multi-Layer And Track (1433.678mil,2400mil)(1500mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C1-4(1500mil,2500mil) on Multi-Layer And Track (1500mil,2400mil)(1585.109mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.181mil < 50mil) Between Pad C1-4(1500mil,2500mil) on Multi-Layer And Track (1585.109mil,2400mil)(1699.261mil,2285.848mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-1(1900mil,2000mil) on Multi-Layer And Pad C2-2(2000mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.047mil < 50mil) Between Pad C2-1(1900mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.357mil < 50mil) Between Pad C2-1(1900mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-1(1900mil,2000mil) on Multi-Layer And Track (2000mil,2000mil)(2000mil,2175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Pad C2-9(2700mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.02mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Pad C5-1(2700mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (25mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Pad C5-2(2800mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (33.577mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.445mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.768mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.834mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.1mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Track (2700mil,1731.102mil)(2700mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Track (2700mil,2000mil)(2700mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.5mil < 50mil) Between Pad C2-10(2800mil,2000mil) on Multi-Layer And Track (2800mil,2100mil)(2800mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Pad C2-3(2100mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (41.323mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Pad Free-5(1900mil,2125mil) on Multi-Layer 
+   Violation between Clearance Constraint: (48.812mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Pad Free-5(2100mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (36.538mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.211mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.616mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.647mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.617mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Track (1900mil,2000mil)(1900mil,2125mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-2(2000mil,2000mil) on Multi-Layer And Track (2100mil,2000mil)(2100mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Pad C2-4(2200mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.505mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.422mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Track (2000mil,2000mil)(2000mil,2175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.153mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Track (2140mil,1850mil)(2200mil,1910mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Track (2200mil,1910mil)(2200mil,1950mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-3(2100mil,2000mil) on Multi-Layer And Track (2200mil,1950mil)(2200mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Pad C2-5(2300mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Pad Free-5(2100mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (27.27mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.445mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.357mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.386mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45.008mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Track (2100mil,2000mil)(2100mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-4(2200mil,2000mil) on Multi-Layer And Track (2300mil,2000mil)(2300mil,2350mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Pad C2-6(2400mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (36.332mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36.892mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.971mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.357mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.5mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Track (2110mil,1670mil)(2320mil,1880mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Track (2200mil,1910mil)(2200mil,1950mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Track (2200mil,1950mil)(2200mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.5mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Track (2320mil,1880mil)(2500mil,1880mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-5(2300mil,2000mil) on Multi-Layer And Track (2400mil,2000mil)(2400mil,2310mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Pad C2-7(2500mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (36.332mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.595mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.839mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.616mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.312mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Track (2300mil,2000mil)(2300mil,2350mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.5mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Track (2320mil,1880mil)(2500mil,1880mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Track (2500mil,1880mil)(2500mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-6(2400mil,2000mil) on Multi-Layer And Track (2500mil,2000mil)(2500mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Pad C2-8(2600mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.616mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Track (2400mil,2000mil)(2400mil,2310mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-7(2500mil,2000mil) on Multi-Layer And Track (2600mil,2000mil)(2600mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Pad C2-9(2700mil,2000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (39.02mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Pad C5-1(2700mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.116mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.445mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.834mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.616mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.1mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.615mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Track (2500mil,1880mil)(2500mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Track (2500mil,2000mil)(2500mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Track (2700mil,1731.102mil)(2700mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-8(2600mil,2000mil) on Multi-Layer And Track (2700mil,2000mil)(2700mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (38.173mil < 50mil) Between Pad C2-9(2700mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C2-9(2700mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.445mil < 50mil) Between Pad C2-9(2700mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.1mil < 50mil) Between Pad C2-9(2700mil,2000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-9(2700mil,2000mil) on Multi-Layer And Track (2600mil,2000mil)(2600mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C2-9(2700mil,2000mil) on Multi-Layer And Track (2800mil,2000mil)(3000mil,2000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (35.358mil < 50mil) Between Pad C3-1(2800mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.289mil < 50mil) Between Pad C3-1(2800mil,2600mil) on Multi-Layer And Track (2450mil,2500mil)(2750mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40.289mil < 50mil) Between Pad C3-1(2800mil,2600mil) on Multi-Layer And Track (2750mil,2500mil)(3125mil,2125mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-10(1900mil,2600mil) on Multi-Layer And Pad C3-9(2000mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.268mil < 50mil) Between Pad C3-10(1900mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-10(1900mil,2600mil) on Multi-Layer And Track (2000mil,2600mil)(2000mil,2700mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-2(2700mil,2600mil) on Multi-Layer And Pad C3-3(2600mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-3(2600mil,2600mil) on Multi-Layer And Pad C3-4(2500mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (32.984mil < 50mil) Between Pad C3-3(2600mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (34.154mil < 50mil) Between Pad C3-3(2600mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.5mil < 50mil) Between Pad C3-3(2600mil,2600mil) on Multi-Layer And Track (2450mil,2500mil)(2750mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-3(2600mil,2600mil) on Multi-Layer And Track (2500mil,2600mil)(2500mil,2667.737mil) on Bottom Layer 
+   Violation between Clearance Constraint: (31.41mil < 50mil) Between Pad C3-3(2600mil,2600mil) on Multi-Layer And Track (2500mil,2667.737mil)(2700mil,2867.737mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Pad C3-5(2400mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (34.154mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.771mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.289mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Track (2300mil,2350mil)(2450mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Track (2400mil,2600mil)(2400mil,2683.507mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.562mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Track (2400mil,2683.507mil)(2600mil,2883.507mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.5mil < 50mil) Between Pad C3-4(2500mil,2600mil) on Multi-Layer And Track (2450mil,2500mil)(2750mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Pad C3-6(2300mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (34.251mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.429mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.421mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.289mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Track (2300mil,2350mil)(2450mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Track (2300mil,2600mil)(2300mil,2700mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40.289mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Track (2450mil,2500mil)(2750mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Track (2500mil,2600mil)(2500mil,2667.737mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.44mil < 50mil) Between Pad C3-5(2400mil,2600mil) on Multi-Layer And Track (2500mil,2667.737mil)(2700mil,2867.737mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-6(2300mil,2600mil) on Multi-Layer And Pad C3-7(2200mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.432mil < 50mil) Between Pad C3-6(2300mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49.016mil < 50mil) Between Pad C3-6(2300mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-6(2300mil,2600mil) on Multi-Layer And Track (2200mil,2600mil)(2200mil,2719.953mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-6(2300mil,2600mil) on Multi-Layer And Track (2400mil,2600mil)(2400mil,2683.507mil) on Bottom Layer 
+   Violation between Clearance Constraint: (49.925mil < 50mil) Between Pad C3-6(2300mil,2600mil) on Multi-Layer And Track (2400mil,2683.507mil)(2600mil,2883.507mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Pad C3-8(2100mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.444mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (39.127mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.125mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Track (2100mil,2500mil)(2100mil,2600mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Track (2100mil,2600mil)(2100mil,2740mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-7(2200mil,2600mil) on Multi-Layer And Track (2300mil,2600mil)(2300mil,2700mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.008mil < 50mil) Between Pad C3-8(2100mil,2600mil) on Multi-Layer And Pad C3-9(2000mil,2600mil) on Multi-Layer 
+   Violation between Clearance Constraint: (37.156mil < 50mil) Between Pad C3-8(2100mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.301mil < 50mil) Between Pad C3-8(2100mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-8(2100mil,2600mil) on Multi-Layer And Track (2000mil,2600mil)(2000mil,2700mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-8(2100mil,2600mil) on Multi-Layer And Track (2200mil,2600mil)(2200mil,2719.953mil) on Bottom Layer 
+   Violation between Clearance Constraint: (41.323mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Pad Free-5(1900mil,2475mil) on Multi-Layer 
+   Violation between Clearance Constraint: (36.86mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36.946mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.128mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.688mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (44.312mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.265mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Track (1900mil,2475mil)(1900mil,2600mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Track (2100mil,2500mil)(2100mil,2600mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.004mil < 50mil) Between Pad C3-9(2000mil,2600mil) on Multi-Layer And Track (2100mil,2600mil)(2100mil,2740mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Pad C5-2(2800mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (31.835mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (34.94mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (39.643mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.379mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.671mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Track (2600mil,2000mil)(2600mil,2100mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad C5-1(2700mil,2100mil) on Multi-Layer And Track (2800mil,2100mil)(2800mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40mil < 50mil) Between Pad Free-(2600mil,1590mil) on Bottom Layer And Pad Free-2(2500mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-10(1000mil,3166mil) on Multi-Layer And Track (1000mil,1000mil)(1000mil,3166mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-10(1000mil,3166mil) on Multi-Layer And Track (1000mil,3166mil)(1196mil,3166mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (12.926mil < 50mil) Between Pad Free-12(1430mil,3400mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-12(1430mil,3400mil) on Multi-Layer And Track (1196mil,3166mil)(1430mil,3400mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (23.825mil < 50mil) Between Pad Free-12(1430mil,3400mil) on Multi-Layer And Track (1400mil,3262.825mil)(1477.175mil,3340mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-12(1430mil,3400mil) on Multi-Layer And Track (1430mil,3400mil)(5620mil,3400mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (23.825mil < 50mil) Between Pad Free-12(1430mil,3400mil) on Multi-Layer And Track (1477.175mil,3340mil)(1660mil,3340mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-15(5863.945mil,3166.576mil) on Multi-Layer And Track (5620mil,3400mil)(5854mil,3166mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-15(5863.945mil,3166.576mil) on Multi-Layer And Track (5854mil,3166mil)(6112.11mil,3166mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (41.792mil < 50mil) Between Pad Free-2(2500mil,1590mil) on Bottom Layer And Track (2550mil,1681.102mil)(2550mil,1750mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad Free-2(2500mil,1590mil) on Bottom Layer And Track (2600mil,1590mil)(2650mil,1640mil) on Bottom Layer 
+   Violation between Clearance Constraint: (29.155mil < 50mil) Between Pad Free-5(1900mil,2125mil) on Multi-Layer And Pad Free-5(2025mil,2200mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.538mil < 50mil) Between Pad Free-5(1900mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.253mil < 50mil) Between Pad Free-5(1900mil,2125mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad Free-5(1900mil,2125mil) on Multi-Layer And Track (2000mil,2000mil)(2000mil,2175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (36.084mil < 50mil) Between Pad Free-5(1900mil,2475mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad Free-5(1900mil,2475mil) on Multi-Layer And Track (1802.422mil,2375mil)(1975mil,2375mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.72mil < 50mil) Between Pad Free-5(2025mil,2200mil) on Multi-Layer And Pad Free-5(2100mil,2100mil) on Multi-Layer 
+   Violation between Clearance Constraint: (38.377mil < 50mil) Between Pad Free-5(2025mil,2200mil) on Multi-Layer And Pad Free-5(2142.929mil,2285.848mil) on Multi-Layer 
+   Violation between Clearance Constraint: (27.084mil < 50mil) Between Pad Free-5(2025mil,2200mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (39.297mil < 50mil) Between Pad Free-5(2025mil,2200mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (33.348mil < 50mil) Between Pad Free-5(2025mil,2200mil) on Multi-Layer And Track (1699.261mil,2285.848mil)(2142.929mil,2285.848mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48.563mil < 50mil) Between Pad Free-5(2025mil,2200mil) on Multi-Layer And Track (1900mil,2000mil)(1900mil,2125mil) on Bottom Layer 
+   Violation between Clearance Constraint: (43.489mil < 50mil) Between Pad Free-5(2100mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.98mil < 50mil) Between Pad Free-5(2100mil,2100mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (47.5mil < 50mil) Between Pad Free-5(2100mil,2100mil) on Multi-Layer And Track (2000mil,2000mil)(2000mil,2175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-8(6112.11mil,1000mil) on Multi-Layer And Track (4058mil,1000mil)(6112.11mil,1000mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-8(6112.11mil,1000mil) on Multi-Layer And Track (6112.11mil,3166mil)(6112.11mil,1000mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-9(1000mil,1000mil) on Multi-Layer And Track (1000mil,1000mil)(1000mil,3166mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 50mil) Between Pad Free-9(1000mil,1000mil) on Multi-Layer And Track (1000mil,1000mil)(2278.028mil,1000mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-1(1400mil,3000mil) on Multi-Layer And Pad LCD1-2(1500mil,3000.016mil) on Multi-Layer 
+   Violation between Clearance Constraint: (30.12mil < 50mil) Between Pad LCD1-1(1400mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-1(1400mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.691mil < 50mil) Between Pad LCD1-1(1400mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-1(1400mil,3000mil) on Multi-Layer And Track (1500mil,2825.723mil)(1500mil,3000.016mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-1(1400mil,3000mil) on Multi-Layer And Track (1500mil,3000.016mil)(1500mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-10(2300mil,3000mil) on Multi-Layer And Pad LCD1-11(2400mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (27.14mil < 50mil) Between Pad LCD1-10(2300mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (35.838mil < 50mil) Between Pad LCD1-10(2300mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36mil < 50mil) Between Pad LCD1-10(2300mil,3000mil) on Multi-Layer And Track (1944.325mil,3118.5mil)(2850mil,3118.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.637mil < 50mil) Between Pad LCD1-10(2300mil,3000mil) on Multi-Layer And Track (2200mil,2719.953mil)(2400mil,2919.953mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-10(2300mil,3000mil) on Multi-Layer And Track (2400mil,2919.953mil)(2400mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-11(2400mil,3000mil) on Multi-Layer And Pad LCD1-12(2500mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-11(2400mil,3000mil) on Multi-Layer And Track (2500mil,2900mil)(2500mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Pad LCD1-13(2600mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (30.176mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (35.838mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (38.798mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Track (1944.325mil,3118.5mil)(2850mil,3118.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45.521mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Track (2200mil,2719.953mil)(2400mil,2919.953mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Track (2400mil,2919.953mil)(2400mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-12(2500mil,3000mil) on Multi-Layer And Track (2600mil,2883.507mil)(2600mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (35.838mil < 50mil) Between Pad LCD1-14(2700mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (48.474mil < 50mil) Between Pad LCD1-14(2700mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36mil < 50mil) Between Pad LCD1-14(2700mil,3000mil) on Multi-Layer And Track (1944.325mil,3118.5mil)(2850mil,3118.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-14(2700mil,3000mil) on Multi-Layer And Track (2600mil,2883.507mil)(2600mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-14(2700mil,3000mil) on Multi-Layer And Track (2800mil,2855.76mil)(2800mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-2(1500mil,3000.016mil) on Multi-Layer And Pad LCD1-3(1600mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-2(1500mil,3000.016mil) on Multi-Layer And Track (1400mil,2950mil)(1400mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-2(1500mil,3000.016mil) on Multi-Layer And Track (1400mil,3000mil)(1400mil,3262.825mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-2(1500mil,3000.016mil) on Multi-Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Pad LCD1-4(1700mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (29.961mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (30.12mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (30.231mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.324mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Track (1500mil,2825.723mil)(1500mil,3000.016mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Track (1500mil,3000.016mil)(1500mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-3(1600mil,3000mil) on Multi-Layer And Track (1700mil,2900mil)(1700mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-4(1700mil,3000mil) on Multi-Layer And Pad LCD1-5(1800mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (28.989mil < 50mil) Between Pad LCD1-4(1700mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (30.12mil < 50mil) Between Pad LCD1-4(1700mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (40.9mil < 50mil) Between Pad LCD1-4(1700mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-4(1700mil,3000mil) on Multi-Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-4(1700mil,3000mil) on Multi-Layer And Track (1800mil,3000mil)(1800mil,3110mil) on Bottom Layer 
+   Violation between Clearance Constraint: (30mil < 50mil) Between Pad LCD1-6(1900mil,3000mil) on Multi-Layer And Pad LCD1-7(2000mil,3000mil) on Multi-Layer 
+   Violation between Clearance Constraint: (20.911mil < 50mil) Between Pad LCD1-7(2000mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (35.838mil < 50mil) Between Pad LCD1-7(2000mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (39.546mil < 50mil) Between Pad LCD1-7(2000mil,3000mil) on Multi-Layer And Track (1852.825mil,3210mil)(1944.325mil,3118.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.5mil < 50mil) Between Pad LCD1-7(2000mil,3000mil) on Multi-Layer And Track (1900mil,2940mil)(1900mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (23.462mil < 50mil) Between Pad LCD1-7(2000mil,3000mil) on Multi-Layer And Track (1900mil,2940mil)(2100mil,2740mil) on Bottom Layer 
+   Violation between Clearance Constraint: (36mil < 50mil) Between Pad LCD1-7(2000mil,3000mil) on Multi-Layer And Track (1944.325mil,3118.5mil)(2850mil,3118.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (35.838mil < 50mil) Between Pad LCD1-8(2100mil,3000mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36mil < 50mil) Between Pad LCD1-8(2100mil,3000mil) on Multi-Layer And Track (1944.325mil,3118.5mil)(2850mil,3118.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (10.548mil < 50mil) Between Pad P1-2(1257.087mil,1349.409mil) on Bottom Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (10.216mil < 50mil) Between Pad P1-2(1257.087mil,1349.409mil) on Bottom Layer And Track (1257.087mil,1323.819mil)(1426.181mil,1323.819mil) on Bottom Layer 
+   Violation between Clearance Constraint: (35mil < 50mil) Between Pad RV1-1(1500mil,3210mil) on Multi-Layer And Pad RV1-2(1600mil,3210mil) on Multi-Layer 
+   Violation between Clearance Constraint: (32.62mil < 50mil) Between Pad RV1-1(1500mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (33.245mil < 50mil) Between Pad RV1-1(1500mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45mil < 50mil) Between Pad RV1-1(1500mil,3210mil) on Multi-Layer And Track (1400mil,3000mil)(1400mil,3262.825mil) on Bottom Layer 
+   Violation between Clearance Constraint: (27.227mil < 50mil) Between Pad RV1-1(1500mil,3210mil) on Multi-Layer And Track (1400mil,3262.825mil)(1477.175mil,3340mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45mil < 50mil) Between Pad RV1-1(1500mil,3210mil) on Multi-Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (35mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Pad RV1-3(1700mil,3210mil) on Multi-Layer 
+   Violation between Clearance Constraint: (32.62mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (36.578mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (37.676mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (43.268mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (49.984mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (45mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Track (1500mil,3000.016mil)(1500mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Track (1700mil,3210mil)(1700mil,3300mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Track (1700mil,3210mil)(1800mil,3110mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45mil < 50mil) Between Pad RV1-2(1600mil,3210mil) on Multi-Layer And Track (1700mil,3210mil)(1852.825mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (43.417mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (1200mil,2750mil)(1400mil,2950mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.461mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.62mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.731mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45.298mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.578mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (1600mil,3000mil)(1600mil,3210mil) on Bottom Layer 
+   Violation between Clearance Constraint: (48.204mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2000mil,2175mil)(2025mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (33.652mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2500mil,2900mil)(2500mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (42.542mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2500mil,2900mil)(2500mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.221mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2800mil,2100mil)(2800mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (44.26mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2800mil,2100mil)(2800mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (47.44mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2800mil,2100mil)(2800mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (41.282mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (2800mil,2575mil)(2800mil,2600mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.221mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (3000mil,2000mil)(3075mil,1925mil) on Bottom Layer 
+   Violation between Clearance Constraint: (46.821mil < 50mil) Between Region (0 hole(s)) Bottom Layer And Track (3473mil,2226mil)(3474.5mil,2224.5mil) on Bottom Layer 
+   Violation between Clearance Constraint: (44.152mil < 50mil) Between Track (1699.261mil,2285.848mil)(2142.929mil,2285.848mil) on Bottom Layer And Track (1975mil,2375mil)(2100mil,2500mil) on Bottom Layer 
+   Violation between Clearance Constraint: (40.848mil < 50mil) Between Track (1699.261mil,2285.848mil)(2142.929mil,2285.848mil) on Bottom Layer And Track (2000mil,2175mil)(2025mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (37.373mil < 50mil) Between Track (2400mil,2683.507mil)(2600mil,2883.507mil) on Bottom Layer And Track (2500mil,2900mil)(2500mil,3000mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45.139mil < 50mil) Between Track (2450mil,2500mil)(2750mil,2500mil) on Bottom Layer And Track (2800mil,2575mil)(2800mil,2600mil) on Bottom Layer 
+   Violation between Clearance Constraint: (43.388mil < 50mil) Between Track (2715mil,2410mil)(3100mil,2025mil) on Bottom Layer And Track (2800mil,2100mil)(2800mil,2200mil) on Bottom Layer 
+   Violation between Clearance Constraint: (43.388mil < 50mil) Between Track (2715mil,2410mil)(3100mil,2025mil) on Bottom Layer And Track (3000mil,2000mil)(3075mil,1925mil) on Bottom Layer 
+   Violation between Clearance Constraint: (45.139mil < 50mil) Between Track (2750mil,2500mil)(3125mil,2125mil) on Bottom Layer And Track (2800mil,2575mil)(2800mil,2600mil) on Bottom Layer 
+   Violation between Clearance Constraint: (43.388mil < 50mil) Between Track (3000mil,2000mil)(3075mil,1925mil) on Bottom Layer And Track (3100mil,2025mil)(3373mil,2025mil) on Bottom Layer 
+Rule Violations :489
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Area Fill (3322.24mil,2295.588mil) (3529.272mil,2478.355mil) on Bottom Layer And Pad *-1(3375mil,2425mil) on Multi-Layer Location : [X = 3375mil][Y = 2425mil]
+   Violation between Short-Circuit Constraint: Between Area Fill (3322.24mil,2295.588mil) (3529.272mil,2478.355mil) on Bottom Layer And Pad *-9(3476mil,2424mil) on Multi-Layer Location : [X = 3475.136mil][Y = 2424mil]
+   Violation between Short-Circuit Constraint: Between Pad *-1(3375mil,2425mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer Location : [X = 3416.318mil][Y = 2404.989mil]
+   Violation between Short-Circuit Constraint: Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3375mil,2325mil)(3375mil,2425mil) on Bottom Layer Location : [X = 3375mil][Y = 2421.304mil]
+   Violation between Short-Circuit Constraint: Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3375mil,2425mil)(3376mil,2424mil) on Bottom Layer Location : [X = 3375.5mil][Y = 2424.5mil]
+   Violation between Short-Circuit Constraint: Between Pad *-1(3375mil,2425mil) on Multi-Layer And Track (3376mil,2424mil)(3476mil,2424mil) on Bottom Layer Location : [X = 3389.195mil][Y = 2424mil]
+   Violation between Short-Circuit Constraint: Between Pad *-9(3476mil,2424mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer Location : [X = 3476mil][Y = 2424mil]
+   Violation between Short-Circuit Constraint: Between Pad *-9(3476mil,2424mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer Location : [X = 3484.091mil][Y = 2424mil]
+   Violation between Short-Circuit Constraint: Between Pad *-9(3476mil,2424mil) on Multi-Layer And Track (3376mil,2424mil)(3476mil,2424mil) on Bottom Layer Location : [X = 3459.804mil][Y = 2424mil]
+   Violation between Short-Circuit Constraint: Between Pad Free-11(1196mil,3166mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer Location : [X = 1205.189mil][Y = 3156.811mil]
+   Violation between Short-Circuit Constraint: Between Pad Free-12(1430mil,3400mil) on Multi-Layer And Region (0 hole(s)) Bottom Layer Location : [X = 1437.672mil][Y = 3378.42mil]
+Rule Violations :11
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=15mil) (Max=45mil) (Preferred=30mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:01

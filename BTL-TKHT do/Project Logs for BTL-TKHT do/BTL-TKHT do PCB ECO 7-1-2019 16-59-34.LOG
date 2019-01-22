@@ -1,0 +1,19 @@
+Change Component Comment : Designator=VR? Old Comment=Varistor New Comment=Varistor 360V
+Added Component: Designator=Cx?(CN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=T?(Transformer_3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF?_2 Pin=T?-1
+Added Pin To Net: NetName=NetH2_?_1 Pin=T?-2
+Added Pin To Net: NetName=GND Pin=T?-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetIC?_1 Pin=T?-4
+Added Net: Name=NetIC?_1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=T?-6
+Added Net: Name=NetIC?_2
+Added Member To Class: ClassName=BTL-TKHT do Member=Component Cx? XXpF
+Added Member To Class: ClassName=BTL-TKHT do Member=Component IC? LM7805
+Added Member To Class: ClassName=BTL-TKHT do Member=Component T? Transformer 2P3S

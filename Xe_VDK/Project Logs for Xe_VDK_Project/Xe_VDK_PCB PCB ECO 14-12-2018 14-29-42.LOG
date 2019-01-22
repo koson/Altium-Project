@@ -1,0 +1,6 @@
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=R?-1
+Added Pin To Net: NetName=NetLED1_A Pin=R?-2
+Added Member To Class: ClassName=Xe_VDK_Schematic Member=Component R? RES
+Added Room: Name=Xe_VDK_Schematic

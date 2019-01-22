@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=Led-3V Member=VR?
+Added Component: Designator=Q?(QTO-220)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(POT_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES_VERTICAL)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetIC?_3 Pin=R?-1
+Added Pin To Net: NetName=+12 Pin=IC?-7
+Added Pin To Net: NetName=+12 Pin=R?-1
+Added Pin To Net: NetName=+12 Pin=R?-2
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=R?-2
+Added Net: Name=NetIC?_2
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Pin To Net: NetName=NetIC?_6 Pin=R?-2
+Added Pin To Net: NetName=NetIC?_6 Pin=R?-2
+Added Net: Name=NetIC?_6
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Led-3V Member=Component Q? IRF840
+Added Member To Class: ClassName=Led-3V Member=Component R? RES
+Added Member To Class: ClassName=Led-3V Member=Component R? RES
+Added Member To Class: ClassName=Led-3V Member=Component R? POT_RES
+Added Member To Class: ClassName=Led-3V Member=Component R? RES
+Added Member To Class: ClassName=Led-3V Member=Component R? RES
+Added Member To Class: ClassName=Led-3V Member=Component R? RES

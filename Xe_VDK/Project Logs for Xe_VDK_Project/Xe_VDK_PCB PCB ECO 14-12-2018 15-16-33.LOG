@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=T+ Pin=Left-1
+Removed Pin From Net: NetName=T- Pin=Left-2
+Added Component: Designator=JP1(JP_4x1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RC0 Pin=JP1-1
+Added Pin To Net: NetName=RC1 Pin=JP1-2
+Added Pin To Net: NetName=RC2 Pin=JP1-3
+Added Pin To Net: NetName=RC3 Pin=JP1-4
+Added Pin To Net: NetName=T- Pin=Left-1
+Added Pin To Net: NetName=T+ Pin=Left-2
+Added Member To Class: ClassName=Xe_VDK_Schematic Member=Component JP1 JP_4x1
+Added Room: Name=Xe_VDK_Schematic

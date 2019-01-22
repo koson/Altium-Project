@@ -1,0 +1,38 @@
+Added Component: Designator=C1(POL_250mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(DIODE - Horizontal)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HD1(HEADER_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HD2(HEADER_3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RELAY-5PIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RELAY-5PIN)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+12 Pin=HD1-1
+Added Pin To Net: NetName=+12 Pin=R1-1
+Added Pin To Net: NetName=+12 Pin=R2-1
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C1--
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=HD1-3
+Added Pin To Net: NetName=GND Pin=HD2-3
+Added Pin To Net: NetName=GND Pin=R1-5
+Added Pin To Net: NetName=GND Pin=R2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=D1-C
+Added Pin To Net: NetName=NetC1_+ Pin=HD1-2
+Added Pin To Net: NetName=NetC1_+ Pin=R1-2
+Added Pin To Net: NetName=NetC1_+ Pin=R1-3
+Added Pin To Net: NetName=NetC1_+ Pin=R2-2
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetHD2_1 Pin=HD2-1
+Added Pin To Net: NetName=NetHD2_1 Pin=R2-3
+Added Net: Name=NetHD2_1
+Added Pin To Net: NetName=NetHD2_2 Pin=HD2-2
+Added Pin To Net: NetName=NetHD2_2 Pin=R2-4
+Added Net: Name=NetHD2_2
+Added Class: Name=mach-relay
+Added Room: Name=mach-relay

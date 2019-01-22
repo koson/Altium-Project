@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES_VERTICAL New Footprint=RES
+Change Component Footprint: Designator=R4 Old Footprint=RES_VERTICAL New Footprint=RES
+Change Component Footprint: Designator=R5 Old Footprint=RES_VERTICAL New Footprint=RES
+Added Component: Designator=JP1(JP_2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AC- Pin=JP1-1
+Added Pin To Net: NetName=AC+ Pin=JP1-2
+Added Member To Class: ClassName=Led-3V Member=Component JP1 JP_2

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetIC1_3 Pin=R1-1
+Removed Pin From Net: NetName=NetIC1_6 Pin=R1-2
+Change Component Comment : Designator=LDR Old Comment= New Comment=RES
+Change Component Comment : Designator=R1 Old Comment= New Comment=RES
+Change Component Comment : Designator=R3 Old Comment= New Comment=RES
+Change Component Comment : Designator=R4 Old Comment= New Comment=RES
+Change Component Comment : Designator=R5 Old Comment= New Comment=RES
+Change Component Comment : Designator=R7 Old Comment= New Comment=RES
+Change Component Designator: OldDesignator=LDR NewDesignator=R2
+Added Pin To Net: NetName=NetIC1_6 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_3 Pin=R1-2

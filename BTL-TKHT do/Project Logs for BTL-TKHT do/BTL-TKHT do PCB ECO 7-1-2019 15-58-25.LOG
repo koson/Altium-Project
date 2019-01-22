@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=BTL-TKHT do Member=U?
+Added Component: Designator=F?(FUSE1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=F?(FUSE1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=F?(FUSE2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(LM7805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IC?(LM7905)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=BTL-TKHT do Member=Component F? F1A
+Added Member To Class: ClassName=BTL-TKHT do Member=Component F? F1A
+Added Member To Class: ClassName=BTL-TKHT do Member=Component F? F1A
+Added Member To Class: ClassName=BTL-TKHT do Member=Component IC? LM7805
+Added Member To Class: ClassName=BTL-TKHT do Member=Component IC? LM7905
