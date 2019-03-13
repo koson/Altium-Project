@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=L1 Pin=LED1-2
+Removed Pin From Net: NetName=L2 Pin=LED2-2
+Removed Pin From Net: NetName=L3 Pin=LED3-2
+Removed Member From Class: ClassName=BLE Member=LED1
+Removed Member From Class: ClassName=BLE Member=LED2
+Removed Member From Class: ClassName=BLE Member=LED3
+Added Component: Designator=L1(LED0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(LED0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(LED0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=L1 Pin=L1-C
+Added Pin To Net: NetName=L2 Pin=L2-C
+Added Pin To Net: NetName=L3 Pin=L3-C
+Added Pin To Net: NetName=NetL1_A Pin=L1-A
+Added Pin To Net: NetName=NetL1_A Pin=R1-1
+Added Net: Name=NetL1_A
+Added Pin To Net: NetName=NetL2_A Pin=L2-A
+Added Pin To Net: NetName=NetL2_A Pin=R2-1
+Added Net: Name=NetL2_A
+Added Pin To Net: NetName=NetL3_A Pin=L3-A
+Added Pin To Net: NetName=NetL3_A Pin=R3-1
+Added Net: Name=NetL3_A
+Added Member To Class: ClassName=BLE Member=Component L1 LED
+Added Member To Class: ClassName=BLE Member=Component L2 LED
+Added Member To Class: ClassName=BLE Member=Component L3 LED
+Added Room: Name=BLE

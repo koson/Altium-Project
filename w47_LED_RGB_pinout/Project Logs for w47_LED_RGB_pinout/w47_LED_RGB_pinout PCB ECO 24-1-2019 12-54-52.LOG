@@ -1,0 +1,235 @@
+Removed Pin From Net: NetName=NetX3_1 Pin=X4-3
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=X32
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=X33
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=X34
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=X35
+Change Component Footprint: Designator=X13 Old Footprint= New Footprint=JP3-C1T
+Change Component Footprint: Designator=X3 Old Footprint=JP3-C1T New Footprint=JP1-D1T
+Change Component Footprint: Designator=X7 Old Footprint=JP4-C1T New Footprint=JP1-D1T
+Change Component Footprint: Designator=X12 Old Footprint=JP4-C1T New Footprint=JP3-C1T
+Change Component Comment : Designator=X3 Old Comment=JP3 New Comment=JP1
+Change Component Comment : Designator=X7 Old Comment=JP4 New Comment=JP1
+Change Component Comment : Designator=X12 Old Comment=JP4 New Comment=JP3
+Change Component Comment : Designator=X13 Old Comment=Small QMatrix Slider New Comment=JP3
+Change Component Designator: OldDesignator=X5 NewDesignator=X8
+Change Component Designator: OldDesignator=X6 NewDesignator=X9
+Change Component Designator: OldDesignator=X8 NewDesignator=X11
+Change Component Designator: OldDesignator=X10 NewDesignator=X14
+Change Component Designator: OldDesignator=X11 NewDesignator=X15
+Change Component Designator: OldDesignator=X14 NewDesignator=X16
+Change Component Designator: OldDesignator=X15 NewDesignator=X17
+Change Component Designator: OldDesignator=X22 NewDesignator=X19
+Change Component Designator: OldDesignator=X23 NewDesignator=X20
+Change Component Designator: OldDesignator=X25 NewDesignator=X21
+Change Component Designator: OldDesignator=X26 NewDesignator=X22
+Change Component Designator: OldDesignator=X27 NewDesignator=X23
+Change Component Designator: OldDesignator=X28 NewDesignator=X24
+Change Component Designator: OldDesignator=X29 NewDesignator=X25
+Change Component Designator: OldDesignator=X30 NewDesignator=X26
+Change Component Designator: OldDesignator=X31 NewDesignator=X27
+Change Component Designator: OldDesignator=X32 NewDesignator=X28
+Change Component Designator: OldDesignator=X34 NewDesignator=X30
+Change Component Kind : Designator=X13 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "X3"; Footprint = "JP1-D1T"; UniqueID = "\RQVAVDKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X7"; Footprint = "JP1-D1T"; UniqueID = "\PWOOHXPI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X12"; Footprint = "JP3-C1T"; UniqueID = "\SJYEPCIW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X13"; Footprint = "JP3-C1T"; UniqueID = "\MRXHGNOL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Added Component: Designator=X5(JP1-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=X6(JP1-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=X10(JP3-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Added Component: Designator=X18(JP3-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613003143121"; VariantName = "[No Variations]"
+Added Component: Designator=X29(JP2-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=X31(JP2-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX3_1 Pin=X4-1
+Change Net Name : Old Net Name=NetX5_1 New Net Name=NetX8_1
+Change Net Name : Old Net Name=NetX5_2 New Net Name=NetX8_2
+Change Net Name : Old Net Name=NetX5_3 New Net Name=NetX8_3
+Change Net Name : Old Net Name=NetX10_1 New Net Name=NetX14_1
+Change Net Name : Old Net Name=NetX10_2 New Net Name=NetX14_2
+Change Net Name : Old Net Name=NetX10_3 New Net Name=NetX14_3
+Change Net Name : Old Net Name=NetX10_4 New Net Name=NetX14_4
+Change Net Name : Old Net Name=NetX10_5 New Net Name=NetX14_5
+Change Net Name : Old Net Name=NetX10_6 New Net Name=NetX14_6
+Change Net Name : Old Net Name=NetX10_7 New Net Name=NetX14_7
+Change Net Name : Old Net Name=NetX14_1 New Net Name=NetX16_1
+Change Net Name : Old Net Name=NetX14_2 New Net Name=NetX16_2
+Change Net Name : Old Net Name=NetX14_3 New Net Name=NetX16_3
+Change Net Name : Old Net Name=NetX22_1 New Net Name=NetX19_1
+Change Net Name : Old Net Name=NetX22_2 New Net Name=NetX19_2
+Change Net Name : Old Net Name=NetX22_3 New Net Name=NetX19_3
+Change Net Name : Old Net Name=NetX22_4 New Net Name=NetX19_4
+Change Net Name : Old Net Name=NetX23_5 New Net Name=NetX20_5
+Change Net Name : Old Net Name=NetX23_6 New Net Name=NetX20_6
+Change Net Name : Old Net Name=NetX23_7 New Net Name=NetX20_7
+Change Net Name : Old Net Name=NetX23_8 New Net Name=NetX20_8
+Change Net Name : Old Net Name=NetX23_9 New Net Name=NetX20_9
+Change Net Name : Old Net Name=NetX23_10 New Net Name=NetX20_10
+Change Net Name : Old Net Name=NetX23_11 New Net Name=NetX20_11
+Change Net Name : Old Net Name=NetX23_12 New Net Name=NetX20_12
+Change Net Name : Old Net Name=NetX23_13 New Net Name=NetX20_13
+Change Net Name : Old Net Name=NetX23_14 New Net Name=NetX20_14
+Change Net Name : Old Net Name=NetX23_15 New Net Name=NetX20_15
+Change Net Name : Old Net Name=NetX23_16 New Net Name=NetX20_16
+Change Net Name : Old Net Name=NetX26_1 New Net Name=NetX22_1
+Change Net Name : Old Net Name=NetX27_1 New Net Name=NetX23_1
+Change Net Name : Old Net Name=NetX29_1 New Net Name=NetX25_1
+Change Net Name : Old Net Name=NetX29_2 New Net Name=NetX25_2
+Added Pin To Net: NetName=NetX4_2 Pin=X4-2
+Added Pin To Net: NetName=NetX4_2 Pin=X5-1
+Added Net: Name=NetX4_2
+Added Pin To Net: NetName=NetX4_3 Pin=X4-3
+Added Pin To Net: NetName=NetX4_3 Pin=X6-1
+Added Pin To Net: NetName=NetX4_3 Pin=X7-1
+Added Net: Name=NetX4_3
+Added Pin To Net: NetName=NetX10_1 Pin=X10-1
+Added Pin To Net: NetName=NetX10_1 Pin=X11-3
+Added Net: Name=NetX10_1
+Added Pin To Net: NetName=NetX10_2 Pin=X10-2
+Added Pin To Net: NetName=NetX10_2 Pin=X11-2
+Added Net: Name=NetX10_2
+Added Pin To Net: NetName=NetX10_3 Pin=X10-3
+Added Pin To Net: NetName=NetX10_3 Pin=X11-1
+Added Net: Name=NetX10_3
+Added Pin To Net: NetName=NetX11_4 Pin=X11-4
+Added Pin To Net: NetName=NetX11_4 Pin=X12-3
+Added Net: Name=NetX11_4
+Added Pin To Net: NetName=NetX11_5 Pin=X11-5
+Added Pin To Net: NetName=NetX11_5 Pin=X12-2
+Added Net: Name=NetX11_5
+Added Pin To Net: NetName=NetX11_6 Pin=X11-6
+Added Pin To Net: NetName=NetX11_6 Pin=X12-1
+Added Net: Name=NetX11_6
+Added Pin To Net: NetName=NetX11_7 Pin=X11-7
+Added Pin To Net: NetName=NetX11_7 Pin=X13-3
+Added Net: Name=NetX11_7
+Added Pin To Net: NetName=NetX11_8 Pin=X11-8
+Added Pin To Net: NetName=NetX11_8 Pin=X13-2
+Added Net: Name=NetX11_8
+Added Pin To Net: NetName=NetX11_9 Pin=X11-9
+Added Pin To Net: NetName=NetX11_9 Pin=X13-1
+Added Net: Name=NetX11_9
+Added Pin To Net: NetName=NetX11_10 Pin=X11-10
+Added Pin To Net: NetName=NetX11_10 Pin=X18-3
+Added Net: Name=NetX11_10
+Added Pin To Net: NetName=NetX11_11 Pin=X11-11
+Added Pin To Net: NetName=NetX11_11 Pin=X18-2
+Added Net: Name=NetX11_11
+Added Pin To Net: NetName=NetX11_12 Pin=X11-12
+Added Pin To Net: NetName=NetX11_12 Pin=X18-1
+Added Net: Name=NetX11_12
+Added Pin To Net: NetName=NetX29_1 Pin=X29-1
+Added Pin To Net: NetName=NetX29_1 Pin=X30-2
+Added Net: Name=NetX29_1
+Added Pin To Net: NetName=NetX29_2 Pin=X29-2
+Added Pin To Net: NetName=NetX29_2 Pin=X30-1
+Added Net: Name=NetX29_2
+Added Pin To Net: NetName=NetX30_3 Pin=X30-3
+Added Pin To Net: NetName=NetX30_3 Pin=X31-2
+Added Net: Name=NetX30_3
+Added Pin To Net: NetName=NetX30_4 Pin=X30-4
+Added Pin To Net: NetName=NetX30_4 Pin=X31-1
+Added Net: Name=NetX30_4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X17 Small QTouch Slider
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X18 JP3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X29 JP2
+Added Room: Name=w47_LED_RGB_pinout

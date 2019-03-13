@@ -1,0 +1,168 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=X1
+Change Component Designator: OldDesignator=C2 NewDesignator=X3
+Change Component Designator: OldDesignator=C3 NewDesignator=X5
+Change Component Designator: OldDesignator=C5 NewDesignator=X10
+Change Component Designator: OldDesignator=C6 NewDesignator=X12
+Change Component Designator: OldDesignator=C7 NewDesignator=X14
+Change Component Designator: OldDesignator=C7 NewDesignator=X20
+Change Component Designator: OldDesignator=C8 NewDesignator=X18
+Change Component Designator: OldDesignator=C8 NewDesignator=X24
+Change Component Designator: OldDesignator=C8 NewDesignator=X33
+Change Component Designator: OldDesignator=C9 NewDesignator=X22
+Change Component Designator: OldDesignator=C9 NewDesignator=X35
+Change Component Designator: OldDesignator=C10 NewDesignator=X25
+Change Component Designator: OldDesignator=C11 NewDesignator=X7
+Change Component Designator: OldDesignator=C11 NewDesignator=X28
+Change Component Designator: OldDesignator=C12 NewDesignator=X9
+Change Component Designator: OldDesignator=C12 NewDesignator=X29
+Change Component Designator: OldDesignator=C12 NewDesignator=X30
+Change Component Designator: OldDesignator=C13 NewDesignator=X16
+Change Component Designator: OldDesignator=CS1 NewDesignator=X19
+Change Component Designator: OldDesignator=CS2 NewDesignator=X6
+Change Component Designator: OldDesignator=CS3 NewDesignator=X23
+Change Component Designator: OldDesignator=CS4 NewDesignator=X4
+Change Component Designator: OldDesignator=CS5 NewDesignator=X2
+Change Component Designator: OldDesignator=CS6 NewDesignator=X13
+Change Component Designator: OldDesignator=CS7 NewDesignator=X8
+Change Component Designator: OldDesignator=CS8 NewDesignator=X15
+Change Component Designator: OldDesignator=CS9 NewDesignator=X11
+Change Component Designator: OldDesignator=CS10 NewDesignator=X26
+Change Component Designator: OldDesignator=CS11 NewDesignator=X17
+Change Component Designator: OldDesignator=CS11 NewDesignator=X27
+Change Component Designator: OldDesignator=CS12 NewDesignator=X21
+Change Component Designator: OldDesignator=CS12 NewDesignator=X32
+Change Component Designator: OldDesignator=CS12 NewDesignator=X34
+Change Component Designator: OldDesignator=CS13 NewDesignator=X31
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetX1_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetX1_2
+Change Net Name : Old Net Name=NetC1_3 New Net Name=NetX1_3
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetX3_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetX3_2
+Change Net Name : Old Net Name=NetC2_3 New Net Name=NetX3_3
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetX5_1
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetX5_2
+Change Net Name : Old Net Name=NetC3_3 New Net Name=NetX5_3
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetX10_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetX10_2
+Change Net Name : Old Net Name=NetC5_3 New Net Name=NetX10_3
+Change Net Name : Old Net Name=NetC5_4 New Net Name=NetX10_4
+Change Net Name : Old Net Name=NetC5_5 New Net Name=NetX10_5
+Change Net Name : Old Net Name=NetC5_6 New Net Name=NetX10_6
+Change Net Name : Old Net Name=NetC5_7 New Net Name=NetX10_7
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetX12_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetX12_2
+Change Net Name : Old Net Name=NetC6_3 New Net Name=NetX12_3
+Change Net Name : Old Net Name=NetC6_4 New Net Name=NetX12_4
+Change Net Name : Old Net Name=NetC7_1 New Net Name=NetX14_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetX14_2
+Change Net Name : Old Net Name=NetC7_3 New Net Name=NetX14_3
+Change Net Name : Old Net Name=NetC7_4 New Net Name=NetX19_1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetX18_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetX18_2
+Change Net Name : Old Net Name=NetC8_3 New Net Name=NetX17_y
+Change Net Name : Old Net Name=NetC8_4 New Net Name=NetX17_x
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetX34_6
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetX34_5
+Change Net Name : Old Net Name=NetC9_3 New Net Name=NetX34_4
+Change Net Name : Old Net Name=NetC9_4 New Net Name=NetX22_4
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetX23_8
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetX23_7
+Change Net Name : Old Net Name=NetC10_3 New Net Name=NetX23_6
+Change Net Name : Old Net Name=NetC10_4 New Net Name=NetX23_5
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetX23_12
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetX23_11
+Change Net Name : Old Net Name=NetC11_3 New Net Name=NetX23_10
+Change Net Name : Old Net Name=NetC11_4 New Net Name=NetX23_9
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetX29_1
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetX29_2
+Change Net Name : Old Net Name=NetC12_3 New Net Name=NetX27_1
+Change Net Name : Old Net Name=NetC12_4 New Net Name=NetX26_1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetX8_12
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetX8_11
+Change Net Name : Old Net Name=NetC13_3 New Net Name=NetX8_10
+Change Net Name : Old Net Name=NetC13_4 New Net Name=NetX8_9
+Added Pin To Net: NetName=NetX7_1 Pin=X7-1
+Added Pin To Net: NetName=NetX7_1 Pin=X8-4
+Added Net: Name=NetX7_1
+Added Pin To Net: NetName=NetX7_2 Pin=X7-2
+Added Pin To Net: NetName=NetX7_2 Pin=X8-3
+Added Net: Name=NetX7_2
+Added Pin To Net: NetName=NetX7_3 Pin=X7-3
+Added Pin To Net: NetName=NetX7_3 Pin=X8-2
+Added Net: Name=NetX7_3
+Added Pin To Net: NetName=NetX7_4 Pin=X7-4
+Added Pin To Net: NetName=NetX7_4 Pin=X8-1
+Added Net: Name=NetX7_4
+Added Pin To Net: NetName=NetX8_5 Pin=X8-5
+Added Pin To Net: NetName=NetX8_5 Pin=X9-4
+Added Net: Name=NetX8_5
+Added Pin To Net: NetName=NetX8_6 Pin=X8-6
+Added Pin To Net: NetName=NetX8_6 Pin=X9-3
+Added Net: Name=NetX8_6
+Added Pin To Net: NetName=NetX8_7 Pin=X8-7
+Added Pin To Net: NetName=NetX8_7 Pin=X9-2
+Added Net: Name=NetX8_7
+Added Pin To Net: NetName=NetX8_8 Pin=X8-8
+Added Pin To Net: NetName=NetX8_8 Pin=X9-1
+Added Net: Name=NetX8_8
+Added Pin To Net: NetName=NetX19_2 Pin=X19-2
+Added Pin To Net: NetName=NetX19_2 Pin=X20-3
+Added Net: Name=NetX19_2
+Added Pin To Net: NetName=NetX19_3 Pin=X19-3
+Added Pin To Net: NetName=NetX19_3 Pin=X20-2
+Added Net: Name=NetX19_3
+Added Pin To Net: NetName=NetX19_4 Pin=X19-4
+Added Pin To Net: NetName=NetX19_4 Pin=X20-1
+Added Net: Name=NetX19_4
+Added Pin To Net: NetName=NetX19_5 Pin=X19-5
+Added Pin To Net: NetName=NetX19_5 Pin=X24-4
+Added Net: Name=NetX19_5
+Added Pin To Net: NetName=NetX19_6 Pin=X19-6
+Added Pin To Net: NetName=NetX19_6 Pin=X24-3
+Added Net: Name=NetX19_6
+Added Pin To Net: NetName=NetX19_7 Pin=X19-7
+Added Pin To Net: NetName=NetX19_7 Pin=X24-2
+Added Net: Name=NetX19_7
+Added Pin To Net: NetName=NetX19_8 Pin=X19-8
+Added Pin To Net: NetName=NetX19_8 Pin=X24-1
+Added Net: Name=NetX19_8
+Added Pin To Net: NetName=NetX22_1 Pin=X22-1
+Added Pin To Net: NetName=NetX22_1 Pin=X23-4
+Added Net: Name=NetX22_1
+Added Pin To Net: NetName=NetX22_2 Pin=X22-2
+Added Pin To Net: NetName=NetX22_2 Pin=X23-3
+Added Net: Name=NetX22_2
+Added Pin To Net: NetName=NetX22_3 Pin=X22-3
+Added Pin To Net: NetName=NetX22_3 Pin=X23-2
+Added Net: Name=NetX22_3
+Added Pin To Net: NetName=NetX23_13 Pin=X23-13
+Added Pin To Net: NetName=NetX23_13 Pin=X30-4
+Added Net: Name=NetX23_13
+Added Pin To Net: NetName=NetX23_14 Pin=X23-14
+Added Pin To Net: NetName=NetX23_14 Pin=X30-3
+Added Net: Name=NetX23_14
+Added Pin To Net: NetName=NetX23_15 Pin=X23-15
+Added Pin To Net: NetName=NetX23_15 Pin=X30-2
+Added Net: Name=NetX23_15
+Added Pin To Net: NetName=NetX23_16 Pin=X23-16
+Added Pin To Net: NetName=NetX23_16 Pin=X30-1
+Added Net: Name=NetX23_16
+Added Pin To Net: NetName=NetX33_1 Pin=X33-1
+Added Pin To Net: NetName=NetX33_1 Pin=X34-3
+Added Net: Name=NetX33_1
+Added Pin To Net: NetName=NetX33_2 Pin=X33-2
+Added Pin To Net: NetName=NetX33_2 Pin=X34-2
+Added Net: Name=NetX33_2
+Added Pin To Net: NetName=NetX33_3 Pin=X33-3
+Added Pin To Net: NetName=NetX33_3 Pin=X34-1
+Added Net: Name=NetX33_3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X9 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X20 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X21 QMatrix Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X22 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X24 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X27 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X28 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X30 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X32 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X33 JP3

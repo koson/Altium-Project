@@ -1,0 +1,9 @@
+Added Component: Designator=J1(JP_6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Vcc Pin=J1-1
+Added Pin To Net: NetName=DIO Pin=J1-2
+Added Pin To Net: NetName=CLK Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=Vcc Pin=J1-6
+Added Member To Class: ClassName=BLE Member=Component J1 JP_6

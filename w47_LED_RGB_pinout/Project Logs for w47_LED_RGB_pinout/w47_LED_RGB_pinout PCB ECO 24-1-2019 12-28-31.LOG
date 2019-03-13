@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C9 Old Footprint=JP8-C1C New Footprint=JP8-D1T
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS11 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS12 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS12 QMatrix Button

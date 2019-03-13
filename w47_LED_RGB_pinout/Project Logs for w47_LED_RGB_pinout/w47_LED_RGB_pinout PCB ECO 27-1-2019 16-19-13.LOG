@@ -1,0 +1,55 @@
+Added Component: Designator=LED?(LED-5-WHITE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=X8()
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ConfigurationParameters"; Value = "{}__sensorid[7]{}diameter[20]{}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConfiguratorName"; Value = "ATMEL_TOUCH"; VariantName = "[No Variations]"
+Added Component: Designator=X11(JP2-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=X12(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X15(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X17(JP1-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=X18(RES)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetX8_1 Pin=X8-1
+Added Pin To Net: NetName=NetX8_2 Pin=X8-2
+Added Pin To Net: NetName=NetX8_3 Pin=X8-3
+Added Pin To Net: NetName=NetX11_1 Pin=X11-1
+Added Pin To Net: NetName=NetX11_2 Pin=X11-2
+Added Pin To Net: NetName=NetX11_2 Pin=X12-1
+Added Pin To Net: NetName=NetX8_1 Pin=X12-2
+Added Pin To Net: NetName=NetX11_1 Pin=X15-1
+Added Pin To Net: NetName=NetX8_2 Pin=X15-2
+Added Pin To Net: NetName=NetX17_1 Pin=X17-1
+Added Pin To Net: NetName=NetX17_1 Pin=X18-1
+Added Pin To Net: NetName=NetX8_3 Pin=X18-2
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component LED? LED
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X8 Small QTouch Wheel
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X11 JP2
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X12 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X15 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X17 JP1
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X18 RES
+Added Room: Name=w47_LED_RGB_pinout

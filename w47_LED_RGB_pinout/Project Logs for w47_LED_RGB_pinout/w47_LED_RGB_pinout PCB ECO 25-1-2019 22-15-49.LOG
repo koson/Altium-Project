@@ -1,0 +1,647 @@
+Removed Pin From Net: NetName=NetX1_1 Pin=X1-1
+Removed Pin From Net: NetName=NetX1_1 Pin=X2-3
+Removed Pin From Net: NetName=NetX10_1 Pin=X10-1
+Removed Pin From Net: NetName=NetX10_2 Pin=X10-2
+Removed Pin From Net: NetName=NetX10_3 Pin=X10-3
+Removed Pin From Net: NetName=NetX10_3 Pin=X11-1
+Removed Pin From Net: NetName=NetX10_1 Pin=X11-3
+Removed Pin From Net: NetName=NetX14_1 Pin=X14-1
+Removed Pin From Net: NetName=NetX14_1 Pin=X15-7
+Removed Pin From Net: NetName=NetX22_1 Pin=X22-1
+Removed Pin From Net: NetName=NetX23_1 Pin=X23-1
+Removed Pin From Net: NetName=NetX23_1 Pin=X25-3
+Removed Pin From Net: NetName=NetX22_1 Pin=X25-4
+Change Component Designator: OldDesignator=C1 NewDesignator=X11
+Change Component Designator: OldDesignator=C2 NewDesignator=X14
+Change Component Designator: OldDesignator=C3 NewDesignator=X17
+Change Component Designator: OldDesignator=X1 NewDesignator=X87
+Change Component Designator: OldDesignator=X2 NewDesignator=X88
+Change Component Designator: OldDesignator=X3 NewDesignator=X1
+Change Component Designator: OldDesignator=X4 NewDesignator=X2
+Change Component Designator: OldDesignator=X5 NewDesignator=X4
+Change Component Designator: OldDesignator=X9 NewDesignator=X8
+Change Component Designator: OldDesignator=X10 NewDesignator=X9
+Change Component Designator: OldDesignator=X11 NewDesignator=X10
+Change Component Designator: OldDesignator=X12 NewDesignator=X20
+Change Component Designator: OldDesignator=X13 NewDesignator=X28
+Change Component Designator: OldDesignator=X14 NewDesignator=X22
+Change Component Designator: OldDesignator=X15 NewDesignator=X23
+Change Component Designator: OldDesignator=X16 NewDesignator=X33
+Change Component Designator: OldDesignator=X17 NewDesignator=X34
+Change Component Designator: OldDesignator=X18 NewDesignator=X38
+Change Component Designator: OldDesignator=X19 NewDesignator=X50
+Change Component Designator: OldDesignator=X20 NewDesignator=X51
+Change Component Designator: OldDesignator=X21 NewDesignator=X63
+Change Component Designator: OldDesignator=X22 NewDesignator=X46
+Change Component Designator: OldDesignator=X23 NewDesignator=X47
+Change Component Designator: OldDesignator=X24 NewDesignator=X76
+Change Component Designator: OldDesignator=X25 NewDesignator=X59
+Change Component Designator: OldDesignator=X26 NewDesignator=X81
+Change Component Designator: OldDesignator=X27 NewDesignator=X71
+Change Component Designator: OldDesignator=X28 NewDesignator=X74
+Change Component Designator: OldDesignator=X29 NewDesignator=X48
+Change Component Designator: OldDesignator=X30 NewDesignator=X49
+Change Component Designator: OldDesignator=X31 NewDesignator=X56
+Change Component Designator: OldDesignator=X32 NewDesignator=X67
+Added Component: Designator=X3(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X5(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X6(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X12(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X13(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X15(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X16(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X18(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X19(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X21(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X24(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X25(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X26(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X27(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X29(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X30(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X31(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X32(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X35(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X36(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X37(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X39(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X40(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X41(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X42(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X43(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X44(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X45(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X52(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X53(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X54(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X55(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X57(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X58(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X60(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X61(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X62(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X64(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X65(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X66(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X68(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X69(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X70(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X72(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X73(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X75(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X77(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X78(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X79(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X80(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X82(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X83(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X84(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X85(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X86(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X89(JP4-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Added Component: Designator=X90(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X91(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X92(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X93(RES)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X94(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X95(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X96(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X97(JP4-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Added Component: Designator=X98(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X99(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X100(Cap)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X101(JP1-D1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX1_1 Pin=X1-1
+Added Pin To Net: NetName=NetX1_1 Pin=X3-1
+Added Pin To Net: NetName=NetX10_1 Pin=X10-1
+Added Pin To Net: NetName=NetX10_3 Pin=X10-3
+Added Pin To Net: NetName=NetX10_1 Pin=X13-2
+Added Pin To Net: NetName=NetX14_1 Pin=X14-1
+Added Pin To Net: NetName=NetX14_1 Pin=X15-1
+Added Pin To Net: NetName=NetX10_2 Pin=X16-2
+Added Pin To Net: NetName=NetX10_3 Pin=X19-2
+Added Pin To Net: NetName=NetX22_1 Pin=X22-1
+Added Pin To Net: NetName=NetX23_1 Pin=X23-1
+Added Pin To Net: NetName=NetX23_1 Pin=X24-2
+Added Pin To Net: NetName=NetX22_1 Pin=X42-1
+Added Pin To Net: NetName=NetX2_1 Pin=X2-1
+Added Pin To Net: NetName=NetX2_1 Pin=X3-2
+Added Net: Name=NetX2_1
+Added Pin To Net: NetName=NetX2_2 Pin=X2-2
+Added Pin To Net: NetName=NetX2_2 Pin=X5-2
+Added Net: Name=NetX2_2
+Added Pin To Net: NetName=NetX2_3 Pin=X2-3
+Added Pin To Net: NetName=NetX2_3 Pin=X6-2
+Added Net: Name=NetX2_3
+Added Pin To Net: NetName=NetX4_1 Pin=X4-1
+Added Pin To Net: NetName=NetX4_1 Pin=X5-1
+Added Net: Name=NetX4_1
+Added Pin To Net: NetName=NetX6_1 Pin=X6-1
+Added Pin To Net: NetName=NetX6_1 Pin=X7-1
+Added Net: Name=NetX6_1
+Added Pin To Net: NetName=NetX8_1 Pin=X8-1
+Added Pin To Net: NetName=NetX8_1 Pin=X12-2
+Added Net: Name=NetX8_1
+Added Pin To Net: NetName=NetX8_2 Pin=X8-2
+Added Pin To Net: NetName=NetX8_2 Pin=X15-2
+Added Net: Name=NetX8_2
+Added Pin To Net: NetName=NetX8_3 Pin=X8-3
+Added Pin To Net: NetName=NetX8_3 Pin=X18-2
+Added Net: Name=NetX8_3
+Added Pin To Net: NetName=NetX9_1 Pin=X9-1
+Added Pin To Net: NetName=NetX9_1 Pin=X19-1
+Added Net: Name=NetX9_1
+Added Pin To Net: NetName=NetX9_2 Pin=X9-2
+Added Pin To Net: NetName=NetX9_2 Pin=X16-1
+Added Net: Name=NetX9_2
+Added Pin To Net: NetName=NetX9_3 Pin=X9-3
+Added Pin To Net: NetName=NetX9_3 Pin=X13-1
+Added Net: Name=NetX9_3
+Added Pin To Net: NetName=NetX10_4 Pin=X10-4
+Added Pin To Net: NetName=NetX10_4 Pin=X21-2
+Added Net: Name=NetX10_4
+Added Pin To Net: NetName=NetX10_5 Pin=X10-5
+Added Pin To Net: NetName=NetX10_5 Pin=X25-2
+Added Net: Name=NetX10_5
+Added Pin To Net: NetName=NetX10_6 Pin=X10-6
+Added Pin To Net: NetName=NetX10_6 Pin=X27-2
+Added Net: Name=NetX10_6
+Added Pin To Net: NetName=NetX10_7 Pin=X10-7
+Added Pin To Net: NetName=NetX10_7 Pin=X30-2
+Added Net: Name=NetX10_7
+Added Pin To Net: NetName=NetX10_8 Pin=X10-8
+Added Pin To Net: NetName=NetX10_8 Pin=X32-2
+Added Net: Name=NetX10_8
+Added Pin To Net: NetName=NetX10_9 Pin=X10-9
+Added Pin To Net: NetName=NetX10_9 Pin=X37-2
+Added Net: Name=NetX10_9
+Added Pin To Net: NetName=NetX10_10 Pin=X10-10
+Added Pin To Net: NetName=NetX10_10 Pin=X41-2
+Added Net: Name=NetX10_10
+Added Pin To Net: NetName=NetX10_11 Pin=X10-11
+Added Pin To Net: NetName=NetX10_11 Pin=X44-2
+Added Net: Name=NetX10_11
+Added Pin To Net: NetName=NetX10_12 Pin=X10-12
+Added Pin To Net: NetName=NetX10_12 Pin=X45-2
+Added Net: Name=NetX10_12
+Added Pin To Net: NetName=NetX11_1 Pin=X11-1
+Added Pin To Net: NetName=NetX11_1 Pin=X12-1
+Added Net: Name=NetX11_1
+Added Pin To Net: NetName=NetX17_1 Pin=X17-1
+Added Pin To Net: NetName=NetX17_1 Pin=X18-1
+Added Net: Name=NetX17_1
+Added Pin To Net: NetName=NetX20_1 Pin=X20-1
+Added Pin To Net: NetName=NetX20_1 Pin=X27-1
+Added Net: Name=NetX20_1
+Added Pin To Net: NetName=NetX20_2 Pin=X20-2
+Added Pin To Net: NetName=NetX20_2 Pin=X25-1
+Added Net: Name=NetX20_2
+Added Pin To Net: NetName=NetX20_3 Pin=X20-3
+Added Pin To Net: NetName=NetX20_3 Pin=X21-1
+Added Net: Name=NetX20_3
+Added Pin To Net: NetName=NetX22_2 Pin=X22-2
+Added Pin To Net: NetName=NetX22_2 Pin=X39-1
+Added Net: Name=NetX22_2
+Added Pin To Net: NetName=NetX22_3 Pin=X22-3
+Added Pin To Net: NetName=NetX22_3 Pin=X35-1
+Added Net: Name=NetX22_3
+Added Pin To Net: NetName=NetX22_4 Pin=X22-4
+Added Pin To Net: NetName=NetX22_4 Pin=X31-1
+Added Net: Name=NetX22_4
+Added Pin To Net: NetName=NetX22_5 Pin=X22-5
+Added Pin To Net: NetName=NetX22_5 Pin=X29-1
+Added Net: Name=NetX22_5
+Added Pin To Net: NetName=NetX22_6 Pin=X22-6
+Added Pin To Net: NetName=NetX22_6 Pin=X26-1
+Added Net: Name=NetX22_6
+Added Pin To Net: NetName=NetX22_7 Pin=X22-7
+Added Pin To Net: NetName=NetX22_7 Pin=X24-1
+Added Net: Name=NetX22_7
+Added Pin To Net: NetName=NetX23_2 Pin=X23-2
+Added Pin To Net: NetName=NetX23_2 Pin=X26-2
+Added Net: Name=NetX23_2
+Added Pin To Net: NetName=NetX23_3 Pin=X23-3
+Added Pin To Net: NetName=NetX23_3 Pin=X29-2
+Added Net: Name=NetX23_3
+Added Pin To Net: NetName=NetX23_4 Pin=X23-4
+Added Pin To Net: NetName=NetX23_4 Pin=X31-2
+Added Net: Name=NetX23_4
+Added Pin To Net: NetName=NetX23_5 Pin=X23-5
+Added Pin To Net: NetName=NetX23_5 Pin=X35-2
+Added Net: Name=NetX23_5
+Added Pin To Net: NetName=NetX23_6 Pin=X23-6
+Added Pin To Net: NetName=NetX23_6 Pin=X39-2
+Added Net: Name=NetX23_6
+Added Pin To Net: NetName=NetX23_7 Pin=X23-7
+Added Pin To Net: NetName=NetX23_7 Pin=X42-2
+Added Net: Name=NetX23_7
+Added Pin To Net: NetName=NetX28_1 Pin=X28-1
+Added Pin To Net: NetName=NetX28_1 Pin=X37-1
+Added Net: Name=NetX28_1
+Added Pin To Net: NetName=NetX28_2 Pin=X28-2
+Added Pin To Net: NetName=NetX28_2 Pin=X32-1
+Added Net: Name=NetX28_2
+Added Pin To Net: NetName=NetX28_3 Pin=X28-3
+Added Pin To Net: NetName=NetX28_3 Pin=X30-1
+Added Net: Name=NetX28_3
+Added Pin To Net: NetName=NetX33_1 Pin=X33-1
+Added Pin To Net: NetName=NetX33_1 Pin=X43-1
+Added Net: Name=NetX33_1
+Added Pin To Net: NetName=NetX33_2 Pin=X33-2
+Added Pin To Net: NetName=NetX33_2 Pin=X40-1
+Added Net: Name=NetX33_2
+Added Pin To Net: NetName=NetX33_3 Pin=X33-3
+Added Pin To Net: NetName=NetX33_3 Pin=X36-1
+Added Net: Name=NetX33_3
+Added Pin To Net: NetName=NetX34_1 Pin=X34-1
+Added Pin To Net: NetName=NetX34_1 Pin=X34-1
+Added Pin To Net: NetName=NetX34_1 Pin=X36-2
+Added Net: Name=NetX34_1
+Added Pin To Net: NetName=NetX34_2 Pin=X34-2
+Added Pin To Net: NetName=NetX34_2 Pin=X40-2
+Added Net: Name=NetX34_2
+Added Pin To Net: NetName=NetX34_3 Pin=X34-3
+Added Pin To Net: NetName=NetX34_3 Pin=X43-2
+Added Net: Name=NetX34_3
+Added Pin To Net: NetName=NetX38_1 Pin=X38-1
+Added Pin To Net: NetName=NetX38_1 Pin=X45-1
+Added Net: Name=NetX38_1
+Added Pin To Net: NetName=NetX38_2 Pin=X38-2
+Added Pin To Net: NetName=NetX38_2 Pin=X44-1
+Added Net: Name=NetX38_2
+Added Pin To Net: NetName=NetX38_3 Pin=X38-3
+Added Pin To Net: NetName=NetX38_3 Pin=X41-1
+Added Net: Name=NetX38_3
+Added Pin To Net: NetName=NetX46_1 Pin=X46-1
+Added Pin To Net: NetName=NetX46_1 Pin=X61-2
+Added Net: Name=NetX46_1
+Added Pin To Net: NetName=NetX47_1 Pin=X47-1
+Added Pin To Net: NetName=NetX47_1 Pin=X65-2
+Added Net: Name=NetX47_1
+Added Pin To Net: NetName=NetX48_1 Pin=X48-1
+Added Pin To Net: NetName=NetX48_1 Pin=X54-1
+Added Net: Name=NetX48_1
+Added Pin To Net: NetName=NetX48_2 Pin=X48-2
+Added Pin To Net: NetName=NetX48_2 Pin=X52-1
+Added Net: Name=NetX48_2
+Added Pin To Net: NetName=NetX49_1 Pin=X49-1
+Added Pin To Net: NetName=NetX49_1 Pin=X52-2
+Added Net: Name=NetX49_1
+Added Pin To Net: NetName=NetX49_2 Pin=X49-2
+Added Pin To Net: NetName=NetX49_2 Pin=X54-2
+Added Net: Name=NetX49_2
+Added Pin To Net: NetName=NetX49_3 Pin=X49-3
+Added Pin To Net: NetName=NetX49_3 Pin=X57-2
+Added Net: Name=NetX49_3
+Added Pin To Net: NetName=NetX49_4 Pin=X49-4
+Added Pin To Net: NetName=NetX49_4 Pin=X60-2
+Added Net: Name=NetX49_4
+Added Pin To Net: NetName=NetX49_5 Pin=X49-5
+Added Pin To Net: NetName=NetX49_5 Pin=X64-2
+Added Net: Name=NetX49_5
+Added Pin To Net: NetName=NetX49_6 Pin=X49-6
+Added Pin To Net: NetName=NetX49_6 Pin=X68-2
+Added Net: Name=NetX49_6
+Added Pin To Net: NetName=NetX50_1 Pin=X50-1
+Added Pin To Net: NetName=NetX50_1 Pin=X62-1
+Added Net: Name=NetX50_1
+Added Pin To Net: NetName=NetX50_2 Pin=X50-2
+Added Pin To Net: NetName=NetX50_2 Pin=X58-1
+Added Net: Name=NetX50_2
+Added Pin To Net: NetName=NetX50_3 Pin=X50-3
+Added Pin To Net: NetName=NetX50_3 Pin=X55-1
+Added Net: Name=NetX50_3
+Added Pin To Net: NetName=NetX50_4 Pin=X50-4
+Added Pin To Net: NetName=NetX50_4 Pin=X53-1
+Added Net: Name=NetX50_4
+Added Pin To Net: NetName=NetX51_1 Pin=X51-1
+Added Pin To Net: NetName=NetX51_1 Pin=X53-2
+Added Net: Name=NetX51_1
+Added Pin To Net: NetName=NetX51_2 Pin=X51-2
+Added Pin To Net: NetName=NetX51_2 Pin=X55-2
+Added Net: Name=NetX51_2
+Added Pin To Net: NetName=NetX51_3 Pin=X51-3
+Added Pin To Net: NetName=NetX51_3 Pin=X58-2
+Added Net: Name=NetX51_3
+Added Pin To Net: NetName=NetX51_4 Pin=X51-4
+Added Pin To Net: NetName=NetX51_4 Pin=X62-2
+Added Net: Name=NetX51_4
+Added Pin To Net: NetName=NetX51_5 Pin=X51-5
+Added Pin To Net: NetName=NetX51_5 Pin=X66-2
+Added Net: Name=NetX51_5
+Added Pin To Net: NetName=NetX51_6 Pin=X51-6
+Added Pin To Net: NetName=NetX51_6 Pin=X70-2
+Added Net: Name=NetX51_6
+Added Pin To Net: NetName=NetX51_7 Pin=X51-7
+Added Pin To Net: NetName=NetX51_7 Pin=X73-2
+Added Net: Name=NetX51_7
+Added Pin To Net: NetName=NetX51_8 Pin=X51-8
+Added Pin To Net: NetName=NetX51_8 Pin=X75-2
+Added Net: Name=NetX51_8
+Added Pin To Net: NetName=NetX51_9 Pin=X51-9
+Added Pin To Net: NetName=NetX51_9 Pin=X77-2
+Added Net: Name=NetX51_9
+Added Pin To Net: NetName=NetX51_10 Pin=X51-10
+Added Pin To Net: NetName=NetX51_10 Pin=X78-2
+Added Net: Name=NetX51_10
+Added Pin To Net: NetName=NetX51_11 Pin=X51-11
+Added Pin To Net: NetName=NetX51_11 Pin=X79-2
+Added Net: Name=NetX51_11
+Added Pin To Net: NetName=NetX51_12 Pin=X51-12
+Added Pin To Net: NetName=NetX51_12 Pin=X80-2
+Added Net: Name=NetX51_12
+Added Pin To Net: NetName=NetX51_13 Pin=X51-13
+Added Pin To Net: NetName=NetX51_13 Pin=X82-2
+Added Net: Name=NetX51_13
+Added Pin To Net: NetName=NetX51_14 Pin=X51-14
+Added Pin To Net: NetName=NetX51_14 Pin=X83-2
+Added Net: Name=NetX51_14
+Added Pin To Net: NetName=NetX51_15 Pin=X51-15
+Added Pin To Net: NetName=NetX51_15 Pin=X84-2
+Added Net: Name=NetX51_15
+Added Pin To Net: NetName=NetX51_16 Pin=X51-16
+Added Pin To Net: NetName=NetX51_16 Pin=X85-2
+Added Net: Name=NetX51_16
+Added Pin To Net: NetName=NetX56_1 Pin=X56-1
+Added Pin To Net: NetName=NetX56_1 Pin=X60-1
+Added Net: Name=NetX56_1
+Added Pin To Net: NetName=NetX56_2 Pin=X56-2
+Added Pin To Net: NetName=NetX56_2 Pin=X57-1
+Added Net: Name=NetX56_2
+Added Pin To Net: NetName=NetX59_1 Pin=X59-1
+Added Pin To Net: NetName=NetX59_1 Pin=X72-1
+Added Net: Name=NetX59_1
+Added Pin To Net: NetName=NetX59_2 Pin=X59-2
+Added Pin To Net: NetName=NetX59_2 Pin=X69-1
+Added Net: Name=NetX59_2
+Added Pin To Net: NetName=NetX59_3 Pin=X59-3
+Added Pin To Net: NetName=NetX59_3 Pin=X65-1
+Added Net: Name=NetX59_3
+Added Pin To Net: NetName=NetX59_4 Pin=X59-4
+Added Pin To Net: NetName=NetX59_4 Pin=X61-1
+Added Net: Name=NetX59_4
+Added Pin To Net: NetName=NetX63_1 Pin=X63-1
+Added Pin To Net: NetName=NetX63_1 Pin=X75-1
+Added Net: Name=NetX63_1
+Added Pin To Net: NetName=NetX63_2 Pin=X63-2
+Added Pin To Net: NetName=NetX63_2 Pin=X73-1
+Added Net: Name=NetX63_2
+Added Pin To Net: NetName=NetX63_3 Pin=X63-3
+Added Pin To Net: NetName=NetX63_3 Pin=X70-1
+Added Net: Name=NetX63_3
+Added Pin To Net: NetName=NetX63_4 Pin=X63-4
+Added Pin To Net: NetName=NetX63_4 Pin=X66-1
+Added Net: Name=NetX63_4
+Added Pin To Net: NetName=NetX64_1 Pin=X64-1
+Added Pin To Net: NetName=NetX64_1 Pin=X67-2
+Added Net: Name=NetX64_1
+Added Pin To Net: NetName=NetX67_1 Pin=X67-1
+Added Pin To Net: NetName=NetX67_1 Pin=X68-1
+Added Net: Name=NetX67_1
+Added Pin To Net: NetName=NetX69_2 Pin=X69-2
+Added Pin To Net: NetName=NetX69_2 Pin=X71-1
+Added Net: Name=NetX69_2
+Added Pin To Net: NetName=NetX72_2 Pin=X72-2
+Added Pin To Net: NetName=NetX72_2 Pin=X74-1
+Added Net: Name=NetX72_2
+Added Pin To Net: NetName=NetX76_1 Pin=X76-1
+Added Pin To Net: NetName=NetX76_1 Pin=X80-1
+Added Net: Name=NetX76_1
+Added Pin To Net: NetName=NetX76_2 Pin=X76-2
+Added Pin To Net: NetName=NetX76_2 Pin=X79-1
+Added Net: Name=NetX76_2
+Added Pin To Net: NetName=NetX76_3 Pin=X76-3
+Added Pin To Net: NetName=NetX76_3 Pin=X78-1
+Added Net: Name=NetX76_3
+Added Pin To Net: NetName=NetX76_4 Pin=X76-4
+Added Pin To Net: NetName=NetX76_4 Pin=X77-1
+Added Net: Name=NetX76_4
+Added Pin To Net: NetName=NetX81_1 Pin=X81-1
+Added Pin To Net: NetName=NetX81_1 Pin=X85-1
+Added Net: Name=NetX81_1
+Added Pin To Net: NetName=NetX81_2 Pin=X81-2
+Added Pin To Net: NetName=NetX81_2 Pin=X84-1
+Added Net: Name=NetX81_2
+Added Pin To Net: NetName=NetX81_3 Pin=X81-3
+Added Pin To Net: NetName=NetX81_3 Pin=X83-1
+Added Net: Name=NetX81_3
+Added Pin To Net: NetName=NetX81_4 Pin=X81-4
+Added Pin To Net: NetName=NetX81_4 Pin=X82-1
+Added Net: Name=NetX81_4
+Added Pin To Net: NetName=NetX86_1 Pin=X86-1
+Added Pin To Net: NetName=NetX86_1 Pin=X89-4
+Added Net: Name=NetX86_1
+Added Pin To Net: NetName=NetX86_2 Pin=X86-2
+Added Pin To Net: NetName=NetX86_2 Pin=X90-2
+Added Pin To Net: NetName=NetX86_2 Pin=X94-2
+Added Pin To Net: NetName=NetX86_2 Pin=X95-2
+Added Pin To Net: NetName=NetX86_2 Pin=X96-2
+Added Pin To Net: NetName=NetX86_2 Pin=X98-2
+Added Pin To Net: NetName=NetX86_2 Pin=X99-2
+Added Pin To Net: NetName=NetX86_2 Pin=X100-2
+Added Pin To Net: NetName=NetX86_2 Pin=X101-1
+Added Net: Name=NetX86_2
+Added Pin To Net: NetName=NetX87_1 Pin=X87-1
+Added Pin To Net: NetName=NetX87_1 Pin=X93-1
+Added Net: Name=NetX87_1
+Added Pin To Net: NetName=NetX87_2 Pin=X87-2
+Added Pin To Net: NetName=NetX87_2 Pin=X92-1
+Added Net: Name=NetX87_2
+Added Pin To Net: NetName=NetX87_3 Pin=X87-3
+Added Pin To Net: NetName=NetX87_3 Pin=X91-1
+Added Net: Name=NetX87_3
+Added Pin To Net: NetName=NetX88_1 Pin=X88-1
+Added Pin To Net: NetName=NetX88_1 Pin=X88-1
+Added Pin To Net: NetName=NetX88_1 Pin=X91-2
+Added Net: Name=NetX88_1
+Added Pin To Net: NetName=NetX88_2 Pin=X88-2
+Added Pin To Net: NetName=NetX88_2 Pin=X92-2
+Added Net: Name=NetX88_2
+Added Pin To Net: NetName=NetX88_3 Pin=X88-3
+Added Pin To Net: NetName=NetX88_3 Pin=X93-2
+Added Net: Name=NetX88_3
+Added Pin To Net: NetName=NetX89_1 Pin=X89-1
+Added Pin To Net: NetName=NetX89_1 Pin=X95-1
+Added Net: Name=NetX89_1
+Added Pin To Net: NetName=NetX89_2 Pin=X89-2
+Added Pin To Net: NetName=NetX89_2 Pin=X94-1
+Added Net: Name=NetX89_2
+Added Pin To Net: NetName=NetX89_3 Pin=X89-3
+Added Pin To Net: NetName=NetX89_3 Pin=X90-1
+Added Net: Name=NetX89_3
+Added Pin To Net: NetName=NetX96_1 Pin=X96-1
+Added Pin To Net: NetName=NetX96_1 Pin=X97-4
+Added Net: Name=NetX96_1
+Added Pin To Net: NetName=NetX97_1 Pin=X97-1
+Added Pin To Net: NetName=NetX97_1 Pin=X100-1
+Added Net: Name=NetX97_1
+Added Pin To Net: NetName=NetX97_2 Pin=X97-2
+Added Pin To Net: NetName=NetX97_2 Pin=X99-1
+Added Net: Name=NetX97_2
+Added Pin To Net: NetName=NetX97_3 Pin=X97-3
+Added Pin To Net: NetName=NetX97_3 Pin=X98-1
+Added Net: Name=NetX97_3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X6 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X33 JP3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X35 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X36 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X37 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X38 JP3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X39 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X40 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X41 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X42 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X43 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X44 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X45 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X47 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X48 JP2
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X49 Medium & Large QMatrix Wheel
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X50 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X51 Medium Resitively Interpolated QMatrix Wheel
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X52 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X53 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X54 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X55 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X56 JP2
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X57 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X58 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X59 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X60 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X61 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X62 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X63 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X64 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X65 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X66 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X67 JP2
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X68 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X69 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X70 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X71 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X72 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X73 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X74 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X75 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X76 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X77 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X78 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X79 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X80 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X81 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X82 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X83 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X84 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X85 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X86 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X87 JP3
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X88 Medium QTouch Slider
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X89 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X90 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X91 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X92 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X93 RES
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X94 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X95 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X96 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X97 JP4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X98 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X99 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X100 Cap
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component X101 JP1
+Added Room: Name=w47_LED_RGB_pinout

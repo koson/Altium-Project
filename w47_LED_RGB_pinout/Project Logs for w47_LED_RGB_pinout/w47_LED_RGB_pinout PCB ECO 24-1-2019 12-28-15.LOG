@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C6 Old Footprint=JP4-D1C New Footprint=JP4-C1T
+Change Component Footprint: Designator=C8 Old Footprint=JP4-D1C New Footprint=JP4-C1T
+Change Component Footprint: Designator=C12 Old Footprint=JP4-D1C New Footprint=JP4-C1T
+Change Component Footprint: Designator=C10 Old Footprint=JP16-D1C New Footprint=JP16-D1T
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS8 Small QTouch Slider
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS11 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS12 QTouch Button
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS12 QMatrix Button
+Added Room: Name=w47_LED_RGB_pinout

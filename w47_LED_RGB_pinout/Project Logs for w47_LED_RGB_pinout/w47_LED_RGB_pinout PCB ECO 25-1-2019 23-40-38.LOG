@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetX11_1 Pin=X12-1
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=X14
+Change Component Footprint: Designator=X11 Old Footprint=JP1-D1T New Footprint=JP2-C1T
+Change Component Comment : Designator=X11 Old Comment=JP1 New Comment=JP2
+Added Pin To Net: NetName=NetX11_1 Pin=X15-1
+Added Pin To Net: NetName=NetX11_2 Pin=X11-2
+Added Pin To Net: NetName=NetX11_2 Pin=X12-1
+Added Net: Name=NetX11_2

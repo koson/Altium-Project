@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIODE - Horizontal New Footprint=DIODE - VERTICAL
+Change Component Description : Designator=C1 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Added Component: Designator=RL?(RL_SPDT_10A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=mach-relay Member=Component RL? Relay 10A/12V
+Added Room: Name=mach-relay

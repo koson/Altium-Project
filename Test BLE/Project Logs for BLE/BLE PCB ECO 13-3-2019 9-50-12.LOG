@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=B1 Pin=button1-1
+Removed Pin From Net: NetName=B1 Pin=button1-1
+Removed Pin From Net: NetName=GND Pin=button1-2
+Removed Pin From Net: NetName=GND Pin=button1-2
+Removed Member From Class: ClassName=BLE Member=button1
+Added Component: Designator=S1(button_smd)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(button_smd)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(button_smd)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=B1 Pin=S1-1
+Added Pin To Net: NetName=B1 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=B2 Pin=S2-1
+Added Pin To Net: NetName=B2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=B3 Pin=S3-1
+Added Pin To Net: NetName=B3 Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Member To Class: ClassName=BLE Member=Component S1 Button
+Added Member To Class: ClassName=BLE Member=Component S2 Button
+Added Member To Class: ClassName=BLE Member=Component S3 Button

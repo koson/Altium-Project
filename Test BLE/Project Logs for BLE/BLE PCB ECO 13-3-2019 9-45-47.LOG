@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=Vcc Pin=*-+
+Removed Pin From Net: NetName=Vcc Pin=*-+
+Removed Pin From Net: NetName=GND Pin=*--
+Removed Pin From Net: NetName=NetBLE1_48 Pin=R2-1
+Removed Member From Class: ClassName=BLE Member=*
+Change Component Footprint: Designator=C1 Old Footprint=C1206 New Footprint=CAP-0805
+Change Component Footprint: Designator=R1 Old Footprint=RES-SMD-1206 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-1206 New Footprint=RES-SMD-0805
+Change Component Comment : Designator=C1 Old Comment=Cap Semi New Comment=Cap
+Change Component Designator: OldDesignator=B1 NewDesignator=button1
+Change component parameters: Designator = "C1"; Footprint = "CAP-0805"; UniqueID = "\HLNUSDXV"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=C2(CAP-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED2(LED-0805-Red)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-0805-Red)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=Vcc Pin=R3-2
+Change Net Name : Old Net Name=NetBLE1_48 New Net Name=B1
+Added Pin To Net: NetName=B2 Pin=BLE1-49
+Added Pin To Net: NetName=B2 Pin=C2-1
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=BLE1-50
+Added Pin To Net: NetName=B3 Pin=C3-1
+Added Net: Name=B3
+Added Pin To Net: NetName=L1 Pin=BLE1-51
+Added Pin To Net: NetName=L1 Pin=LED1-2
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=BLE1-52
+Added Pin To Net: NetName=L2 Pin=LED2-2
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=BLE1-53
+Added Pin To Net: NetName=L3 Pin=LED3-2
+Added Net: Name=L3
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R3-1
+Added Net: Name=NetLED3_1
+Added Member To Class: ClassName=BLE Member=Component C2 Cap
+Added Member To Class: ClassName=BLE Member=Component C3 Cap
+Added Member To Class: ClassName=BLE Member=Component LED2 LED
+Added Member To Class: ClassName=BLE Member=Component LED3 LED
+Added Member To Class: ClassName=BLE Member=Component R3 Res
+Added Room: Name=BLE

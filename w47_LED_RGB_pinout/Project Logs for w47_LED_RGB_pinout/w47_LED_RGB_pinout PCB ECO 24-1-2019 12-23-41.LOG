@@ -1,0 +1,216 @@
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=CS16
+Change Component Designator: OldDesignator=C?1 NewDesignator=C12
+Change Component Designator: OldDesignator=C?2 NewDesignator=C11
+Change Component Designator: OldDesignator=C?3 NewDesignator=C9
+Change Component Designator: OldDesignator=C?4 NewDesignator=C10
+Change Component Designator: OldDesignator=C?5 NewDesignator=C8
+Change Component Designator: OldDesignator=C?6 NewDesignator=C7
+Change Component Designator: OldDesignator=C?7 NewDesignator=C6
+Change Component Designator: OldDesignator=C?8 NewDesignator=C5
+Change Component Designator: OldDesignator=C?9 NewDesignator=C3
+Change Component Designator: OldDesignator=C?10 NewDesignator=C4
+Change Component Designator: OldDesignator=C?11 NewDesignator=C2
+Change Component Designator: OldDesignator=C?12 NewDesignator=C1
+Change Component Designator: OldDesignator=CS1 NewDesignator=CS12
+Change Component Designator: OldDesignator=CS2 NewDesignator=CS9
+Change Component Designator: OldDesignator=CS3 NewDesignator=CS11
+Change Component Designator: OldDesignator=CS4 NewDesignator=CS10
+Change Component Designator: OldDesignator=CS6 NewDesignator=CS7
+Change Component Designator: OldDesignator=CS7 NewDesignator=CS2
+Change Component Designator: OldDesignator=CS8 NewDesignator=CS3
+Change Component Designator: OldDesignator=CS9 NewDesignator=CS6
+Change Component Designator: OldDesignator=CS10 NewDesignator=CS4
+Change Component Designator: OldDesignator=CS11 NewDesignator=CS1
+Change Component Designator: OldDesignator=CS14 NewDesignator=CS11
+Change Component Designator: OldDesignator=CS15 NewDesignator=CS12
+Change Component Designator: OldDesignator=CS16 NewDesignator=CS8
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC?_3 New Net Name=NetC2_3
+Change Net Name : Old Net Name=NetC?_4 New Net Name=NetC10_4
+Change Net Name : Old Net Name=NetC?_5 New Net Name=NetC10_5
+Change Net Name : Old Net Name=NetC?_6 New Net Name=NetC10_6
+Change Net Name : Old Net Name=NetC?_7 New Net Name=NetC10_7
+Change Net Name : Old Net Name=NetC?_8 New Net Name=NetC4_8
+Change Net Name : Old Net Name=NetC?_9 New Net Name=NetC4_9
+Change Net Name : Old Net Name=NetC?_10 New Net Name=NetC4_10
+Change Net Name : Old Net Name=NetC?_11 New Net Name=NetC4_11
+Change Net Name : Old Net Name=NetC?_12 New Net Name=NetC4_12
+Change Net Name : Old Net Name=NetC?_13 New Net Name=NetC10_13
+Change Net Name : Old Net Name=NetC?_14 New Net Name=NetC10_14
+Change Net Name : Old Net Name=NetC?_15 New Net Name=NetC10_15
+Change Net Name : Old Net Name=NetC?_16 New Net Name=NetC10_16
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=CS5-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=CS5-1
+Added Pin To Net: NetName=NetC1_3 Pin=CS5-1
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=CS4-3
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=CS4-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=CS2-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=CS2-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC3_3 Pin=C3-3
+Added Pin To Net: NetName=NetC3_3 Pin=CS2-1
+Added Net: Name=NetC3_3
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=CS7-12
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=CS7-11
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC4_3 Pin=C4-3
+Added Pin To Net: NetName=NetC4_3 Pin=CS7-10
+Added Net: Name=NetC4_3
+Added Pin To Net: NetName=NetC4_4 Pin=C4-4
+Added Pin To Net: NetName=NetC4_4 Pin=CS7-9
+Added Net: Name=NetC4_4
+Added Pin To Net: NetName=NetC4_5 Pin=C4-5
+Added Pin To Net: NetName=NetC4_5 Pin=CS7-8
+Added Net: Name=NetC4_5
+Added Pin To Net: NetName=NetC4_6 Pin=C4-6
+Added Pin To Net: NetName=NetC4_6 Pin=CS7-7
+Added Net: Name=NetC4_6
+Added Pin To Net: NetName=NetC4_7 Pin=C4-7
+Added Pin To Net: NetName=NetC4_7 Pin=CS7-6
+Added Net: Name=NetC4_7
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=CS9-7
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_3 Pin=C5-3
+Added Pin To Net: NetName=NetC5_3 Pin=CS9-5
+Added Net: Name=NetC5_3
+Added Pin To Net: NetName=NetC5_4 Pin=C5-4
+Added Pin To Net: NetName=NetC5_4 Pin=CS9-4
+Added Net: Name=NetC5_4
+Added Pin To Net: NetName=NetC5_5 Pin=C5-5
+Added Pin To Net: NetName=NetC5_5 Pin=CS9-3
+Added Net: Name=NetC5_5
+Added Pin To Net: NetName=NetC5_6 Pin=C5-6
+Added Pin To Net: NetName=NetC5_6 Pin=CS9-2
+Added Net: Name=NetC5_6
+Added Pin To Net: NetName=NetC5_7 Pin=C5-7
+Added Pin To Net: NetName=NetC5_7 Pin=CS9-1
+Added Net: Name=NetC5_7
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=CS6-4
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=CS6-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC6_3 Pin=C6-3
+Added Pin To Net: NetName=NetC6_3 Pin=CS6-2
+Added Net: Name=NetC6_3
+Added Pin To Net: NetName=NetC6_4 Pin=C6-4
+Added Pin To Net: NetName=NetC6_4 Pin=CS6-1
+Added Net: Name=NetC6_4
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=CS8-3
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=CS8-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC7_3 Pin=C7-3
+Added Pin To Net: NetName=NetC7_3 Pin=CS8-1
+Added Pin To Net: NetName=NetC7_3 Pin=CS8-1
+Added Net: Name=NetC7_3
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=CS12-Y
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=CS12-X
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC8_3 Pin=C8-3
+Added Pin To Net: NetName=NetC8_3 Pin=CS11-Y
+Added Net: Name=NetC8_3
+Added Pin To Net: NetName=NetC8_4 Pin=C8-4
+Added Pin To Net: NetName=NetC8_4 Pin=CS11-X
+Added Net: Name=NetC8_4
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=CS1-8
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=CS1-7
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC9_3 Pin=C9-3
+Added Pin To Net: NetName=NetC9_3 Pin=CS1-6
+Added Net: Name=NetC9_3
+Added Pin To Net: NetName=NetC9_4 Pin=C9-4
+Added Pin To Net: NetName=NetC9_4 Pin=CS1-5
+Added Net: Name=NetC9_4
+Added Pin To Net: NetName=NetC9_5 Pin=C9-5
+Added Pin To Net: NetName=NetC9_5 Pin=CS1-4
+Added Net: Name=NetC9_5
+Added Pin To Net: NetName=NetC9_6 Pin=C9-6
+Added Pin To Net: NetName=NetC9_6 Pin=CS1-3
+Added Net: Name=NetC9_6
+Added Pin To Net: NetName=NetC9_7 Pin=C9-7
+Added Pin To Net: NetName=NetC9_7 Pin=CS1-2
+Added Net: Name=NetC9_7
+Added Pin To Net: NetName=NetC9_8 Pin=C9-8
+Added Pin To Net: NetName=NetC9_8 Pin=CS1-1
+Added Net: Name=NetC9_8
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=CS3-16
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=CS3-15
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC10_3 Pin=C10-3
+Added Pin To Net: NetName=NetC10_3 Pin=CS3-14
+Added Net: Name=NetC10_3
+Added Pin To Net: NetName=NetC10_8 Pin=C10-8
+Added Pin To Net: NetName=NetC10_8 Pin=CS3-9
+Added Net: Name=NetC10_8
+Added Pin To Net: NetName=NetC10_9 Pin=C10-9
+Added Pin To Net: NetName=NetC10_9 Pin=CS3-8
+Added Net: Name=NetC10_9
+Added Pin To Net: NetName=NetC10_10 Pin=C10-10
+Added Pin To Net: NetName=NetC10_10 Pin=CS3-7
+Added Net: Name=NetC10_10
+Added Pin To Net: NetName=NetC10_11 Pin=C10-11
+Added Pin To Net: NetName=NetC10_11 Pin=CS3-6
+Added Net: Name=NetC10_11
+Added Pin To Net: NetName=NetC10_12 Pin=C10-12
+Added Pin To Net: NetName=NetC10_12 Pin=CS3-5
+Added Net: Name=NetC10_12
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=CS12-6
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=CS12-5
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC11_3 Pin=C11-3
+Added Pin To Net: NetName=NetC11_3 Pin=CS12-4
+Added Net: Name=NetC11_3
+Added Pin To Net: NetName=NetC11_4 Pin=C11-4
+Added Pin To Net: NetName=NetC11_4 Pin=CS12-3
+Added Net: Name=NetC11_4
+Added Pin To Net: NetName=NetC11_5 Pin=C11-5
+Added Pin To Net: NetName=NetC11_5 Pin=CS12-2
+Added Net: Name=NetC11_5
+Added Pin To Net: NetName=NetC11_6 Pin=C11-6
+Added Pin To Net: NetName=NetC11_6 Pin=CS12-1
+Added Net: Name=NetC11_6
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=CS12-1
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=CS13-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC12_3 Pin=C12-3
+Added Pin To Net: NetName=NetC12_3 Pin=CS11-1
+Added Net: Name=NetC12_3
+Added Pin To Net: NetName=NetC12_4 Pin=C12-4
+Added Pin To Net: NetName=NetC12_4 Pin=CS10-1
+Added Net: Name=NetC12_4
+Added Member To Class: ClassName=w47_LED_RGB_pinout Member=Component CS12 QTouch Button

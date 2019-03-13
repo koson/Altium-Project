@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=w47_LED_RGB_pinout Member=C?
+Change Component Footprint: Designator=X86 Old Footprint=Cap New Footprint=CAP_2
+Change Component Footprint: Designator=X90 Old Footprint=Cap New Footprint=CAP_2
+Change Component Footprint: Designator=X94 Old Footprint=Cap New Footprint=CAP_2
+Change Component Footprint: Designator=X95 Old Footprint=Cap New Footprint=CAP_2
