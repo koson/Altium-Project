@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=B1 Pin=BLE1-48
+Removed Pin From Net: NetName=B2 Pin=BLE1-49
+Removed Pin From Net: NetName=B3 Pin=BLE1-50
+Removed Pin From Net: NetName=L1 Pin=BLE1-51
+Removed Pin From Net: NetName=L2 Pin=BLE1-52
+Removed Pin From Net: NetName=L3 Pin=BLE1-53
+Change Component Description : Designator=BLE1 Old Description=Holyiot 18010 B?c Âu nRF52840 module Bluetooth mô-dun nang lu?ng th?p h?i d?ng phát tri?n cho BLE lu?i bluetooth 5 New Description=Holyiot 18010 B?c Âu nRF52840 module Bluetooth mô-dun nang lu?ng th?p h?i d?ng phát tri?n cho BLE lu?i bluetooth 5
+Added Component: Designator=C4(CAP-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CAP-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S?(button_smd)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=B1 Pin=BLE1-49
+Added Pin To Net: NetName=B2 Pin=BLE1-50
+Added Pin To Net: NetName=B3 Pin=BLE1-51
+Added Pin To Net: NetName=L1 Pin=BLE1-52
+Added Pin To Net: NetName=L2 Pin=BLE1-53
+Added Pin To Net: NetName=L3 Pin=BLE1-54
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Vcc Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=Vcc Pin=R?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=Reset Pin=BLE1-48
+Added Pin To Net: NetName=Reset Pin=C?-2
+Added Pin To Net: NetName=Reset Pin=R?-1
+Added Pin To Net: NetName=Reset Pin=S?-1
+Added Pin To Net: NetName=Reset Pin=S?-1
+Added Net: Name=Reset
+Added Member To Class: ClassName=BLE Member=Component C4 Cap
+Added Member To Class: ClassName=BLE Member=Component C? Cap
+Added Member To Class: ClassName=BLE Member=Component R? 10k
+Added Member To Class: ClassName=BLE Member=Component S? Button
+Added Room: Name=BLE

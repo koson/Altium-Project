@@ -1,0 +1,78 @@
+Removed Member From Class: ClassName=24 to 12V regulator Member=JDC
+Added Component: Designator=C1(Pol_200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(Pol_200mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(CAP_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAP_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(DIODE - Horizontal)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(DIODE - Horizontal)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H1(Header 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(Header 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1(JDC - 5.5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(LED0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(POT_5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(LM317T)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1--
+Added Pin To Net: NetName=GND Pin=C2--
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H2-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=L1-C
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=C4-2
+Added Pin To Net: NetName=NetC1_+ Pin=D1-C
+Added Pin To Net: NetName=NetC1_+ Pin=H2-1
+Added Pin To Net: NetName=NetC1_+ Pin=J1-1
+Added Pin To Net: NetName=NetC1_+ Pin=U1-3
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetC2_+ Pin=C2-+
+Added Pin To Net: NetName=NetC2_+ Pin=C3-2
+Added Pin To Net: NetName=NetC2_+ Pin=D1-A
+Added Pin To Net: NetName=NetC2_+ Pin=D2-C
+Added Pin To Net: NetName=NetC2_+ Pin=H1-1
+Added Pin To Net: NetName=NetC2_+ Pin=R1-2
+Added Pin To Net: NetName=NetC2_+ Pin=R2-2
+Added Pin To Net: NetName=NetC2_+ Pin=U1-2
+Added Net: Name=NetC2_+
+Added Pin To Net: NetName=NetL1_A Pin=L1-A
+Added Pin To Net: NetName=NetL1_A Pin=R2-1
+Added Net: Name=NetL1_A
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-3
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=24 to 12V regulator Member=Component C1 22uF
+Added Member To Class: ClassName=24 to 12V regulator Member=Component C2 1uF
+Added Member To Class: ClassName=24 to 12V regulator Member=Component C3 105
+Added Member To Class: ClassName=24 to 12V regulator Member=Component C4 105
+Added Member To Class: ClassName=24 to 12V regulator Member=Component D1 Diode
+Added Member To Class: ClassName=24 to 12V regulator Member=Component D2 Diode
+Added Member To Class: ClassName=24 to 12V regulator Member=Component H1 HD_2
+Added Member To Class: ClassName=24 to 12V regulator Member=Component H2 HD_2
+Added Member To Class: ClassName=24 to 12V regulator Member=Component J1 24V input
+Added Member To Class: ClassName=24 to 12V regulator Member=Component L1 LED
+Added Member To Class: ClassName=24 to 12V regulator Member=Component R1 220R
+Added Member To Class: ClassName=24 to 12V regulator Member=Component R2 RES
+Added Member To Class: ClassName=24 to 12V regulator Member=Component R3 POT_RES
+Added Member To Class: ClassName=24 to 12V regulator Member=Component U1 LM317T

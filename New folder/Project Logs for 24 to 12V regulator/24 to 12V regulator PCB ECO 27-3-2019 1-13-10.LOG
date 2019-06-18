@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetL1_A Pin=R2-1
+Removed Pin From Net: NetName=NetC2_+ Pin=R2-2
+Added Pin To Net: NetName=NetC2_+ Pin=R2-1
+Added Pin To Net: NetName=NetL1_A Pin=R2-2
+Added Room: Name=24 to 12V regulator

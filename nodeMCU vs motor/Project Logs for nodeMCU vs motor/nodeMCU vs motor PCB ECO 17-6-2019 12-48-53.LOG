@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=M3-9
+Removed Pin From Net: NetName=GND Pin=M3-25
+Change Component Footprint: Designator=M3 Old Footprint=NODEMCU_V1.0_LABLE_INSIDE New Footprint=NODEMCU_V1.0_LABEL_OUTSIDE
+Added Room: Name=nodeMCU vs motor

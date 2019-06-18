@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=B3 Pin=BLE1-4
+Removed Pin From Net: NetName=B2 Pin=BLE1-7
+Added Pin To Net: NetName=B3 Pin=BLE1-6
+Added Pin To Net: NetName=B2 Pin=BLE1-10
+Added Room: Name=BLE

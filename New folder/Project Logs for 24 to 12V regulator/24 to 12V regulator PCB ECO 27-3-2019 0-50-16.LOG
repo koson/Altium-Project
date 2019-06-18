@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=LED0805 New Footprint=LED-200mil
+Change Component Footprint: Designator=R1 Old Footprint=RES0805 New Footprint=RES
+Change Component Footprint: Designator=R2 Old Footprint=RES0805 New Footprint=RES
+Added Room: Name=24 to 12V regulator

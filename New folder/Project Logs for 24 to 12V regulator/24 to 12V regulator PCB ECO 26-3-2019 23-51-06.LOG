@@ -1,0 +1,5 @@
+Added Component: Designator=JDC(DC0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Class: Name=24 to 12V regulator
+Added Room: Name=24 to 12V regulator

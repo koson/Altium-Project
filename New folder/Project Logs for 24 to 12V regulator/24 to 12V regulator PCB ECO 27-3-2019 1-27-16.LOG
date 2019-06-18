@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIODE - VERTICAL New Footprint=Diode
+Change Component Description : Designator=R1 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=R2 Old Description=di?n tr? size nh? New Description=di?n tr? size nh?
+Change Component Description : Designator=C1 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Change Component Description : Designator=C2 Old Description=T? di?n phân c?c New Description=T? di?n phân c?c
+Added Room: Name=24 to 12V regulator

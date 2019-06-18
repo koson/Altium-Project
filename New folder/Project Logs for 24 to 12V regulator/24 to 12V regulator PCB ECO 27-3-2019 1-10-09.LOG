@@ -1,0 +1,5 @@
+Added Component: Designator=J?(JP_2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_+ Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=24 to 12V regulator Member=Component J? JP_2

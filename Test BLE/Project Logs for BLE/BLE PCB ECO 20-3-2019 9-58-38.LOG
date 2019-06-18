@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=B1 Pin=BLE1-49
+Removed Pin From Net: NetName=B2 Pin=BLE1-50
+Removed Pin From Net: NetName=B3 Pin=BLE1-51
+Removed Pin From Net: NetName=L1 Pin=BLE1-52
+Removed Pin From Net: NetName=L2 Pin=BLE1-53
+Removed Pin From Net: NetName=L3 Pin=BLE1-54
+Change Component Designator: OldDesignator=S4 NewDesignator=S_R
+Added Pin To Net: NetName=B1 Pin=BLE1-8
+Added Pin To Net: NetName=B2 Pin=BLE1-9
+Added Pin To Net: NetName=B3 Pin=BLE1-10
+Added Pin To Net: NetName=L1 Pin=BLE1-50
+Added Pin To Net: NetName=L2 Pin=BLE1-51
+Added Pin To Net: NetName=L3 Pin=BLE1-52
+Added Room: Name=BLE
